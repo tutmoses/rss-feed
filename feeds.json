@@ -1,6 +1,15 @@
 {
   "items": [
     {
+      "title": "Multi‑Factor Smart Accounts Arrive on Stokenet: Phase 1 is Live | The Radix Blog | Radix DLT",
+      "link": "https://www.radixdlt.com/blog/multi-factor-smart-accounts-arrive-on-stokenet-phase-1-is-live",
+      "description": "Phase 1 of Multi‑Factor Smart Accounts (MFA) is now live on Stokenet, bringing the first version of Radix’s new Security Shield to the Radix Wallet. U",
+      "date": "Wed, 01 Oct 2025 14:55:35 GMT",
+      "dateObj": "2025-10-01T14:55:35+00:00",
+      "image": "https://cdn.prod.website-files.com/60540b6d30224a7cb015203a/68dd3db1a033f8109cff9efa_MFA%20Phase%201%20Radix%20Wallet.png",
+      "source": "RadixDLT"
+    },
+    {
       "title": "Understanding DeFi Looping Strategies on Radix | The Radix Blog | Radix DLT",
       "link": "https://www.radixdlt.com/blog/understanding-defi-looping-strategies-on-radix",
       "description": "DeFi looping is one of the most popular strategies for amplifying yields and gaining leveraged exposure to assets. On Radix, platforms like Root and W",
@@ -1333,15 +1342,6 @@
       "source": "RadixDLT"
     },
     {
-      "title": "Flash Liquidity Launch Partners | The Radix Blog | Radix DLT",
-      "link": "https://www.radixdlt.com/blog/flash-liquidity-launch-partners",
-      "description": "",
-      "date": "Thu, 05 Sep 2024 08:25:56 GMT",
-      "dateObj": "2024-09-05T08:25:56+00:00",
-      "image": "https://cdn.prod.website-files.com/60540b6d30224a7cb015203a/66cdea6aa81023ee72c8a41f_Flash%20Liquidity%20-%20Launch%20Partners%20(1).png",
-      "source": "RadixDLT"
-    },
-    {
       "title": "Adjustments to Liquidity Incentive Program",
       "link": "https://blog.caviarnine.com/adjustments-to-liquidity-incentive-program-0de6fa6a293b?source=rss----799c4124a86b---4",
       "description": "Updates on Airdrop RewardsAs we approach the initial six-month phase of our enhanced Liquidity Incentive Program, we’ve had the opportunity to review ",
@@ -1657,5 +1657,5 @@
       "source": "Ociswap"
     }
   ],
-  "updated": "2025-10-01T14:38:03.645679"
+  "updated": "2025-10-01T15:01:28.581689"
 }
