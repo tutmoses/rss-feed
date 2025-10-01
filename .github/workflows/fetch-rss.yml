@@ -64,11 +64,13 @@ jobs:
             if img:
                 return img.group(1)
             
-            # 4. First image in description
-            desc = extract_text(r'<description[^>]*>(.*?)</description>', item_xml)
-            img = re.search(r'<img[^>]*src=["\']([^"\']+)["\']', desc)
-            if img:
-                return img.group(1)
+            # 4. First image in description or content:encoded
+            desc = (extract_text(r'<description[^>]*>(.*?)</description>', item_xml) or
+                   extract_text(r'<content:encoded[^>]*>(.*?)</content:encoded>', item_xml))
+            if desc:
+                img = re.search(r'<img[^>]*src=["\']([^"\']+)["\']', desc)
+                if img:
+                    return img.group(1)
             
             return ''
 
@@ -110,6 +112,7 @@ jobs:
                         
                         desc = (extract_text(r'<description[^>]*>(.*?)</description>', item_xml) or
                                extract_text(r'<summary[^>]*>(.*?)</summary>', item_xml) or
+                               extract_text(r'<content:encoded[^>]*>(.*?)</content:encoded>', item_xml) or
                                extract_text(r'<content[^>]*>(.*?)</content>', item_xml))
                         desc = clean_html(desc)[:150]
                         
