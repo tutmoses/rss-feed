@@ -20,10 +20,9 @@ jobs:
       run: |
         cat > fetch_rss.py << 'EOF'
         import urllib.request
-        import xml.etree.ElementTree as ET
         import json
         from datetime import datetime
-        import html
+        import re
 
         feeds = [
             {'url': 'https://www.radixdlt.com/post/rss.xml', 'name': 'RadixDLT'},
@@ -32,60 +31,78 @@ jobs:
 
         items = []
 
+        def extract_text(pattern, text):
+            match = re.search(pattern, text, re.DOTALL)
+            return match.group(1).strip() if match else ''
+
+        def clean_html(text):
+            # Remove HTML tags and decode entities
+            text = re.sub(r'<[^>]+>', '', text)
+            text = text.replace('&lt;', '<').replace('&gt;', '>').replace('&amp;', '&')
+            text = text.replace('&quot;', '"').replace('&#39;', "'").replace('&nbsp;', ' ')
+            return text.strip()
+
         for feed in feeds:
             try:
-                with urllib.request.urlopen(feed['url'], timeout=10) as response:
-                    xml_data = response.read().decode('utf-8')
-                    root = ET.fromstring(xml_data)
+                print(f"Fetching {feed['name']} from {feed['url']}")
+                req = urllib.request.Request(feed['url'], headers={'User-Agent': 'Mozilla/5.0'})
+                
+                with urllib.request.urlopen(req, timeout=15) as response:
+                    xml_text = response.read().decode('utf-8', errors='ignore')
                     
-                    # Handle both RSS and Atom formats
-                    for item in root.findall('.//item') + root.findall('.//{http://www.w3.org/2005/Atom}entry'):
-                        title_elem = item.find('title') or item.find('{http://www.w3.org/2005/Atom}title')
-                        link_elem = item.find('link') or item.find('{http://www.w3.org/2005/Atom}link')
-                        desc_elem = (item.find('description') or 
-                                   item.find('{http://www.w3.org/2005/Atom}summary') or 
-                                   item.find('{http://www.w3.org/2005/Atom}content'))
-                        date_elem = (item.find('pubDate') or 
-                                   item.find('{http://www.w3.org/2005/Atom}published') or 
-                                   item.find('{http://www.w3.org/2005/Atom}updated'))
+                    # Find all items (handles both <item> and <entry>)
+                    item_pattern = r'<(?:item|entry)>(.*?)</(?:item|entry)>'
+                    items_found = re.findall(item_pattern, xml_text, re.DOTALL)
+                    
+                    print(f"Found {len(items_found)} items in {feed['name']}")
+                    
+                    for item_xml in items_found:
+                        # Extract title
+                        title = extract_text(r'<title[^>]*>(.*?)</title>', item_xml)
+                        title = clean_html(title)
                         
-                        title = html.unescape(title_elem.text) if title_elem is not None and title_elem.text else ''
+                        # Extract link
+                        link = extract_text(r'<link[^>]*>(.*?)</link>', item_xml)
+                        if not link:
+                            link_match = re.search(r'<link[^>]*href=["\']([^"\']+)["\']', item_xml)
+                            link = link_match.group(1) if link_match else ''
+                        link = link.strip()
                         
-                        # Handle link element (could be text or href attribute)
-                        if link_elem is not None:
-                            link = link_elem.text if link_elem.text else link_elem.get('href', '')
-                        else:
-                            link = ''
+                        # Extract description
+                        desc = (extract_text(r'<description[^>]*>(.*?)</description>', item_xml) or
+                               extract_text(r'<summary[^>]*>(.*?)</summary>', item_xml) or
+                               extract_text(r'<content[^>]*>(.*?)</content>', item_xml))
+                        desc = clean_html(desc)[:150]
                         
-                        # Clean description
-                        desc = ''
-                        if desc_elem is not None and desc_elem.text:
-                            desc = html.unescape(desc_elem.text)
-                            # Remove HTML tags
-                            import re
-                            desc = re.sub('<[^<]+?>', '', desc).strip()[:150]
+                        # Extract date
+                        date = (extract_text(r'<pubDate[^>]*>(.*?)</pubDate>', item_xml) or
+                               extract_text(r'<published[^>]*>(.*?)</published>', item_xml) or
+                               extract_text(r'<updated[^>]*>(.*?)</updated>', item_xml) or
+                               extract_text(r'<dc:date[^>]*>(.*?)</dc:date>', item_xml))
                         
-                        date = date_elem.text if date_elem is not None and date_elem.text else ''
-                        
-                        items.append({
-                            'title': title,
-                            'link': link,
-                            'description': desc,
-                            'date': date,
-                            'source': feed['name']
-                        })
+                        if title or link:  # Only add if we have at least a title or link
+                            items.append({
+                                'title': title,
+                                'link': link,
+                                'description': desc,
+                                'date': date,
+                                'source': feed['name']
+                            })
+                            print(f"  Added: {title[:50]}...")
                         
             except Exception as e:
                 print(f"Error fetching {feed['name']}: {str(e)}")
+                import traceback
+                traceback.print_exc()
 
         # Sort by date (newest first)
         items.sort(key=lambda x: x['date'], reverse=True)
 
         # Save to JSON
         with open('feeds.json', 'w', encoding='utf-8') as f:
-            json.dump({'items': items, 'updated': datetime.utcnow().isoformat()}, f, indent=2)
+            json.dump({'items': items, 'updated': datetime.utcnow().isoformat()}, f, indent=2, ensure_ascii=False)
 
-        print(f"Successfully fetched {len(items)} items")
+        print(f"Successfully saved {len(items)} items to feeds.json")
         EOF
 
         python3 fetch_rss.py
