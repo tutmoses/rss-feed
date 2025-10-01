@@ -70,13 +70,23 @@ jobs:
             if img:
                 return img.group(1)
             
-            # 4. First image in description or content:encoded
+            # 4. Find images in description or content:encoded, excluding tracking pixels
             desc = (extract_text(r'<description[^>]*>(.*?)</description>', item_xml) or
                    extract_text(r'<content:encoded[^>]*>(.*?)</content:encoded>', item_xml))
             if desc:
-                img = re.search(r'<img[^>]*src=["\']([^"\']+)["\']', desc)
-                if img:
-                    return img.group(1)
+                # Find all img tags
+                imgs = re.findall(r'<img[^>]*src=["\']([^"\']+)["\'][^>]*>', desc)
+                for img_url in imgs:
+                    # Skip tracking pixels and 1x1 images
+                    # Check if it's a stat/tracking URL or has width="1" height="1"
+                    img_tag = re.search(r'<img[^>]*src=["\']' + re.escape(img_url) + r'["\'][^>]*>', desc)
+                    if img_tag:
+                        tag = img_tag.group(0)
+                        # Skip if it's a tracking pixel (1x1 or stat URL)
+                        if ('width="1"' in tag and 'height="1"' in tag) or '/_/stat?' in img_url:
+                            continue
+                    # Return first valid image
+                    return img_url
             
             return ''
 
