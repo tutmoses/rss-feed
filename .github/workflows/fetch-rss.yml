@@ -74,18 +74,21 @@ jobs:
             desc = (extract_text(r'<description[^>]*>(.*?)</description>', item_xml) or
                    extract_text(r'<content:encoded[^>]*>(.*?)</content:encoded>', item_xml))
             if desc:
-                # Find all img tags (both <img> and <img /> self-closing)
-                imgs = re.findall(r'<img[^>]*src=["\']([^"\']+)["\'][^>]*/?>',  desc)
+                # Debug: Print first 200 chars of content
+                # print(f"    Content preview: {desc[:200]}")
+                
+                # Find all img tags with a simpler regex that handles self-closing tags
+                imgs = re.findall(r'<img[^>]+src=["\']([^"\']+)["\']', desc)
+                # print(f"    Found {len(imgs)} images")
+                
                 for img_url in imgs:
-                    # Skip tracking pixels and 1x1 images
-                    # Check if it's a stat/tracking URL or has width="1" height="1"
-                    img_tag = re.search(r'<img[^>]*src=["\']' + re.escape(img_url) + r'["\'][^>]*/?>',  desc)
-                    if img_tag:
-                        tag = img_tag.group(0)
-                        # Skip if it's a tracking pixel (1x1 or stat URL)
-                        if ('width="1"' in tag and 'height="1"' in tag) or '/_/stat?' in img_url:
-                            continue
+                    # print(f"    Checking: {img_url[:80]}")
+                    # Skip tracking pixels (1x1 or stat URLs)
+                    if '/_/stat?' in img_url or 'width=1' in img_url or 'height=1' in img_url:
+                        # print(f"    Skipped (tracking pixel)")
+                        continue
                     # Return first valid image
+                    # print(f"    Using: {img_url}")
                     return img_url
             
             return ''
@@ -138,6 +141,10 @@ jobs:
                                    extract_text(r'<dc:date[^>]*>(.*?)</dc:date>', item_xml))
                         
                         image = extract_image(item_xml)
+                        
+                        # Debug: Print image extraction for Medium feeds
+                        if feed['name'] in ['Astrolescent', 'DelphiBets'] and title:
+                            print(f"  Image found: {image if image else 'NONE'}")
                         
                         if title or link:
                             items.append({
