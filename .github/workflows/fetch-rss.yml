@@ -32,14 +32,138 @@ jobs:
             {'url': 'https://blog.caviarnine.com/feed', 'name': 'CaviarNine'},
             {'url': 'https://medium.com/feed/@delphibets', 'name': 'DelphiBets'},
             {'url': 'https://www.youtube.com/feeds/videos.xml?channel_id=UCWz_uLkOCrmSUnLAxSY4N5Q', 'name': 'RadixDLTyouTube'},
-            {'url': 'https://medium.com/feed/@astrolescent', 'name': 'Astrolescent'}
+            {'url': 'https://medium.com/feed/@astrolescent', 'name': 'Astrolescent'},
         ]
 
         items = []
 
         def extract_text(pattern, text):
             match = re.search(pattern, text, re.DOTALL)
-            return match.group(1).strip() if match else ''
+            if match:
+                result = match.group(1).strip()
+                # Remove CDATA markers if present
+                result = re.sub(r'^<!\[CDATA\[', '', result)
+                result = re.sub(r'\]\]>
+
+        def clean_html(text):
+            text = re.sub(r'<[^>]+>', '', text)
+            text = text.replace('&lt;', '<').replace('&gt;', '>').replace('&amp;', '&')
+            text = text.replace('&quot;', '"').replace('&#39;', "'").replace('&nbsp;', ' ')
+            return text.strip()
+
+        def extract_image(item_xml):
+            # Try multiple image sources
+            # 1. Media thumbnail
+            img = re.search(r'<media:thumbnail[^>]*url=["\']([^"\']+)["\']', item_xml)
+            if img:
+                return img.group(1)
+            
+            # 2. Media content
+            img = re.search(r'<media:content[^>]*url=["\']([^"\']+)["\']', item_xml)
+            if img:
+                return img.group(1)
+            
+            # 3. Enclosure
+            img = re.search(r'<enclosure[^>]*url=["\']([^"\']+)["\']', item_xml)
+            if img:
+                return img.group(1)
+            
+            # 4. First image in description or content:encoded
+            desc = (extract_text(r'<description[^>]*>(.*?)</description>', item_xml) or
+                   extract_text(r'<content:encoded[^>]*>(.*?)</content:encoded>', item_xml))
+            if desc:
+                img = re.search(r'<img[^>]*src=["\']([^"\']+)["\']', desc)
+                if img:
+                    return img.group(1)
+            
+            return ''
+
+        def parse_date(date_str):
+            if not date_str:
+                return datetime.min
+            try:
+                # Try RFC 2822 format (common in RSS)
+                return parsedate_to_datetime(date_str)
+            except:
+                try:
+                    # Try ISO format
+                    return datetime.fromisoformat(date_str.replace('Z', '+00:00'))
+                except:
+                    return datetime.min
+
+        for feed in feeds:
+            try:
+                print(f"Fetching {feed['name']} from {feed['url']}")
+                req = urllib.request.Request(feed['url'], headers={'User-Agent': 'Mozilla/5.0'})
+                
+                with urllib.request.urlopen(req, timeout=15) as response:
+                    xml_text = response.read().decode('utf-8', errors='ignore')
+                    
+                    item_pattern = r'<(?:item|entry)>(.*?)</(?:item|entry)>'
+                    items_found = re.findall(item_pattern, xml_text, re.DOTALL)
+                    
+                    print(f"Found {len(items_found)} items in {feed['name']}")
+                    
+                    for item_xml in items_found:
+                        title = extract_text(r'<title[^>]*>(.*?)</title>', item_xml)
+                        title = clean_html(title)
+                        
+                        link = extract_text(r'<link[^>]*>(.*?)</link>', item_xml)
+                        if not link:
+                            link_match = re.search(r'<link[^>]*href=["\']([^"\']+)["\']', item_xml)
+                            link = link_match.group(1) if link_match else ''
+                        link = link.strip()
+                        
+                        desc = (extract_text(r'<description[^>]*>(.*?)</description>', item_xml) or
+                               extract_text(r'<summary[^>]*>(.*?)</summary>', item_xml) or
+                               extract_text(r'<content:encoded[^>]*>(.*?)</content:encoded>', item_xml) or
+                               extract_text(r'<content[^>]*>(.*?)</content>', item_xml))
+                        desc = clean_html(desc)[:150]
+                        
+                        date_str = (extract_text(r'<pubDate[^>]*>(.*?)</pubDate>', item_xml) or
+                                   extract_text(r'<published[^>]*>(.*?)</published>', item_xml) or
+                                   extract_text(r'<updated[^>]*>(.*?)</updated>', item_xml) or
+                                   extract_text(r'<dc:date[^>]*>(.*?)</dc:date>', item_xml))
+                        
+                        image = extract_image(item_xml)
+                        
+                        if title or link:
+                            items.append({
+                                'title': title,
+                                'link': link,
+                                'description': desc,
+                                'date': date_str,
+                                'dateObj': parse_date(date_str).isoformat(),
+                                'image': image,
+                                'source': feed['name']
+                            })
+                            print(f"  Added: {title[:50]}... (date: {date_str[:20]})")
+                        
+            except Exception as e:
+                print(f"Error fetching {feed['name']}: {str(e)}")
+                import traceback
+                traceback.print_exc()
+
+        # Sort by parsed date (newest first)
+        items.sort(key=lambda x: x['dateObj'], reverse=True)
+
+        # Save to JSON
+        with open('feeds.json', 'w', encoding='utf-8') as f:
+            json.dump({'items': items, 'updated': datetime.utcnow().isoformat()}, f, indent=2, ensure_ascii=False)
+
+        print(f"Successfully saved {len(items)} items to feeds.json")
+        EOF
+
+        python3 fetch_rss.py
+        
+    - name: Commit and push if changed
+      run: |
+        git config --global user.name 'RSS Bot'
+        git config --global user.email 'bot@github.com'
+        git add feeds.json
+        git diff --quiet && git diff --staged --quiet || (git commit -m "Update RSS feeds" && git push), '', result)
+                return result.strip()
+            return ''
 
         def clean_html(text):
             text = re.sub(r'<[^>]+>', '', text)
