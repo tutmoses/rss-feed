@@ -28,6 +28,11 @@ jobs:
         feeds = [
             {'url': 'https://www.radixdlt.com/post/rss.xml', 'name': 'RadixDLT'},
             {'url': 'https://ociswap.com/rss.xml', 'name': 'Ociswap'}
+            {'url': 'https://www.youtube.com/feeds/videos.xml?channel_id=UCyPX6MRq495nz3NwFdWJrXw', 'name': 'Kyle'}
+            {'url': 'https://blog.caviarnine.com/feed', 'name': 'CaviarNine'}
+            {'url': 'https://medium.com/feed/@delphibets', 'name': 'DelphiBets'}
+            {'url': 'https://www.youtube.com/feeds/videos.xml?channel_id=UCWz_uLkOCrmSUnLAxSY4N5Q', 'name': 'RadixDLTyouTube'}
+            {'url': 'https://medium.com/feed/@astrolescent', 'name': 'Astrolescent'}
         ]
 
         items = []
