@@ -43,7 +43,9 @@ jobs:
                 result = match.group(1).strip()
                 # Remove CDATA markers if present
                 result = re.sub(r'^<!\[CDATA\[', '', result)
-                result = re.sub(r'\]\]>
+                result = re.sub(r'\]\]>$', '', result)
+                return result.strip()
+            return ''
 
         def clean_html(text):
             text = re.sub(r'<[^>]+>', '', text)
