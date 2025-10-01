@@ -1,0 +1,98 @@
+name: Fetch RSS Feeds
+
+on:
+  schedule:
+    # Run every hour
+    - cron: '0 * * * *'
+  workflow_dispatch: # Allow manual trigger
+  push:
+    branches: [ main, master ]
+
+jobs:
+  fetch-rss:
+    runs-on: ubuntu-latest
+    
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v3
+      
+    - name: Fetch and process RSS feeds
+      run: |
+        cat > fetch_rss.py << 'EOF'
+        import urllib.request
+        import xml.etree.ElementTree as ET
+        import json
+        from datetime import datetime
+        import html
+
+        feeds = [
+            {'url': 'https://shardspace.app/blog/rss.xml', 'name': 'Shardspace'},
+            {'url': 'https://radix.wiki/blog.rss', 'name': 'Radix Wiki'}
+        ]
+
+        items = []
+
+        for feed in feeds:
+            try:
+                with urllib.request.urlopen(feed['url'], timeout=10) as response:
+                    xml_data = response.read().decode('utf-8')
+                    root = ET.fromstring(xml_data)
+                    
+                    # Handle both RSS and Atom formats
+                    for item in root.findall('.//item') + root.findall('.//{http://www.w3.org/2005/Atom}entry'):
+                        title_elem = item.find('title') or item.find('{http://www.w3.org/2005/Atom}title')
+                        link_elem = item.find('link') or item.find('{http://www.w3.org/2005/Atom}link')
+                        desc_elem = (item.find('description') or 
+                                   item.find('{http://www.w3.org/2005/Atom}summary') or 
+                                   item.find('{http://www.w3.org/2005/Atom}content'))
+                        date_elem = (item.find('pubDate') or 
+                                   item.find('{http://www.w3.org/2005/Atom}published') or 
+                                   item.find('{http://www.w3.org/2005/Atom}updated'))
+                        
+                        title = html.unescape(title_elem.text) if title_elem is not None and title_elem.text else ''
+                        
+                        # Handle link element (could be text or href attribute)
+                        if link_elem is not None:
+                            link = link_elem.text if link_elem.text else link_elem.get('href', '')
+                        else:
+                            link = ''
+                        
+                        # Clean description
+                        desc = ''
+                        if desc_elem is not None and desc_elem.text:
+                            desc = html.unescape(desc_elem.text)
+                            # Remove HTML tags
+                            import re
+                            desc = re.sub('<[^<]+?>', '', desc).strip()[:150]
+                        
+                        date = date_elem.text if date_elem is not None and date_elem.text else ''
+                        
+                        items.append({
+                            'title': title,
+                            'link': link,
+                            'description': desc,
+                            'date': date,
+                            'source': feed['name']
+                        })
+                        
+            except Exception as e:
+                print(f"Error fetching {feed['name']}: {str(e)}")
+
+        # Sort by date (newest first)
+        items.sort(key=lambda x: x['date'], reverse=True)
+
+        # Save to JSON
+        with open('feeds.json', 'w', encoding='utf-8') as f:
+            json.dump({'items': items, 'updated': datetime.utcnow().isoformat()}, f, indent=2)
+
+        print(f"Successfully fetched {len(items)} items")
+        EOF
+
+        python3 fetch_rss.py
+        
+    - name: Commit and push if changed
+      run: |
+        git config --global user.name 'RSS Bot'
+        git config --global user.email 'bot@github.com'
+        git add feeds.json
+        git diff --quiet && git diff --staged --quiet || (git commit -m "Update RSS feeds" && git push)
