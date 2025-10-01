@@ -26,8 +26,8 @@ jobs:
         import html
 
         feeds = [
-            {'url': 'https://shardspace.app/blog/rss.xml', 'name': 'Shardspace'},
-            {'url': 'https://radix.wiki/blog.rss', 'name': 'Radix Wiki'}
+            {'url': 'https://www.radixdlt.com/post/rss.xml', 'name': 'RadixDLT'},
+            {'url': 'https://ociswap.com/rss.xml', 'name': 'Ociswap'}
         ]
 
         items = []
