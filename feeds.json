@@ -1,6 +1,15 @@
 {
   "items": [
     {
+      "title": "Concentrated Liquidity vs Traditional Liquidity on Radix | The Radix Blog | Radix DLT",
+      "link": "https://www.radixdlt.com/blog/concentrated-liquidity-vs-traditional-liquidity-on-radix",
+      "description": "Discover how traditional and concentrated liquidity models shape today’s DeFi landscape on Radix. From the classic constant‑product approach to advanc",
+      "date": "Tue, 14 Oct 2025 14:15:00 GMT",
+      "dateObj": "2025-10-14T14:15:00+00:00",
+      "image": "https://cdn.prod.website-files.com/60540b6d30224a7cb015203a/68ee590d85ef9a3f411230bf_Concentrated%20vs%20traditional.png",
+      "source": "RadixDLT"
+    },
+    {
       "title": "Multi‑Factor Smart Accounts Arrive on Stokenet: Phase 1 is Live | The Radix Blog | Radix DLT",
       "link": "https://www.radixdlt.com/blog/multi-factor-smart-accounts-arrive-on-stokenet-phase-1-is-live",
       "description": "Phase 1 of Multi‑Factor Smart Accounts (MFA) is now live on Stokenet, bringing the first version of Radix’s new Security Shield to the Radix Wallet. U",
@@ -1333,15 +1342,6 @@
       "source": "RadixDLT"
     },
     {
-      "title": "Radix Endowment Manager Selected | The Radix Blog | Radix DLT",
-      "link": "https://www.radixdlt.com/blog/radix-endowment-manager-selected",
-      "description": "",
-      "date": "Thu, 05 Sep 2024 08:25:56 GMT",
-      "dateObj": "2024-09-05T08:25:56+00:00",
-      "image": "https://cdn.prod.website-files.com/60540b6d30224a7cb015203a/66cf216f3d26dbe481cd1fe9_The%20Radix%20Endowment%20Fund%20-%20Manager%20Selected.png",
-      "source": "RadixDLT"
-    },
-    {
       "title": "Adjustments to Liquidity Incentive Program",
       "link": "https://blog.caviarnine.com/adjustments-to-liquidity-incentive-program-0de6fa6a293b?source=rss----799c4124a86b---4",
       "description": "Updates on Airdrop RewardsAs we approach the initial six-month phase of our enhanced Liquidity Incentive Program, we’ve had the opportunity to review ",
@@ -1657,5 +1657,5 @@
       "source": "Ociswap"
     }
   ],
-  "updated": "2025-10-14T14:01:17.873560"
+  "updated": "2025-10-14T15:01:26.389975"
 }
