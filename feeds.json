@@ -4,8 +4,8 @@
       "title": "Concentrated Liquidity vs Traditional Liquidity on Radix | The Radix Blog | Radix DLT",
       "link": "https://www.radixdlt.com/blog/concentrated-liquidity-vs-traditional-liquidity-on-radix",
       "description": "Discover how traditional and concentrated liquidity models shape today’s DeFi landscape on Radix. From the classic constant‑product approach to advanc",
-      "date": "Tue, 14 Oct 2025 14:15:00 GMT",
-      "dateObj": "2025-10-14T14:15:00+00:00",
+      "date": "Wed, 15 Oct 2025 15:22:06 GMT",
+      "dateObj": "2025-10-15T15:22:06+00:00",
       "image": "https://cdn.prod.website-files.com/60540b6d30224a7cb015203a/68ee590d85ef9a3f411230bf_Concentrated%20vs%20traditional.png",
       "source": "RadixDLT"
     },
@@ -13,8 +13,8 @@
       "title": "Multi‑Factor Smart Accounts Arrive on Stokenet: Phase 1 is Live | The Radix Blog | Radix DLT",
       "link": "https://www.radixdlt.com/blog/multi-factor-smart-accounts-arrive-on-stokenet-phase-1-is-live",
       "description": "Phase 1 of Multi‑Factor Smart Accounts (MFA) is now live on Stokenet, bringing the first version of Radix’s new Security Shield to the Radix Wallet. U",
-      "date": "Wed, 01 Oct 2025 14:55:35 GMT",
-      "dateObj": "2025-10-01T14:55:35+00:00",
+      "date": "Wed, 15 Oct 2025 15:22:06 GMT",
+      "dateObj": "2025-10-15T15:22:06+00:00",
       "image": "https://cdn.prod.website-files.com/60540b6d30224a7cb015203a/68dd3db1a033f8109cff9efa_MFA%20Phase%201%20Radix%20Wallet.png",
       "source": "RadixDLT"
     },
@@ -22,9 +22,36 @@
       "title": "Understanding DeFi Looping Strategies on Radix | The Radix Blog | Radix DLT",
       "link": "https://www.radixdlt.com/blog/understanding-defi-looping-strategies-on-radix",
       "description": "DeFi looping is one of the most popular strategies for amplifying yields and gaining leveraged exposure to assets. On Radix, platforms like Root and W",
-      "date": "Tue, 30 Sep 2025 16:18:31 GMT",
-      "dateObj": "2025-09-30T16:18:31+00:00",
+      "date": "Wed, 15 Oct 2025 15:22:06 GMT",
+      "dateObj": "2025-10-15T15:22:06+00:00",
       "image": "https://cdn.prod.website-files.com/60540b6d30224a7cb015203a/68dbfc9781a490c788afcbfd_Understanding%20DeFi%20Looping%20Strategies.png",
+      "source": "RadixDLT"
+    },
+    {
+      "title": "Radix Rewards Referral System Is Live - Earn 5% of Every Friend's Points | The Radix Blog | Radix DLT",
+      "link": "https://www.radixdlt.com/blog/radix-rewards-referral-system-is-live---earn-5-of-every-friends-points",
+      "description": "Radix Referrals is a system within the Radix Rewards program that lets participants earn bonus Season Points (SP) by inviting others to join and stay ",
+      "date": "Wed, 15 Oct 2025 15:22:06 GMT",
+      "dateObj": "2025-10-15T15:22:06+00:00",
+      "image": "https://cdn.prod.website-files.com/60540b6d30224a7cb015203a/68d532c34c9d0860eac864ea_Referral%20System.png",
+      "source": "RadixDLT"
+    },
+    {
+      "title": "Introducing Multi-Factor Smart Accounts: A Step-by-Step Rollout on Stokenet | The Radix Blog | Radix DLT",
+      "link": "https://www.radixdlt.com/blog/introducing-multi-factor-smart-accounts-a-step-by-step-rollout-on-stokenet",
+      "description": "Native on chain multi-factor recovery and access is one of the features that differentiates Radix from other L1’s. We will be rolling out MFA in 3 dis",
+      "date": "Wed, 15 Oct 2025 15:22:06 GMT",
+      "dateObj": "2025-10-15T15:22:06+00:00",
+      "image": "https://cdn.prod.website-files.com/60540b6d30224a7cb015203a/68d5301dae6ab2facd5f8939_MFA%204.png",
+      "source": "RadixDLT"
+    },
+    {
+      "title": "How to Provide Liquidity on CaviarNine to Earn Points in the Radix Rewards Campaign | The Radix Blog | Radix DLT",
+      "link": "https://www.radixdlt.com/blog/how-to-provide-liquidity-on-caviarnine-to-earn-points-in-the-radix-rewards-campaign",
+      "description": "This guide will show you how to provide liquidity on CaviarNine, which offers some of the most comprehensive liquidity provision opportunities on Radi",
+      "date": "Wed, 15 Oct 2025 15:22:06 GMT",
+      "dateObj": "2025-10-15T15:22:06+00:00",
+      "image": "https://cdn.prod.website-files.com/60540b6d30224a7cb015203a/68d3ec6098e106fe93a84b76_How%20to%20Provide%20Liquidity%20on%20CaviarNine%20to%20Earn%20Radix%20Rewards%20Points.png",
       "source": "RadixDLT"
     },
     {
@@ -35,33 +62,6 @@
       "dateObj": "2025-09-26T17:15:17+00:00",
       "image": "https://i2.ytimg.com/vi/yI1HUjlF4nA/hqdefault.jpg",
       "source": "RadixDLTyouTube"
-    },
-    {
-      "title": "Introducing Multi-Factor Smart Accounts: A Step-by-Step Rollout on Stokenet | The Radix Blog | Radix DLT",
-      "link": "https://www.radixdlt.com/blog/introducing-multi-factor-smart-accounts-a-step-by-step-rollout-on-stokenet",
-      "description": "Native on chain multi-factor recovery and access is one of the features that differentiates Radix from other L1’s. We will be rolling out MFA in 3 dis",
-      "date": "Fri, 26 Sep 2025 08:30:44 GMT",
-      "dateObj": "2025-09-26T08:30:44+00:00",
-      "image": "https://cdn.prod.website-files.com/60540b6d30224a7cb015203a/68d5301dae6ab2facd5f8939_MFA%204.png",
-      "source": "RadixDLT"
-    },
-    {
-      "title": "Radix Rewards Referral System Is Live - Earn 5% of Every Friend's Points | The Radix Blog | Radix DLT",
-      "link": "https://www.radixdlt.com/blog/radix-rewards-referral-system-is-live---earn-5-of-every-friends-points",
-      "description": "Radix Referrals is a system within the Radix Rewards program that lets participants earn bonus Season Points (SP) by inviting others to join and stay ",
-      "date": "Fri, 26 Sep 2025 08:29:43 GMT",
-      "dateObj": "2025-09-26T08:29:43+00:00",
-      "image": "https://cdn.prod.website-files.com/60540b6d30224a7cb015203a/68d532c34c9d0860eac864ea_Referral%20System.png",
-      "source": "RadixDLT"
-    },
-    {
-      "title": "How to Provide Liquidity on CaviarNine to Earn Points in the Radix Rewards Campaign | The Radix Blog | Radix DLT",
-      "link": "https://www.radixdlt.com/blog/how-to-provide-liquidity-on-caviarnine-to-earn-points-in-the-radix-rewards-campaign",
-      "description": "This guide will show you how to provide liquidity on CaviarNine, which offers some of the most comprehensive liquidity provision opportunities on Radi",
-      "date": "Wed, 24 Sep 2025 13:12:17 GMT",
-      "dateObj": "2025-09-24T13:12:17+00:00",
-      "image": "https://cdn.prod.website-files.com/60540b6d30224a7cb015203a/68d3ec6098e106fe93a84b76_How%20to%20Provide%20Liquidity%20on%20CaviarNine%20to%20Earn%20Radix%20Rewards%20Points.png",
-      "source": "RadixDLT"
     },
     {
       "title": "How to Provide Liquidity on DeFiPlaza to Earn Points in the Radix Rewards Campaign | The Radix Blog | Radix DLT",
@@ -1657,5 +1657,5 @@
       "source": "Ociswap"
     }
   ],
-  "updated": "2025-10-15T15:01:24.146284"
+  "updated": "2025-10-15T16:01:18.256130"
 }
