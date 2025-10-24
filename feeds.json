@@ -1,6 +1,15 @@
 {
   "items": [
     {
+      "title": "Understanding Lending and Borrowing on Radix | The Radix Blog | Radix DLT",
+      "link": "https://www.radixdlt.com/blog/understanding-lending-and-borrowing-on-radix",
+      "description": "Understanding the mechanics, from health factors and liquidation risks to interest rate dynamics and looping strategies, is essential for success. Thi",
+      "date": "Fri, 24 Oct 2025 13:50:39 GMT",
+      "dateObj": "2025-10-24T13:50:39+00:00",
+      "image": "https://cdn.prod.website-files.com/60540b6d30224a7cb015203a/68fb80b6d329a9ce2d656054_1Lending%20and%20Borrowing%20on%20Radix%20Explained.png",
+      "source": "RadixDLT"
+    },
+    {
       "title": "Introducing Radix Rewards Quests: Get Rewarded for Your Collections! | The Radix Blog | Radix DLT",
       "link": "https://www.radixdlt.com/blog/introducing-radix-rewards-quests-get-rewarded-for-your-collections",
       "description": "Introducing Quests: a brand-new way to earn Season Points simply by holding specific NFTs and assets from across the Radix ecosystem in your wallet. S",
@@ -1333,15 +1342,6 @@
       "source": "RadixDLT"
     },
     {
-      "title": "Maya Protocol Integration is Now Complete | The Radix Blog | Radix DLT",
-      "link": "https://www.radixdlt.com/blog/maya-protocol-integration-is-now-complete",
-      "description": "",
-      "date": "Thu, 05 Sep 2024 08:25:56 GMT",
-      "dateObj": "2024-09-05T08:25:56+00:00",
-      "image": "https://cdn.prod.website-files.com/60540b6d30224a7cb015203a/66d5bd238e83eb75b7d9a975_MAYA%20(1)%20(1).png",
-      "source": "RadixDLT"
-    },
-    {
       "title": "Adjustments to Liquidity Incentive Program",
       "link": "https://blog.caviarnine.com/adjustments-to-liquidity-incentive-program-0de6fa6a293b?source=rss----799c4124a86b---4",
       "description": "Updates on Airdrop RewardsAs we approach the initial six-month phase of our enhanced Liquidity Incentive Program, we’ve had the opportunity to review ",
@@ -1657,5 +1657,5 @@
       "source": "Ociswap"
     }
   ],
-  "updated": "2025-10-24T13:10:02.295029"
+  "updated": "2025-10-24T14:01:25.833805"
 }
