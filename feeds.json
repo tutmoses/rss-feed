@@ -1,6 +1,15 @@
 {
   "items": [
     {
+      "title": "Radix Recap (Oct 24, 2025)",
+      "link": "https://www.youtube.com/watch?v=ZANw7qdu38E",
+      "description": "",
+      "date": "2025-10-24T18:12:57+00:00",
+      "dateObj": "2025-10-24T18:12:57+00:00",
+      "image": "https://i3.ytimg.com/vi/ZANw7qdu38E/hqdefault.jpg",
+      "source": "RadixDLTyouTube"
+    },
+    {
       "title": "Understanding Lending and Borrowing on Radix | The Radix Blog | Radix DLT",
       "link": "https://www.radixdlt.com/blog/understanding-lending-and-borrowing-on-radix",
       "description": "Understanding the mechanics, from health factors and liquidation risks to interest rate dynamics and looping strategies, is essential for success. Thi",
@@ -1135,15 +1144,6 @@
       "source": "RadixDLT"
     },
     {
-      "title": "From EBC to Radix: PawNFT",
-      "link": "https://www.youtube.com/watch?v=IhJXyG-4wRI",
-      "description": "",
-      "date": "2024-11-14T14:51:49+00:00",
-      "dateObj": "2024-11-14T14:51:49+00:00",
-      "image": "https://i2.ytimg.com/vi/IhJXyG-4wRI/hqdefault.jpg",
-      "source": "RadixDLTyouTube"
-    },
-    {
       "title": "Meet The Project: Root Finance | The Radix Blog | Radix DLT",
       "link": "https://www.radixdlt.com/blog/meet-the-project-root-finance",
       "description": "",
@@ -1657,5 +1657,5 @@
       "source": "Ociswap"
     }
   ],
-  "updated": "2025-10-24T18:01:26.066773"
+  "updated": "2025-10-24T19:01:18.168532"
 }
