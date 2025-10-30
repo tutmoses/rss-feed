@@ -1,6 +1,15 @@
 {
   "items": [
     {
+      "title": "Radix Subintents in Action: Peer-to-Peer Trading with Atomix | The Radix Blog | Radix DLT",
+      "link": "https://www.radixdlt.com/blog/radix-subintents-in-action-peer-to-peer-trading-with-atomix",
+      "description": "Peer-to-peer trading just got a Radix upgrade. Atomix, powered by Radix Subintents, enables instant, trustless asset swaps directly between wallets: n",
+      "date": "Thu, 30 Oct 2025 15:27:06 GMT",
+      "dateObj": "2025-10-30T15:27:06+00:00",
+      "image": "https://cdn.prod.website-files.com/60540b6d30224a7cb015203a/690381c08f56adb99d0e860c_Atomix%20Peer%20to%20peer%20subintents.png",
+      "source": "RadixDLT"
+    },
+    {
       "title": "Radix Recap (Oct 24, 2025)",
       "link": "https://www.youtube.com/watch?v=ZANw7qdu38E",
       "description": "",
@@ -1333,15 +1342,6 @@
       "source": "RadixDLT"
     },
     {
-      "title": "Update: RadQuest Relaunch | The Radix Blog | Radix DLT",
-      "link": "https://www.radixdlt.com/blog/update-radquest-relaunch",
-      "description": "",
-      "date": "Thu, 05 Sep 2024 08:25:56 GMT",
-      "dateObj": "2024-09-05T08:25:56+00:00",
-      "image": "https://cdn.prod.website-files.com/60540b6d30224a7cb015203a/66d86dec7b3dd5e2a23a48d6_RadQuest%20Relaunch.png",
-      "source": "RadixDLT"
-    },
-    {
       "title": "Adjustments to Liquidity Incentive Program",
       "link": "https://blog.caviarnine.com/adjustments-to-liquidity-incentive-program-0de6fa6a293b?source=rss----799c4124a86b---4",
       "description": "Updates on Airdrop RewardsAs we approach the initial six-month phase of our enhanced Liquidity Incentive Program, we’ve had the opportunity to review ",
@@ -1657,5 +1657,5 @@
       "source": "Ociswap"
     }
   ],
-  "updated": "2025-10-30T15:01:21.216625"
+  "updated": "2025-10-30T16:01:22.872443"
 }
