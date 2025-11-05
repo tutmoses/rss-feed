@@ -1,6 +1,15 @@
 {
   "items": [
     {
+      "title": "DefiPlaza's CALM Algorithm: A Different Approach to Impermanent Loss | The Radix Blog | Radix DLT",
+      "link": "https://www.radixdlt.com/blog/defiplazas-calm-algorithm-a-different-approach-to-impermanent-loss",
+      "description": "DefiPlaza’s CALM (Concentration-Asymmetric Liquidity Model) reduces impermanent loss by adjusting liquidity dynamically, discouraging harmful trades a",
+      "date": "Wed, 05 Nov 2025 17:03:55 GMT",
+      "dateObj": "2025-11-05T17:03:55+00:00",
+      "image": "https://cdn.prod.website-files.com/60540b6d30224a7cb015203a/690b816dcdf3aa366e2bfca6_defiplaza%20calm.png",
+      "source": "RadixDLT"
+    },
+    {
       "title": "Radix Subintents in Action: Peer-to-Peer Trading with Atomix | The Radix Blog | Radix DLT",
       "link": "https://www.radixdlt.com/blog/radix-subintents-in-action-peer-to-peer-trading-with-atomix",
       "description": "Peer-to-peer trading just got a Radix upgrade. Atomix, powered by Radix Subintents, enables instant, trustless asset swaps directly between wallets: n",
@@ -1333,15 +1342,6 @@
       "source": "RadixDLT"
     },
     {
-      "title": "THORSwap Integrates Radix | The Radix Blog | Radix DLT",
-      "link": "https://www.radixdlt.com/blog/thorswap-integrates-radix",
-      "description": "",
-      "date": "Thu, 12 Sep 2024 16:01:19 GMT",
-      "dateObj": "2024-09-12T16:01:19+00:00",
-      "image": "https://cdn.prod.website-files.com/60540b6d30224a7cb015203a/66e2fd608445a2e096f4573a_THORSwap.png",
-      "source": "RadixDLT"
-    },
-    {
       "title": "Adjustments to Liquidity Incentive Program",
       "link": "https://blog.caviarnine.com/adjustments-to-liquidity-incentive-program-0de6fa6a293b?source=rss----799c4124a86b---4",
       "description": "Updates on Airdrop RewardsAs we approach the initial six-month phase of our enhanced Liquidity Incentive Program, we’ve had the opportunity to review ",
@@ -1657,5 +1657,5 @@
       "source": "Ociswap"
     }
   ],
-  "updated": "2025-11-05T17:01:44.653875"
+  "updated": "2025-11-05T18:01:16.339333"
 }
