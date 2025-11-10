@@ -1,6 +1,15 @@
 {
   "items": [
     {
+      "title": "Continuing the Vision: Timan Appointed Interim Hyperscale Lead | The Radix Blog | Radix DLT",
+      "link": "https://www.radixdlt.com/blog/continuing-the-vision-timan-appointed-interim-hyperscale-lead",
+      "description": "We’re proud to welcome Timan as Interim Hyperscale Lead at the Radix Foundation. A long-time community builder, he worked closely with Dan on early Hy",
+      "date": "Mon, 10 Nov 2025 19:35:37 GMT",
+      "dateObj": "2025-11-10T19:35:37+00:00",
+      "image": "https://cdn.prod.website-files.com/60540b6d30224a7cb015203a/69123bc0161e6bfb52fd3178_Meet%20the%20Team%20-%20Timan%202.png",
+      "source": "RadixDLT"
+    },
+    {
       "title": "DefiPlaza's CALM Algorithm: A Different Approach to Impermanent Loss | The Radix Blog | Radix DLT",
       "link": "https://www.radixdlt.com/blog/defiplazas-calm-algorithm-a-different-approach-to-impermanent-loss",
       "description": "DefiPlaza’s CALM (Concentration-Asymmetric Liquidity Model) reduces impermanent loss by adjusting liquidity dynamically, discouraging harmful trades a",
@@ -1333,15 +1342,6 @@
       "source": "RadixDLT"
     },
     {
-      "title": "Introducing Anthic: The First Intent Based DEX on Radix | The Radix Blog | Radix DLT",
-      "link": "https://www.radixdlt.com/blog/introducing-anthic-the-first-intent-based-dex-on-radix",
-      "description": "",
-      "date": "Fri, 13 Sep 2024 15:01:50 GMT",
-      "dateObj": "2024-09-13T15:01:50+00:00",
-      "image": "https://cdn.prod.website-files.com/60540b6d30224a7cb015203a/66e44c520ed7e0b9d3ae09b8_Anthic.png",
-      "source": "RadixDLT"
-    },
-    {
       "title": "Adjustments to Liquidity Incentive Program",
       "link": "https://blog.caviarnine.com/adjustments-to-liquidity-incentive-program-0de6fa6a293b?source=rss----799c4124a86b---4",
       "description": "Updates on Airdrop RewardsAs we approach the initial six-month phase of our enhanced Liquidity Incentive Program, we’ve had the opportunity to review ",
@@ -1657,5 +1657,5 @@
       "source": "Ociswap"
     }
   ],
-  "updated": "2025-11-10T19:01:06.139130"
+  "updated": "2025-11-10T20:01:18.072287"
 }
