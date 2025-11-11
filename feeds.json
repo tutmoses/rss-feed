@@ -1,6 +1,15 @@
 {
   "items": [
     {
+      "title": "Proof-of-Personhood Launches on Radix with idOS | The Radix Blog | Radix DLT",
+      "link": "https://www.radixdlt.com/blog/proof-of-personhood-launches-on-radix-with-idos",
+      "description": "Radix, in partnership with idOS, is solving the repetitive KYC process with Proof-of-Personhood (PoP). This allows you to verify your identity once in",
+      "date": "Tue, 11 Nov 2025 14:56:39 GMT",
+      "dateObj": "2025-11-11T14:56:39+00:00",
+      "image": "https://cdn.prod.website-files.com/60540b6d30224a7cb015203a/69131d4f66e275e6b9c41be1_Proof-of-Personhood%20Launches%20on%20Radix%20with%20idOS.png",
+      "source": "RadixDLT"
+    },
+    {
       "title": "Continuing the Vision: Timan Appointed Interim Hyperscale Lead | The Radix Blog | Radix DLT",
       "link": "https://www.radixdlt.com/blog/continuing-the-vision-timan-appointed-interim-hyperscale-lead",
       "description": "We’re proud to welcome Timan as Interim Hyperscale Lead at the Radix Foundation. A long-time community builder, he worked closely with Dan on early Hy",
@@ -1333,15 +1342,6 @@
       "source": "DelphiBets"
     },
     {
-      "title": "RedStone Oracles Integrates Radix | The Radix Blog | Radix DLT",
-      "link": "https://www.radixdlt.com/blog/redstone-oracles-integrates-radix",
-      "description": "",
-      "date": "Tue, 17 Sep 2024 14:01:17 GMT",
-      "dateObj": "2024-09-17T14:01:17+00:00",
-      "image": "https://cdn.prod.website-files.com/60540b6d30224a7cb015203a/66e84030e9f9b734493942d1_RedStone%20(2).png",
-      "source": "RadixDLT"
-    },
-    {
       "title": "Adjustments to Liquidity Incentive Program",
       "link": "https://blog.caviarnine.com/adjustments-to-liquidity-incentive-program-0de6fa6a293b?source=rss----799c4124a86b---4",
       "description": "Updates on Airdrop RewardsAs we approach the initial six-month phase of our enhanced Liquidity Incentive Program, we’ve had the opportunity to review ",
@@ -1657,5 +1657,5 @@
       "source": "Ociswap"
     }
   ],
-  "updated": "2025-11-11T14:01:17.541498"
+  "updated": "2025-11-11T15:01:16.064424"
 }
