@@ -1,6 +1,15 @@
 {
   "items": [
     {
+      "title": "Mastering Liquidity on Perpetual DEXs | The Radix Blog | Radix DLT",
+      "link": "https://www.radixdlt.com/blog/mastering-liquidity-on-perpetual-dexs",
+      "description": "Surge is the first on-chain perpetual decentralized exchange (DEX) built on the Radix ecosystem, allowing users to trade major cryptocurrencies like B",
+      "date": "Thu, 13 Nov 2025 17:41:00 GMT",
+      "dateObj": "2025-11-13T17:41:00+00:00",
+      "image": "https://cdn.prod.website-files.com/60540b6d30224a7cb015203a/6916173535510cfe49e6a837_Mastering%20Liquidity%20Provision%20on%20Perpetual%20DEXs%20(1).png",
+      "source": "RadixDLT"
+    },
+    {
       "title": "Proof-of-Personhood Launches on Radix with idOS | The Radix Blog | Radix DLT",
       "link": "https://www.radixdlt.com/blog/proof-of-personhood-launches-on-radix-with-idos",
       "description": "Radix, in partnership with idOS, is solving the repetitive KYC process with Proof-of-Personhood (PoP). This allows you to verify your identity once in",
@@ -1324,15 +1333,6 @@
       "source": "RadixDLT"
     },
     {
-      "title": "Navigating Astrolescent: An Easy Walkthrough | The Radix Blog | Radix DLT",
-      "link": "https://www.radixdlt.com/blog/navigating-astrolescent-an-easy-walkthrough",
-      "description": "",
-      "date": "Mon, 30 Sep 2024 18:42:40 GMT",
-      "dateObj": "2024-09-30T18:42:40+00:00",
-      "image": "https://cdn.prod.website-files.com/60540b6d30224a7cb015203a/66ed85d53090d9c8be23dd52_Navigating%20Astrolescent.png",
-      "source": "RadixDLT"
-    },
-    {
       "title": "2024 U.S. Presidential Election: Special Bets",
       "link": "https://medium.com/@delphibets/2024-u-s-presidential-election-special-bets-46328dda917d?source=rss-d511bfdc4b6a------2",
       "description": "2024 U.S. Presidential Election: Special Prediction Event🔮 BET NOW ON DELPHIBETS.COMThe Sprint to November Is OnOn November 5, 2024, US citizens will ",
@@ -1657,5 +1657,5 @@
       "source": "Ociswap"
     }
   ],
-  "updated": "2025-11-13T17:01:37.462884"
+  "updated": "2025-11-13T18:01:10.749777"
 }
