@@ -1,6 +1,15 @@
 {
   "items": [
     {
+      "title": "Hyperscale Rebirth: Update 1 | The Radix Blog | Radix DLT",
+      "link": "https://www.radixdlt.com/blog/hyperscale-rebirth-update-1",
+      "description": "In this first update, Timan, the Interim Hyperscale Lead, looks back at the first steps in the journey to getting the Hyperscale research network up a",
+      "date": "Tue, 18 Nov 2025 15:09:42 GMT",
+      "dateObj": "2025-11-18T15:09:42+00:00",
+      "image": "https://cdn.prod.website-files.com/60540b6d30224a7cb015203a/691c8a209b18baff44368bee_Hyperscale%20Rebirth%202.png",
+      "source": "RadixDLT"
+    },
+    {
       "title": "Mastering Liquidity on Perpetual DEXs | The Radix Blog | Radix DLT",
       "link": "https://www.radixdlt.com/blog/mastering-liquidity-on-perpetual-dexs",
       "description": "Surge is the first on-chain perpetual decentralized exchange (DEX) built on the Radix ecosystem, allowing users to trade major cryptocurrencies like B",
@@ -1324,15 +1333,6 @@
       "source": "RadixDLT"
     },
     {
-      "title": "Morpher Oracles Integrates Radix  | The Radix Blog | Radix DLT",
-      "link": "https://www.radixdlt.com/blog/morpher-oracles-integrates-radix",
-      "description": "",
-      "date": "Mon, 30 Sep 2024 18:42:40 GMT",
-      "dateObj": "2024-09-30T18:42:40+00:00",
-      "image": "https://cdn.prod.website-files.com/60540b6d30224a7cb015203a/66f6c11db7950b7575c00c42_Morpher.jpg",
-      "source": "RadixDLT"
-    },
-    {
       "title": "2024 U.S. Presidential Election: Special Bets",
       "link": "https://medium.com/@delphibets/2024-u-s-presidential-election-special-bets-46328dda917d?source=rss-d511bfdc4b6a------2",
       "description": "2024 U.S. Presidential Election: Special Prediction Event🔮 BET NOW ON DELPHIBETS.COMThe Sprint to November Is OnOn November 5, 2024, US citizens will ",
@@ -1657,5 +1657,5 @@
       "source": "Ociswap"
     }
   ],
-  "updated": "2025-11-18T15:01:05.335703"
+  "updated": "2025-11-18T16:01:17.332491"
 }
