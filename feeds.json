@@ -4,8 +4,8 @@
       "title": "Mastering Liquidity on Perpetual DEXs | The Radix Blog | Radix DLT",
       "link": "https://www.radixdlt.com/blog/mastering-liquidity-on-perpetual-dexs",
       "description": "Surge is the first on-chain perpetual decentralized exchange (DEX) built on the Radix ecosystem, allowing users to trade major cryptocurrencies like B",
-      "date": "Thu, 13 Nov 2025 17:41:00 GMT",
-      "dateObj": "2025-11-13T17:41:00+00:00",
+      "date": "Tue, 18 Nov 2025 11:29:21 GMT",
+      "dateObj": "2025-11-18T11:29:21+00:00",
       "image": "https://cdn.prod.website-files.com/60540b6d30224a7cb015203a/6916173535510cfe49e6a837_Mastering%20Liquidity%20Provision%20on%20Perpetual%20DEXs%20(1).png",
       "source": "RadixDLT"
     },
@@ -13,9 +13,45 @@
       "title": "Proof-of-Personhood Launches on Radix with idOS | The Radix Blog | Radix DLT",
       "link": "https://www.radixdlt.com/blog/proof-of-personhood-launches-on-radix-with-idos",
       "description": "Radix, in partnership with idOS, is solving the repetitive KYC process with Proof-of-Personhood (PoP). This allows you to verify your identity once in",
-      "date": "Tue, 11 Nov 2025 14:56:39 GMT",
-      "dateObj": "2025-11-11T14:56:39+00:00",
+      "date": "Tue, 18 Nov 2025 11:29:21 GMT",
+      "dateObj": "2025-11-18T11:29:21+00:00",
       "image": "https://cdn.prod.website-files.com/60540b6d30224a7cb015203a/69131d4f66e275e6b9c41be1_Proof-of-Personhood%20Launches%20on%20Radix%20with%20idOS.png",
+      "source": "RadixDLT"
+    },
+    {
+      "title": "DefiPlaza's CALM Algorithm: A Different Approach to Impermanent Loss | The Radix Blog | Radix DLT",
+      "link": "https://www.radixdlt.com/blog/defiplazas-calm-algorithm-a-different-approach-to-impermanent-loss",
+      "description": "DefiPlaza’s CALM (Concentration-Asymmetric Liquidity Model) reduces impermanent loss by adjusting liquidity dynamically, discouraging harmful trades a",
+      "date": "Tue, 18 Nov 2025 11:29:21 GMT",
+      "dateObj": "2025-11-18T11:29:21+00:00",
+      "image": "https://cdn.prod.website-files.com/60540b6d30224a7cb015203a/690b816dcdf3aa366e2bfca6_defiplaza%20calm.png",
+      "source": "RadixDLT"
+    },
+    {
+      "title": "Radix Subintents in Action: Peer-to-Peer Trading with Atomix | The Radix Blog | Radix DLT",
+      "link": "https://www.radixdlt.com/blog/radix-subintents-in-action-peer-to-peer-trading-with-atomix",
+      "description": "Peer-to-peer trading just got a Radix upgrade. Atomix, powered by Radix Subintents, enables instant, trustless asset swaps directly between wallets: n",
+      "date": "Tue, 18 Nov 2025 11:29:21 GMT",
+      "dateObj": "2025-11-18T11:29:21+00:00",
+      "image": "https://cdn.prod.website-files.com/60540b6d30224a7cb015203a/690381c08f56adb99d0e860c_Atomix%20Peer%20to%20peer%20subintents.png",
+      "source": "RadixDLT"
+    },
+    {
+      "title": "Understanding Lending and Borrowing on Radix | The Radix Blog | Radix DLT",
+      "link": "https://www.radixdlt.com/blog/understanding-lending-and-borrowing-on-radix",
+      "description": "Understanding the mechanics, from health factors and liquidation risks to interest rate dynamics and looping strategies, is essential for success. Thi",
+      "date": "Tue, 18 Nov 2025 11:29:21 GMT",
+      "dateObj": "2025-11-18T11:29:21+00:00",
+      "image": "https://cdn.prod.website-files.com/60540b6d30224a7cb015203a/68fb80b6d329a9ce2d656054_1Lending%20and%20Borrowing%20on%20Radix%20Explained.png",
+      "source": "RadixDLT"
+    },
+    {
+      "title": "Introducing Radix Rewards Quests: Get Rewarded for Your Collections! | The Radix Blog | Radix DLT",
+      "link": "https://www.radixdlt.com/blog/introducing-radix-rewards-quests-get-rewarded-for-your-collections",
+      "description": "Introducing Quests: a brand-new way to earn Season Points simply by holding specific NFTs and assets from across the Radix ecosystem in your wallet. S",
+      "date": "Tue, 18 Nov 2025 11:29:21 GMT",
+      "dateObj": "2025-11-18T11:29:21+00:00",
+      "image": "https://cdn.prod.website-files.com/60540b6d30224a7cb015203a/68fa52ef4691aea518bfc3ff_Quests%20Radix%20Rewards.png",
       "source": "RadixDLT"
     },
     {
@@ -28,24 +64,6 @@
       "source": "RadixDLT"
     },
     {
-      "title": "DefiPlaza's CALM Algorithm: A Different Approach to Impermanent Loss | The Radix Blog | Radix DLT",
-      "link": "https://www.radixdlt.com/blog/defiplazas-calm-algorithm-a-different-approach-to-impermanent-loss",
-      "description": "DefiPlaza’s CALM (Concentration-Asymmetric Liquidity Model) reduces impermanent loss by adjusting liquidity dynamically, discouraging harmful trades a",
-      "date": "Wed, 05 Nov 2025 17:03:55 GMT",
-      "dateObj": "2025-11-05T17:03:55+00:00",
-      "image": "https://cdn.prod.website-files.com/60540b6d30224a7cb015203a/690b816dcdf3aa366e2bfca6_defiplaza%20calm.png",
-      "source": "RadixDLT"
-    },
-    {
-      "title": "Radix Subintents in Action: Peer-to-Peer Trading with Atomix | The Radix Blog | Radix DLT",
-      "link": "https://www.radixdlt.com/blog/radix-subintents-in-action-peer-to-peer-trading-with-atomix",
-      "description": "Peer-to-peer trading just got a Radix upgrade. Atomix, powered by Radix Subintents, enables instant, trustless asset swaps directly between wallets: n",
-      "date": "Thu, 30 Oct 2025 15:27:06 GMT",
-      "dateObj": "2025-10-30T15:27:06+00:00",
-      "image": "https://cdn.prod.website-files.com/60540b6d30224a7cb015203a/690381c08f56adb99d0e860c_Atomix%20Peer%20to%20peer%20subintents.png",
-      "source": "RadixDLT"
-    },
-    {
       "title": "Radix Recap (Oct 24, 2025)",
       "link": "https://www.youtube.com/watch?v=ZANw7qdu38E",
       "description": "",
@@ -53,24 +71,6 @@
       "dateObj": "2025-10-24T18:12:57+00:00",
       "image": "https://i3.ytimg.com/vi/ZANw7qdu38E/hqdefault.jpg",
       "source": "RadixDLTyouTube"
-    },
-    {
-      "title": "Understanding Lending and Borrowing on Radix | The Radix Blog | Radix DLT",
-      "link": "https://www.radixdlt.com/blog/understanding-lending-and-borrowing-on-radix",
-      "description": "Understanding the mechanics, from health factors and liquidation risks to interest rate dynamics and looping strategies, is essential for success. Thi",
-      "date": "Fri, 24 Oct 2025 13:50:39 GMT",
-      "dateObj": "2025-10-24T13:50:39+00:00",
-      "image": "https://cdn.prod.website-files.com/60540b6d30224a7cb015203a/68fb80b6d329a9ce2d656054_1Lending%20and%20Borrowing%20on%20Radix%20Explained.png",
-      "source": "RadixDLT"
-    },
-    {
-      "title": "Introducing Radix Rewards Quests: Get Rewarded for Your Collections! | The Radix Blog | Radix DLT",
-      "link": "https://www.radixdlt.com/blog/introducing-radix-rewards-quests-get-rewarded-for-your-collections",
-      "description": "Introducing Quests: a brand-new way to earn Season Points simply by holding specific NFTs and assets from across the Radix ecosystem in your wallet. S",
-      "date": "Thu, 23 Oct 2025 16:18:00 GMT",
-      "dateObj": "2025-10-23T16:18:00+00:00",
-      "image": "https://cdn.prod.website-files.com/60540b6d30224a7cb015203a/68fa52ef4691aea518bfc3ff_Quests%20Radix%20Rewards.png",
-      "source": "RadixDLT"
     },
     {
       "title": "Concentrated Liquidity vs Traditional Liquidity on Radix | The Radix Blog | Radix DLT",
@@ -937,15 +937,6 @@
       "source": "RadixDLT"
     },
     {
-      "title": "Ociswap Pool V2: Powering Radix DeFi",
-      "link": "https://ociswap.com/blog/pool-v2-powering-radix-defi",
-      "description": "Pool V2 is LIVE on Ociswap 🎉\nThe next evolution in Radix DeFi is here, fully audited and ready to power your trades!",
-      "date": "Fri, 06 Dec 2024 00:00:00 GMT",
-      "dateObj": "2024-12-06T00:00:00+00:00",
-      "image": "https://cdn.sanity.io/images/fkmphqh5/production/2a7c60b13ff0314570a5386edadf241f6864dd39-888x500.png?h=500",
-      "source": "Ociswap"
-    },
-    {
       "title": "Launch Booster Recipients: Radix Charts & Selfi Social  | The Radix Blog | Radix DLT",
       "link": "https://www.radixdlt.com/blog/launch-booster-recipients-radix-charts-selfi-social",
       "description": "The 250M XRD Radix Ecosystem Fund was established to fuel innovation and accelerate the development of groundbreaking dApps that harness the full pote",
@@ -1369,24 +1360,6 @@
       "source": "Astrolescent"
     },
     {
-      "title": "sXRD: Ociswap’s New DeFi Powerhouse",
-      "link": "https://ociswap.com/blog/sxrd-ociswap-s-new-defi-powerhouse",
-      "description": "sXRD has entered the chat...",
-      "date": "Wed, 19 Jun 2024 00:00:00 GMT",
-      "dateObj": "2024-06-19T00:00:00+00:00",
-      "image": "https://cdn.sanity.io/images/fkmphqh5/production/a6c1f523e11ccade25b34097e72f2d20525c12d4-1920x1080.jpg?h=500",
-      "source": "Ociswap"
-    },
-    {
-      "title": "Development Update: Radix Client & Event Stream Libraries",
-      "link": "https://ociswap.com/blog/development-update-radix-client-and-event-stream-libraries",
-      "description": "Two new libraries to streamline real-time and historical data requests!",
-      "date": "Tue, 21 May 2024 00:00:00 GMT",
-      "dateObj": "2024-05-21T00:00:00+00:00",
-      "image": "https://cdn.sanity.io/images/fkmphqh5/production/fc85bfb4b91e6f1252aa33d8e6c747c1eded8284-8005x4505.png?h=500",
-      "source": "Ociswap"
-    },
-    {
       "title": "New CEX Listing: DPH now listed on Bitstorage",
       "link": "https://medium.com/@delphibets/new-cex-listing-dph-now-listed-on-bitstorage-98709e36456b?source=rss-d511bfdc4b6a------2",
       "description": "New CEX Listing: DPH now available for trading on BitstorageDELPHIBETS (DPH) now listed on BitstorageAnother major achievement: DELPHIBETS’ first CEX ",
@@ -1396,15 +1369,6 @@
       "source": "DelphiBets"
     },
     {
-      "title": "Make a Splash! SPLASH 1.5 Update",
-      "link": "https://ociswap.com/blog/splash-update",
-      "description": "At Ociswap, we're dedicated to continuously improving our platform to better serve our community and ecosystem. We’re excited announce the launch of t",
-      "date": "Sat, 23 Mar 2024 00:00:00 GMT",
-      "dateObj": "2024-03-23T00:00:00+00:00",
-      "image": "https://cdn.sanity.io/images/fkmphqh5/production/e9ca362f2f96acf3e2a71b0d168b29572c897e37-889x500.png?h=500",
-      "source": "Ociswap"
-    },
-    {
       "title": "Surging Ahead",
       "link": "https://blog.caviarnine.com/surging-ahead-1b9540117d02?source=rss----799c4124a86b---4",
       "description": "CaviarNine’s commitment to the CAVIAR ecosystem amid the launch of SurgeCaviarNine and the launch of Surge Perpetual Trading DexAs the Radix community",
@@ -1412,24 +1376,6 @@
       "dateObj": "2024-03-14T16:45:27+00:00",
       "image": "https://cdn-images-1.medium.com/max/1024/1*A534htcQ5aWLQ2ZyaVKeNg.png",
       "source": "CaviarNine"
-    },
-    {
-      "title": "Introducing Ociswap V2",
-      "link": "https://ociswap.com/blog/introducing-ociswap-v2",
-      "description": "New look, who dis?\n\nOciswap has launched its most transformative update yet – Ociswap V2. As a leading DEX in the Radix ecosystem, our commitment to i",
-      "date": "Thu, 14 Mar 2024 00:00:00 GMT",
-      "dateObj": "2024-03-14T00:00:00+00:00",
-      "image": "https://cdn.sanity.io/images/fkmphqh5/production/a77a038015fa02bf57ebf8f8722eda1985b1adeb-889x500.png?h=500",
-      "source": "Ociswap"
-    },
-    {
-      "title": "Fire up your Liquidity Positions with Ociswap!",
-      "link": "https://ociswap.com/blog/project-ignition",
-      "description": "As the Front Page of Radix, Ociswap is at the forefront of advanced decentralized finance, and we're thrilled to announce our pools for Project Igniti",
-      "date": "Tue, 12 Mar 2024 00:00:00 GMT",
-      "dateObj": "2024-03-12T00:00:00+00:00",
-      "image": "https://cdn.sanity.io/images/fkmphqh5/production/b8c337080840717e158d84534a4d5f5416621168-889x500.png?h=500",
-      "source": "Ociswap"
     },
     {
       "title": "The New Reward Pools",
@@ -1450,24 +1396,6 @@
       "source": "CaviarNine"
     },
     {
-      "title": "Meme Coin Season",
-      "link": "https://ociswap.com/blog/meme-coin-season",
-      "description": "Is there method in the meme coin madness?",
-      "date": "Mon, 05 Feb 2024 00:00:00 GMT",
-      "dateObj": "2024-02-05T00:00:00+00:00",
-      "image": "https://cdn.sanity.io/images/fkmphqh5/production/4f7922e24d2962f81789d015ce7cc454dbb216ba-1920x1080.png?h=500",
-      "source": "Ociswap"
-    },
-    {
-      "title": "Token Creation Competition!",
-      "link": "https://ociswap.com/blog/token-creation-competition",
-      "description": "Unleash your inner project founder!",
-      "date": "Fri, 19 Jan 2024 00:00:00 GMT",
-      "dateObj": "2024-01-19T00:00:00+00:00",
-      "image": "https://cdn.sanity.io/images/fkmphqh5/production/16ff5f01a9d8e9f119b878238d85314e56b0d78f-1920x1359.png?h=500",
-      "source": "Ociswap"
-    },
-    {
       "title": "CaviarNine Liquidity Incentive Program",
       "link": "https://blog.caviarnine.com/caviarnine-liquidity-incentive-program-cb440d92ca4f?source=rss----799c4124a86b---4",
       "description": "Boost Your DeFi ExperienceWe’re excited to unveil The CaviarNine Liquidity Incentive Program.As the leading project on Radix, we’re committed to empow",
@@ -1477,33 +1405,6 @@
       "source": "CaviarNine"
     },
     {
-      "title": "Development Update: Ociswap Hooks!",
-      "link": "https://ociswap.com/blog/development-update-ociswap-hooks",
-      "description": "We're hooked!",
-      "date": "Mon, 20 Nov 2023 00:00:00 GMT",
-      "dateObj": "2023-11-20T00:00:00+00:00",
-      "image": "https://cdn.sanity.io/images/fkmphqh5/production/cd10a419fa2bbe5eaa5661e6d8de9faa46285673-1920x1080.png?h=500",
-      "source": "Ociswap"
-    },
-    {
-      "title": "Development Update: Two New Scrypto Libraries",
-      "link": "https://ociswap.com/blog/development-update-two-new-scrypto-libraries",
-      "description": "Two big wins for Scrypto devs!",
-      "date": "Wed, 08 Nov 2023 00:00:00 GMT",
-      "dateObj": "2023-11-08T00:00:00+00:00",
-      "image": "https://cdn.sanity.io/images/fkmphqh5/production/1fb61fe54c52f95d880b01bd9b7d9b1772999808-1920x1080.png?h=500",
-      "source": "Ociswap"
-    },
-    {
-      "title": "Why List on Ociswap?",
-      "link": "https://ociswap.com/blog/why-list-on-ociswap",
-      "description": "Two Ociswap Advantages to make your token launch a success!",
-      "date": "Thu, 02 Nov 2023 00:00:00 GMT",
-      "dateObj": "2023-11-02T00:00:00+00:00",
-      "image": "https://cdn.sanity.io/images/fkmphqh5/production/46e5425c0240038abeaa2f6c61473581f71747bf-1920x1077.png?h=500",
-      "source": "Ociswap"
-    },
-    {
       "title": "The CAVIAR Airdrop",
       "link": "https://blog.caviarnine.com/the-caviar-airdrop-4e124f4ac1a1?source=rss----799c4124a86b---4",
       "description": "This Airdrop has been superseded by the Liquidity Incentive ProgramBoosting the FLOOP EcosystemIn anticipation of the imminent Babylon upgrade, Caviar",
@@ -1511,15 +1412,6 @@
       "dateObj": "2023-09-27T12:14:51+00:00",
       "image": "https://cdn-images-1.medium.com/max/1024/1*e24utkZa7ecdFLxSRctciQ.jpeg",
       "source": "CaviarNine"
-    },
-    {
-      "title": "Ociswap Update: Post Babylon",
-      "link": "https://ociswap.com/blog/ociswap-update-post-babylon",
-      "description": "To Babylon… and beyond!",
-      "date": "Mon, 25 Sep 2023 00:00:00 GMT",
-      "dateObj": "2023-09-25T00:00:00+00:00",
-      "image": "https://cdn.sanity.io/images/fkmphqh5/production/aebe1afdc2557a84d5defa05dfd0f495a77283d8-1920x1079.png?h=500",
-      "source": "Ociswap"
     },
     {
       "title": "The Transition to Babylon",
@@ -1540,15 +1432,6 @@
       "source": "CaviarNine"
     },
     {
-      "title": "Ociswap Update: Babylon Mainnet Upgrade",
-      "link": "https://ociswap.com/blog/ociswap-update-babylon-mainnet-upgrade",
-      "description": "Before Babylon's launch, you might wonder about actions needed for your Ociswap liquidity and XIDAR or Z3US wallets. \n\nIn short: Nothing needs to be d",
-      "date": "Tue, 19 Sep 2023 00:00:00 GMT",
-      "dateObj": "2023-09-19T00:00:00+00:00",
-      "image": "https://cdn.sanity.io/images/fkmphqh5/production/e6a541a77d2c142a6880a044998fd20f20fe98d8-3998x2235.png?h=500",
-      "source": "Ociswap"
-    },
-    {
       "title": "Product Preview: LSU Pool",
       "link": "https://blog.caviarnine.com/product-preview-lsu-pool-8103c3a09f39?source=rss----799c4124a86b---4",
       "description": "Unlock Liquid Staking OpportunitiesIntroducing Liquid Staking and the CaviarNine LSU PoolIn the world of DeFi, staking has become commonplace, enablin",
@@ -1556,106 +1439,7 @@
       "dateObj": "2023-09-08T03:16:41+00:00",
       "image": "https://cdn-images-1.medium.com/max/1024/1*iLd9pmAuc0qVd8O-I9d9kA.jpeg",
       "source": "CaviarNine"
-    },
-    {
-      "title": "Development Update… Ocinomics!",
-      "link": "https://ociswap.com/blog/development-update-ocinomics",
-      "description": "Version release incoming! Get ready for SPLASH 2.0 and the exciting new world of Ocinomics!",
-      "date": "Thu, 31 Aug 2023 00:00:00 GMT",
-      "dateObj": "2023-08-31T00:00:00+00:00",
-      "image": "https://cdn.sanity.io/images/fkmphqh5/production/618d870c4c5ff31e1f212ddba18d13fd94dde301-1920x1080.png?h=500",
-      "source": "Ociswap"
-    },
-    {
-      "title": "Countdown to Babylon… The Evolution of Ociswap",
-      "link": "https://ociswap.com/blog/countdown-to-babylon-the-evolution-of-ociswap",
-      "description": "Non-linear, agile, scrappy… the continuous evolution of a Radix-native DEX from concept to reality.",
-      "date": "Wed, 09 Aug 2023 00:00:00 GMT",
-      "dateObj": "2023-08-09T00:00:00+00:00",
-      "image": "https://cdn.sanity.io/images/fkmphqh5/production/13ef96bf532f2e14d7adad5bbc250b80b0f84127-2000x1126.jpg?h=500",
-      "source": "Ociswap"
-    },
-    {
-      "title": "Countdown to Babylon… Building a Scrypto App",
-      "link": "https://ociswap.com/blog/countdown-to-babylon-building-a-scrypto-app",
-      "description": "Join Ociswap's Senior Software Engineer, Nadev on the journey of building dApps using Scrypto!",
-      "date": "Wed, 26 Jul 2023 00:00:00 GMT",
-      "dateObj": "2023-07-26T00:00:00+00:00",
-      "image": "https://cdn.sanity.io/images/fkmphqh5/production/465c72e7d82bb146afedbc558dea9acf21d7a8a4-8005x4505.png?h=500",
-      "source": "Ociswap"
-    },
-    {
-      "title": "Countdown to Babylon… New Features!",
-      "link": "https://ociswap.com/blog/countdown-to-babylon-new-features",
-      "description": "Several new features to look forward to when the Ociswap DEX goes live. No Sleep ‘til Babylon!",
-      "date": "Wed, 24 May 2023 00:00:00 GMT",
-      "dateObj": "2023-05-24T00:00:00+00:00",
-      "image": "https://cdn.sanity.io/images/fkmphqh5/production/aa33bd98b1f0918ff8620c7a78f8335fa9774ba0-8005x4505.png?h=500",
-      "source": "Ociswap"
-    },
-    {
-      "title": "Countdown to Babylon… Consensus & Crypto Rockstars 2023",
-      "link": "https://ociswap.com/blog/countdown-to-babylon-consensus-and-crypto-rockstars-2023",
-      "description": "From the Radix Grants Program to our time at Consensus 2023 and Crypto Rockstars in Cologne, the Ociswap team has been forging connections, raising aw",
-      "date": "Thu, 11 May 2023 00:00:00 GMT",
-      "dateObj": "2023-05-11T00:00:00+00:00",
-      "image": "https://cdn.sanity.io/images/fkmphqh5/production/884e676b88aef7dd344eb6ec66188a333b2e7b02-1920x1080.png?h=500",
-      "source": "Ociswap"
-    },
-    {
-      "title": "Ociswap Introduces Ocibot and Welcomes Daan to the Team!",
-      "link": "https://ociswap.com/blog/ociswap-introduces-ocibot-and-welcomes-daan-to-the-team",
-      "description": "New upgrades for Ocibot and the team!",
-      "date": "Mon, 03 Apr 2023 00:00:00 GMT",
-      "dateObj": "2023-04-03T00:00:00+00:00",
-      "image": "https://cdn.sanity.io/images/fkmphqh5/production/d0b1d41d12e778d907323cc58723f1d8ad84f3a8-1920x1080.png?h=500",
-      "source": "Ociswap"
-    },
-    {
-      "title": "Countdown to Babylon… New Hires!",
-      "link": "https://ociswap.com/blog/countdown-to-babylon-new-hires",
-      "description": "A warm welcome to two smart cats! 😻",
-      "date": "Wed, 08 Mar 2023 00:00:00 GMT",
-      "dateObj": "2023-03-08T00:00:00+00:00",
-      "image": "https://cdn.sanity.io/images/fkmphqh5/production/16961bd67871c8fae13abdd6edd6f8ab48ba4eae-8005x4505.png?h=500",
-      "source": "Ociswap"
-    },
-    {
-      "title": "Countdown to Babylon… SPLASH!",
-      "link": "https://ociswap.com/blog/countdown-to-babylon-splash",
-      "description": "Cats and water don’t usually mix, but SPLASH is a match made in Babylon 😻. Add liquidity on Ociswap for a share of the 100,000 $OCI weekly bonus!",
-      "date": "Tue, 28 Feb 2023 00:00:00 GMT",
-      "dateObj": "2023-02-28T00:00:00+00:00",
-      "image": "https://cdn.sanity.io/images/fkmphqh5/production/7dc82708609640366037d971b89b3d2cd3ab3dbc-1920x1080.png?h=500",
-      "source": "Ociswap"
-    },
-    {
-      "title": "Countdown to Babylon… The Radix Wallet",
-      "link": "https://ociswap.com/blog/countdown-to-babylon-the-radix-wallet",
-      "description": "The Radix Wallet uses several new technologies that will take DeFi mainstream. Strap in and get ready for launch!",
-      "date": "Thu, 16 Feb 2023 00:00:00 GMT",
-      "dateObj": "2023-02-16T00:00:00+00:00",
-      "image": "https://cdn.sanity.io/images/fkmphqh5/production/830151c8cb5558f1a7ddd6073c13b5e063cb77d7-1920x1080.png?h=500",
-      "source": "Ociswap"
-    },
-    {
-      "title": "BuyXRD is Live!",
-      "link": "https://ociswap.com/blog/buyxrd-is-live",
-      "description": "BuyXRD.com delivers you straight into the Radix ecosystem with frictionless $XRD purchases by card, Apple Pay and Google Pay!",
-      "date": "Fri, 03 Feb 2023 00:00:00 GMT",
-      "dateObj": "2023-02-03T00:00:00+00:00",
-      "image": "https://cdn.sanity.io/images/fkmphqh5/production/263c9d13b9b3c06ec24bd029a789eb34cebf8cb5-1920x1080.png?h=500",
-      "source": "Ociswap"
-    },
-    {
-      "title": "Ocicat Transmission #1 - 2022!",
-      "link": "https://ociswap.com/blog/ocicat-transmission-1-2022",
-      "description": "A year into our journey and we can't believe how far we've come! Here are some highlights from the past 12 months. Enjoy!",
-      "date": "Fri, 11 Nov 2022 00:00:00 GMT",
-      "dateObj": "2022-11-11T00:00:00+00:00",
-      "image": "https://cdn.sanity.io/images/fkmphqh5/production/6d67e995b6aae9c4182aa75f9566d2ae2bf29c9a-1920x1080.png?h=500",
-      "source": "Ociswap"
     }
   ],
-  "updated": "2025-11-18T11:01:14.276367"
+  "updated": "2025-11-18T12:01:16.644175"
 }
