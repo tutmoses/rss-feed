@@ -1,6 +1,15 @@
 {
   "items": [
     {
+      "title": "Hyperlane eXRD Route Now Live: Direct Path Between Ethereum and Radix | The Radix Blog | Radix DLT",
+      "link": "https://www.radixdlt.com/blog/hyperlane-exrd-route-now-live-direct-path-between-ethereum-and-radix",
+      "description": "A warp route has been added that allows users to swap between eXRD (Ethereum) and native XRD in a fully permissionless way. This means you can now mov",
+      "date": "Wed, 19 Nov 2025 15:53:10 GMT",
+      "dateObj": "2025-11-19T15:53:10+00:00",
+      "image": "https://cdn.prod.website-files.com/60540b6d30224a7cb015203a/691de773391284a6d4575680_Screenshot%202025-11-19%20at%2015.55.15.png",
+      "source": "RadixDLT"
+    },
+    {
       "title": "Hyperscale Rebirth: Update 1 | The Radix Blog | Radix DLT",
       "link": "https://www.radixdlt.com/blog/hyperscale-rebirth-update-1",
       "description": "In this first update, Timan, the Interim Hyperscale Lead, looks back at the first steps in the journey to getting the Hyperscale research network up a",
@@ -1324,15 +1333,6 @@
       "source": "RadixDLT"
     },
     {
-      "title": "Recap: Token2049 Singapore | The Radix Blog | Radix DLT",
-      "link": "https://www.radixdlt.com/blog/recap-token2049-singapore",
-      "description": "",
-      "date": "Mon, 30 Sep 2024 18:42:40 GMT",
-      "dateObj": "2024-09-30T18:42:40+00:00",
-      "image": "https://cdn.prod.website-files.com/60540b6d30224a7cb015203a/66f9858ff8dd28634e8826e3_Recap-Radix-at-Token-2049-blog.png",
-      "source": "RadixDLT"
-    },
-    {
       "title": "2024 U.S. Presidential Election: Special Bets",
       "link": "https://medium.com/@delphibets/2024-u-s-presidential-election-special-bets-46328dda917d?source=rss-d511bfdc4b6a------2",
       "description": "2024 U.S. Presidential Election: Special Prediction Event🔮 BET NOW ON DELPHIBETS.COMThe Sprint to November Is OnOn November 5, 2024, US citizens will ",
@@ -1657,5 +1657,5 @@
       "source": "Ociswap"
     }
   ],
-  "updated": "2025-11-19T15:01:20.991606"
+  "updated": "2025-11-19T16:01:25.962729"
 }
