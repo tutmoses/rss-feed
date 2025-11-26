@@ -1,6 +1,15 @@
 {
   "items": [
     {
+      "title": "Radix Quick-Start Guide  | The Radix Blog | Radix DLT",
+      "link": "https://www.radixdlt.com/blog/radix-quick-start-guide",
+      "description": "This quick-start guide on Radix will teach you the basics to get started: download the Radix Wallet and complete Radquest, bridge to and from Radix us",
+      "date": "Wed, 26 Nov 2025 15:22:39 GMT",
+      "dateObj": "2025-11-26T15:22:39+00:00",
+      "image": "https://cdn.prod.website-files.com/60540b6d30224a7cb015203a/69271abf90bfe1e7b4e130de_Radix%20Quick-Start%20Guide.png",
+      "source": "RadixDLT"
+    },
+    {
       "title": "Hyperlane eXRD Route Now Live: Direct Path Between Ethereum and Radix | The Radix Blog | Radix DLT",
       "link": "https://www.radixdlt.com/blog/hyperlane-exrd-route-now-live-direct-path-between-ethereum-and-radix",
       "description": "A warp route has been added that allows users to swap between eXRD (Ethereum) and native XRD in a fully permissionless way. This means you can now mov",
@@ -1324,15 +1333,6 @@
       "source": "RadixDLT"
     },
     {
-      "title": "Babylon Turns One: Key Achievements and the Road Ahead | The Radix Blog | Radix DLT",
-      "link": "https://www.radixdlt.com/blog/babylon-turns-one-key-achievements-and-the-road-ahead",
-      "description": "",
-      "date": "Mon, 30 Sep 2024 18:42:40 GMT",
-      "dateObj": "2024-09-30T18:42:40+00:00",
-      "image": "https://cdn.prod.website-files.com/60540b6d30224a7cb015203a/66faec43c9ea24471d4a30b4_Babylon-1year.png",
-      "source": "RadixDLT"
-    },
-    {
       "title": "2024 U.S. Presidential Election: Special Bets",
       "link": "https://medium.com/@delphibets/2024-u-s-presidential-election-special-bets-46328dda917d?source=rss-d511bfdc4b6a------2",
       "description": "2024 U.S. Presidential Election: Special Prediction Event🔮 BET NOW ON DELPHIBETS.COMThe Sprint to November Is OnOn November 5, 2024, US citizens will ",
@@ -1657,5 +1657,5 @@
       "source": "Ociswap"
     }
   ],
-  "updated": "2025-11-26T15:01:14.367969"
+  "updated": "2025-11-26T16:01:09.355517"
 }
