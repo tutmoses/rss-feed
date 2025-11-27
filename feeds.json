@@ -1,6 +1,15 @@
 {
   "items": [
     {
+      "title": "DEX Aggregators: Getting Better Prices on Radix | The Radix Blog | Radix DLT",
+      "link": "https://www.radixdlt.com/blog/dex-aggregators-getting-better-prices-on-radix",
+      "description": "Trading on decentralized exchanges has become a key part of the crypto experience. But with multiple DEXs on Radix offering different prices for the s",
+      "date": "Thu, 27 Nov 2025 17:15:09 GMT",
+      "dateObj": "2025-11-27T17:15:09+00:00",
+      "image": "https://cdn.prod.website-files.com/60540b6d30224a7cb015203a/6928857befca46950ed75226_Lending%20and%20Borrowing%20on%20Radix%20Explained%20(1).png",
+      "source": "RadixDLT"
+    },
+    {
       "title": "Radix Quick-Start Guide  | The Radix Blog | Radix DLT",
       "link": "https://www.radixdlt.com/blog/radix-quick-start-guide",
       "description": "This quick-start guide on Radix will teach you the basics to get started: download the Radix Wallet and complete Radquest, bridge to and from Radix us",
@@ -1324,15 +1333,6 @@
       "source": "RadixDLT"
     },
     {
-      "title": "Technical Deep Dive: How Flash Liquidity Will Work | The Radix Blog | Radix DLT",
-      "link": "https://www.radixdlt.com/blog/technical-deep-dive-how-flash-liquidity-will-work",
-      "description": "",
-      "date": "Wed, 02 Oct 2024 16:45:15 GMT",
-      "dateObj": "2024-10-02T16:45:15+00:00",
-      "image": "https://cdn.prod.website-files.com/60540b6d30224a7cb015203a/66cdd6b3cb3303035fbb11c8_TechTalk-Flash%20Liquidity%20(1).png",
-      "source": "RadixDLT"
-    },
-    {
       "title": "2024 U.S. Presidential Election: Special Bets",
       "link": "https://medium.com/@delphibets/2024-u-s-presidential-election-special-bets-46328dda917d?source=rss-d511bfdc4b6a------2",
       "description": "2024 U.S. Presidential Election: Special Prediction Event🔮 BET NOW ON DELPHIBETS.COMThe Sprint to November Is OnOn November 5, 2024, US citizens will ",
@@ -1657,5 +1657,5 @@
       "source": "Ociswap"
     }
   ],
-  "updated": "2025-11-27T17:01:03.477492"
+  "updated": "2025-11-27T18:01:00.870408"
 }
