@@ -1,6 +1,15 @@
 {
   "items": [
     {
+      "title": "Hyperscale Rebirth Update 2 | The Radix Blog | Radix DLT",
+      "link": "https://www.radixdlt.com/blog/hyperscale-rebirth-update-2",
+      "description": "Since the previous update, things have moved quickly. Some days were smooth, others were a grind, which is pretty normal when you’re learning a new co",
+      "date": "Fri, 28 Nov 2025 14:36:58 GMT",
+      "dateObj": "2025-11-28T14:36:58+00:00",
+      "image": "https://cdn.prod.website-files.com/60540b6d30224a7cb015203a/6929b2ae57c00d6f62d4f551_Hyperscale%20Rebirth%204.png",
+      "source": "RadixDLT"
+    },
+    {
       "title": "DEX Aggregators: Getting Better Prices on Radix | The Radix Blog | Radix DLT",
       "link": "https://www.radixdlt.com/blog/dex-aggregators-getting-better-prices-on-radix",
       "description": "Trading on decentralized exchanges has become a key part of the crypto experience. But with multiple DEXs on Radix offering different prices for the s",
@@ -1324,15 +1333,6 @@
       "source": "RadixDLT"
     },
     {
-      "title": "It’s Personal: Time to Restructure & Get Things Back on Track | The Radix Blog | Radix DLT",
-      "link": "https://www.radixdlt.com/blog/its-personal-time-to-restructure-get-things-back-on-track",
-      "description": "We have faced more than our fair share of challenges, but I'll be the first to admit it: things haven't gone as planned. That’s why I’m making changes",
-      "date": "Wed, 02 Oct 2024 16:45:15 GMT",
-      "dateObj": "2024-10-02T16:45:15+00:00",
-      "image": "https://cdn.prod.website-files.com/60540b6d30224a7cb015203a/66fd70768ef94616410e3e94_Dan_Hughes-It%27s_Personal.png",
-      "source": "RadixDLT"
-    },
-    {
       "title": "2024 U.S. Presidential Election: Special Bets",
       "link": "https://medium.com/@delphibets/2024-u-s-presidential-election-special-bets-46328dda917d?source=rss-d511bfdc4b6a------2",
       "description": "2024 U.S. Presidential Election: Special Prediction Event🔮 BET NOW ON DELPHIBETS.COMThe Sprint to November Is OnOn November 5, 2024, US citizens will ",
@@ -1657,5 +1657,5 @@
       "source": "Ociswap"
     }
   ],
-  "updated": "2025-11-28T14:01:06.093580"
+  "updated": "2025-11-28T15:00:58.253706"
 }
