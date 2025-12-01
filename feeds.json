@@ -1,6 +1,15 @@
 {
   "items": [
     {
+      "title": "Radix Rewards Season 0: Calculation Starting Soon | The Radix Blog | Radix DLT",
+      "link": "https://www.radixdlt.com/blog/radix-rewards-season-0-calculation-starting-soon",
+      "description": "The window to qualify for Season 0 closes at 00:00 UTC on December 17, 2025. To receive the bonus, you must register for Radix Rewards and link every ",
+      "date": "Mon, 01 Dec 2025 16:15:57 GMT",
+      "dateObj": "2025-12-01T16:15:57+00:00",
+      "image": "https://cdn.prod.website-files.com/60540b6d30224a7cb015203a/692dbedbef30fe0ee3262539_Season%200%20Calculation%20Soon.png",
+      "source": "RadixDLT"
+    },
+    {
       "title": "Hyperscale Rebirth Update 2 | The Radix Blog | Radix DLT",
       "link": "https://www.radixdlt.com/blog/hyperscale-rebirth-update-2",
       "description": "Since the previous update, things have moved quickly. Some days were smooth, others were a grind, which is pretty normal when you’re learning a new co",
@@ -1324,15 +1333,6 @@
       "source": "DelphiBets"
     },
     {
-      "title": "Scrypto Developer Program Incentives | The Radix Blog | Radix DLT",
-      "link": "https://www.radixdlt.com/blog/scrypto-developer-program-incentives",
-      "description": "At the start of Alexandria, Scrypto was launched in its first public release to the developer community and from this, we kickstarted the Developer Pr",
-      "date": "Tue, 08 Oct 2024 10:55:02 GMT",
-      "dateObj": "2024-10-08T10:55:02+00:00",
-      "image": "https://cdn.prod.website-files.com/60540b6d30224a7cb015203a/64b91ade8eb5ddace1d7a50d_63d3b0dcbb099bef63a53483_Scrypto%2520Incentives%2520Blog%2520banner.png",
-      "source": "RadixDLT"
-    },
-    {
       "title": "2024 U.S. Presidential Election: Special Bets",
       "link": "https://medium.com/@delphibets/2024-u-s-presidential-election-special-bets-46328dda917d?source=rss-d511bfdc4b6a------2",
       "description": "2024 U.S. Presidential Election: Special Prediction Event🔮 BET NOW ON DELPHIBETS.COMThe Sprint to November Is OnOn November 5, 2024, US citizens will ",
@@ -1657,5 +1657,5 @@
       "source": "Ociswap"
     }
   ],
-  "updated": "2025-12-01T16:01:15.611205"
+  "updated": "2025-12-01T17:02:30.062862"
 }
