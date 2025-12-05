@@ -1,6 +1,15 @@
 {
   "items": [
     {
+      "title": "Understanding Trading on Perpetual DEXs | The Radix Blog | Radix DLT",
+      "link": "https://www.radixdlt.com/blog/understanding-trading-on-perpetual-dexs",
+      "description": "Perpetual futures trading on Surge, Radix's first perpetual DEX, lets you speculate on crypto price movements with up to 50x leverage without owning t",
+      "date": "Fri, 05 Dec 2025 18:03:54 GMT",
+      "dateObj": "2025-12-05T18:03:54+00:00",
+      "image": "https://cdn.prod.website-files.com/60540b6d30224a7cb015203a/69331daa4d5806ed5709259a_Lending%20and%20Borrowing%20on%20Radix%20Explained%20(2).png",
+      "source": "RadixDLT"
+    },
+    {
       "title": "Radix Rewards Season 0: Calculation Starting Soon | The Radix Blog | Radix DLT",
       "link": "https://www.radixdlt.com/blog/radix-rewards-season-0-calculation-starting-soon",
       "description": "The window to qualify for Season 0 closes at 00:00 UTC on December 17, 2025. To receive the bonus, you must register for Radix Rewards and link every ",
@@ -1315,15 +1324,6 @@
       "source": "RadixDLT"
     },
     {
-      "title": "Access XRD Through ClearLoop | The Radix Blog | Radix DLT",
-      "link": "https://www.radixdlt.com/blog/access-xrd-through-clearloop",
-      "description": "",
-      "date": "Thu, 24 Oct 2024 14:54:54 GMT",
-      "dateObj": "2024-10-24T14:54:54+00:00",
-      "image": "https://cdn.prod.website-files.com/60540b6d30224a7cb015203a/670e78e985bc155086dfa931_Access%20XRD%20ClearLoop%20(1).png",
-      "source": "RadixDLT"
-    },
-    {
       "title": "Create & Join Pool Bets — DELPHIBETS V1.5 Now Live",
       "link": "https://medium.com/@delphibets/create-join-pool-bets-delphibets-v1-5-now-live-8af9b554cd8e?source=rss-d511bfdc4b6a------2",
       "description": "Create & Join Pool Bets — DELPHIBETS V1.5 Now LiveEarn big time by having many bettors choosing your market. Unlock yield potential with DELPHIBETS V1",
@@ -1657,5 +1657,5 @@
       "source": "Ociswap"
     }
   ],
-  "updated": "2025-12-05T18:01:04.586973"
+  "updated": "2025-12-05T19:01:03.872398"
 }
