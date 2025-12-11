@@ -1,6 +1,15 @@
 {
   "items": [
     {
+      "title": "MFA Phase 2 - Updating Your Security Made Simple | The Radix Blog | Radix DLT",
+      "link": "https://www.radixdlt.com/blog/mfa-phase-2---updating-your-security-made-simple",
+      "description": "MFA Phase 2 is now live on Stokenet. You can now safely update your security structure anytime by using the recovery process with Phase 2 of MFA testi",
+      "date": "Thu, 11 Dec 2025 15:01:45 GMT",
+      "dateObj": "2025-12-11T15:01:45+00:00",
+      "image": "https://cdn.prod.website-files.com/60540b6d30224a7cb015203a/693adc1d87f7686ed04bd7c9_MFA%20P2.png",
+      "source": "RadixDLT"
+    },
+    {
       "title": "Understanding Trading on Perpetual DEXs | The Radix Blog | Radix DLT",
       "link": "https://www.radixdlt.com/blog/understanding-trading-on-perpetual-dexs",
       "description": "Perpetual futures trading on Surge, Radix's first perpetual DEX, lets you speculate on crypto price movements with up to 50x leverage without owning t",
@@ -1315,15 +1324,6 @@
       "source": "RadixDLT"
     },
     {
-      "title": "European Blockchain Convention: Event Highlights | The Radix Blog | Radix DLT",
-      "link": "https://www.radixdlt.com/blog/european-blockchain-convention-event-highlights",
-      "description": "",
-      "date": "Thu, 24 Oct 2024 14:54:54 GMT",
-      "dateObj": "2024-10-24T14:54:54+00:00",
-      "image": "https://cdn.prod.website-files.com/60540b6d30224a7cb015203a/671270af7cd500f31e7c380d_Ecosystem-Success-European%20Blockchain%20Convention%20Hackathon.png",
-      "source": "RadixDLT"
-    },
-    {
       "title": "Create & Join Pool Bets — DELPHIBETS V1.5 Now Live",
       "link": "https://medium.com/@delphibets/create-join-pool-bets-delphibets-v1-5-now-live-8af9b554cd8e?source=rss-d511bfdc4b6a------2",
       "description": "Create & Join Pool Bets — DELPHIBETS V1.5 Now LiveEarn big time by having many bettors choosing your market. Unlock yield potential with DELPHIBETS V1",
@@ -1657,5 +1657,5 @@
       "source": "Ociswap"
     }
   ],
-  "updated": "2025-12-11T15:01:29.659742"
+  "updated": "2025-12-11T16:01:32.113367"
 }
