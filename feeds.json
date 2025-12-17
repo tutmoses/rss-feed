@@ -1,6 +1,15 @@
 {
   "items": [
     {
+      "title": "Season 1 Conclusion and Reward Distribution Mechanics | The Radix Blog | Radix DLT",
+      "link": "https://www.radixdlt.com/blog/season-1-conclusion-and-reward-distribution-mechanics",
+      "description": "We are requesting community feedback on when the season should end, and the mechanism for reward distribution.",
+      "date": "Wed, 17 Dec 2025 16:58:28 GMT",
+      "dateObj": "2025-12-17T16:58:28+00:00",
+      "image": "https://cdn.prod.website-files.com/60540b6d30224a7cb015203a/6942dfff760d33fff0e19257_Season%201%20Conclusion%20and%20Distribution.png",
+      "source": "RadixDLT"
+    },
+    {
       "title": "MFA Phase 2 - Updating Your Security Made Simple | The Radix Blog | Radix DLT",
       "link": "https://www.radixdlt.com/blog/mfa-phase-2---updating-your-security-made-simple",
       "description": "MFA Phase 2 is now live on Stokenet. You can now safely update your security structure anytime by using the recovery process with Phase 2 of MFA testi",
@@ -1315,15 +1324,6 @@
       "source": "RadixDLT"
     },
     {
-      "title": "PrimeVault Integrates Radix  | The Radix Blog | Radix DLT",
-      "link": "https://www.radixdlt.com/blog/primevault-integrates-radix",
-      "description": "",
-      "date": "Thu, 24 Oct 2024 15:02:45 GMT",
-      "dateObj": "2024-10-24T15:02:45+00:00",
-      "image": "https://cdn.prod.website-files.com/60540b6d30224a7cb015203a/671a5142028e2de2348017f8_Primevault.png",
-      "source": "RadixDLT"
-    },
-    {
       "title": "Create & Join Pool Bets — DELPHIBETS V1.5 Now Live",
       "link": "https://medium.com/@delphibets/create-join-pool-bets-delphibets-v1-5-now-live-8af9b554cd8e?source=rss-d511bfdc4b6a------2",
       "description": "Create & Join Pool Bets — DELPHIBETS V1.5 Now LiveEarn big time by having many bettors choosing your market. Unlock yield potential with DELPHIBETS V1",
@@ -1657,5 +1657,5 @@
       "source": "Ociswap"
     }
   ],
-  "updated": "2025-12-17T16:01:28.072461"
+  "updated": "2025-12-17T17:04:15.447327"
 }
