@@ -1,6 +1,15 @@
 {
   "items": [
     {
+      "title": "eXRD Now Accessible via Coinbase DEX | The Radix Blog | Radix DLT",
+      "link": "https://www.radixdlt.com/blog/exrd-now-accessible-via-coinbase-dex",
+      "description": "We are thrilled to announce that the XRD<>eXRD Hyperlane route has expanded to include Base. This integration unlocks a major milestone for the ecosys",
+      "date": "Wed, 24 Dec 2025 13:42:12 GMT",
+      "dateObj": "2025-12-24T13:42:12+00:00",
+      "image": "https://cdn.prod.website-files.com/60540b6d30224a7cb015203a/694beb20d04043bbfeeb2ff9_eXRD%20Coinbase.png",
+      "source": "RadixDLT"
+    },
+    {
       "title": "Radix Review 2025  | The Radix Blog | Radix DLT",
       "link": "https://www.radixdlt.com/blog/radix-review-2025",
       "description": "2025 was a year of contrasts. Radix faced profound loss and market headwinds, but also delivered with major launches like Hyperlane and Radix Rewards,",
@@ -1315,15 +1324,6 @@
       "source": "RadixDLT"
     },
     {
-      "title": "Demonstrated: Revolutionizing Issuing & Managing Digital Assets on Radix | The Radix Blog | Radix DLT",
-      "link": "https://www.radixdlt.com/blog/demonstrated-revolutionizing-issuing-managing-digital-assets-on-radix",
-      "description": "",
-      "date": "Wed, 30 Oct 2024 16:28:49 GMT",
-      "dateObj": "2024-10-30T16:28:49+00:00",
-      "image": "https://cdn.prod.website-files.com/60540b6d30224a7cb015203a/6720d3c4a350d75777242310_Issuing%20%26%20Managing%20Digital%20Assets%20on%20Radix.png",
-      "source": "RadixDLT"
-    },
-    {
       "title": "Create & Join Pool Bets — DELPHIBETS V1.5 Now Live",
       "link": "https://medium.com/@delphibets/create-join-pool-bets-delphibets-v1-5-now-live-8af9b554cd8e?source=rss-d511bfdc4b6a------2",
       "description": "Create & Join Pool Bets — DELPHIBETS V1.5 Now LiveEarn big time by having many bettors choosing your market. Unlock yield potential with DELPHIBETS V1",
@@ -1657,5 +1657,5 @@
       "source": "Ociswap"
     }
   ],
-  "updated": "2025-12-24T13:10:47.354273"
+  "updated": "2025-12-24T14:00:59.901898"
 }
