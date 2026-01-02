@@ -1,6 +1,15 @@
 {
   "items": [
     {
+      "title": "Hyperscale Rebirth Part 3 | The Radix Blog | Radix DLT",
+      "link": "https://www.radixdlt.com/blog/hyperscale-rebirth-part-3",
+      "description": "Last weekend, during a test with the private testing group, we reached 381k TPS, and yes, those are swaps, not simple transfers. More than sixty nodes",
+      "date": "Fri, 02 Jan 2026 15:58:04 GMT",
+      "dateObj": "2026-01-02T15:58:04+00:00",
+      "image": "https://cdn.prod.website-files.com/60540b6d30224a7cb015203a/6957eacc75e47cb937160e2d_Hyperscale%20part%203.png",
+      "source": "RadixDLT"
+    },
+    {
       "title": "eXRD Now Accessible via Coinbase DEX | The Radix Blog | Radix DLT",
       "link": "https://www.radixdlt.com/blog/exrd-now-accessible-via-coinbase-dex",
       "description": "We are thrilled to announce that the XRD<>eXRD Hyperlane route has expanded to include Base. This integration unlocks a major milestone for the ecosys",
@@ -1315,15 +1324,6 @@
       "source": "RadixDLT"
     },
     {
-      "title": "Coinstore Integrates Radix | The Radix Blog | Radix DLT",
-      "link": "https://www.radixdlt.com/blog/coinstore-integrates-radix",
-      "description": "",
-      "date": "Fri, 01 Nov 2024 09:15:16 GMT",
-      "dateObj": "2024-11-01T09:15:16+00:00",
-      "image": "https://cdn.prod.website-files.com/60540b6d30224a7cb015203a/67249a1a84d2fd60959e50eb_Coinstore%20(1).png",
-      "source": "RadixDLT"
-    },
-    {
       "title": "Create & Join Pool Bets — DELPHIBETS V1.5 Now Live",
       "link": "https://medium.com/@delphibets/create-join-pool-bets-delphibets-v1-5-now-live-8af9b554cd8e?source=rss-d511bfdc4b6a------2",
       "description": "Create & Join Pool Bets — DELPHIBETS V1.5 Now LiveEarn big time by having many bettors choosing your market. Unlock yield potential with DELPHIBETS V1",
@@ -1657,5 +1657,5 @@
       "source": "Ociswap"
     }
   ],
-  "updated": "2026-01-02T15:01:16.347242"
+  "updated": "2026-01-02T16:01:04.505675"
 }
