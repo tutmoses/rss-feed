@@ -1,6 +1,15 @@
 {
   "items": [
     {
+      "title": "Token Holder Consultation: Season 1 Timeline & Vesting Mechanics | The Radix Blog | Radix DLT",
+      "link": "https://www.radixdlt.com/blog/token-holder-consultation-season-1-timeline-vesting-mechanics",
+      "description": "Following the informal feedback gathered recently regarding the conclusion of Radix Rewards Season 1, we are moving to a formal consultation to finali",
+      "date": "Wed, 07 Jan 2026 17:14:07 GMT",
+      "dateObj": "2026-01-07T17:14:07+00:00",
+      "image": "https://cdn.prod.website-files.com/60540b6d30224a7cb015203a/695e93faa7bc0d7ba68d140d_S1%20Token%20Holder%20Consultation.png",
+      "source": "RadixDLT"
+    },
+    {
       "title": "Hyperscale Rebirth Part 3 | The Radix Blog | Radix DLT",
       "link": "https://www.radixdlt.com/blog/hyperscale-rebirth-part-3",
       "description": "Last weekend, during a test with the private testing group, we reached 381k TPS, and yes, those are swaps, not simple transfers. More than sixty nodes",
@@ -1315,15 +1324,6 @@
       "source": "RadixDLT"
     },
     {
-      "title": "Video: An Introduction to Anthic | The Radix Blog | Radix DLT",
-      "link": "https://www.radixdlt.com/blog/video-an-introduction-to-anthic",
-      "description": "",
-      "date": "Tue, 05 Nov 2024 16:04:53 GMT",
-      "dateObj": "2024-11-05T16:04:53+00:00",
-      "image": "https://cdn.prod.website-files.com/60540b6d30224a7cb015203a/672a2fbe471a07172e7d6234_AMA-Intro%20to%20Anthic.png",
-      "source": "RadixDLT"
-    },
-    {
       "title": "Create & Join Pool Bets — DELPHIBETS V1.5 Now Live",
       "link": "https://medium.com/@delphibets/create-join-pool-bets-delphibets-v1-5-now-live-8af9b554cd8e?source=rss-d511bfdc4b6a------2",
       "description": "Create & Join Pool Bets — DELPHIBETS V1.5 Now LiveEarn big time by having many bettors choosing your market. Unlock yield potential with DELPHIBETS V1",
@@ -1657,5 +1657,5 @@
       "source": "Ociswap"
     }
   ],
-  "updated": "2026-01-07T17:04:28.749617"
+  "updated": "2026-01-07T18:01:18.210758"
 }
