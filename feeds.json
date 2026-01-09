@@ -1,6 +1,24 @@
 {
   "items": [
     {
+      "title": "2026 Strategy: The Next Chapter of Radix | The Radix Blog | Radix DLT",
+      "link": "https://www.radixdlt.com/blog/2026-strategy-the-next-chapter-of-radix",
+      "description": "",
+      "date": "Fri, 09 Jan 2026 19:30:39 GMT",
+      "dateObj": "2026-01-09T19:30:39+00:00",
+      "image": "https://cdn.prod.website-files.com/60540b6d30224a7cb015203a/6961564701cbadc4bb8d1752_2026%20Strategy.png",
+      "source": "RadixDLT"
+    },
+    {
+      "title": "2026 Strategy FAQ | The Radix Blog | Radix DLT",
+      "link": "https://www.radixdlt.com/blog/2026-strategy-faq",
+      "description": "2026 Strategy FAQs",
+      "date": "Fri, 09 Jan 2026 19:30:35 GMT",
+      "dateObj": "2026-01-09T19:30:35+00:00",
+      "image": "https://cdn.prod.website-files.com/60540b6d30224a7cb015203a/696155ca9f82b8bbe812d389_Strategy%20FAQ.png",
+      "source": "RadixDLT"
+    },
+    {
       "title": "Token Holder Consultation: Season 1 Timeline & Vesting Mechanics | The Radix Blog | Radix DLT",
       "link": "https://www.radixdlt.com/blog/token-holder-consultation-season-1-timeline-vesting-mechanics",
       "description": "Following the informal feedback gathered recently regarding the conclusion of Radix Rewards Season 1, we are moving to a formal consultation to finali",
@@ -1306,24 +1324,6 @@
       "source": "RadixDLT"
     },
     {
-      "title": "Meet The Project: Root Finance | The Radix Blog | Radix DLT",
-      "link": "https://www.radixdlt.com/blog/meet-the-project-root-finance",
-      "description": "",
-      "date": "Wed, 06 Nov 2024 12:20:10 GMT",
-      "dateObj": "2024-11-06T12:20:10+00:00",
-      "image": "https://cdn.prod.website-files.com/60540b6d30224a7cb015203a/6728e29068d132544157287f_RoR_Blog_Root%20Finance.png",
-      "source": "RadixDLT"
-    },
-    {
-      "title": "Navigating ShardSpace: An Easy Walkthrough | The Radix Blog | Radix DLT",
-      "link": "https://www.radixdlt.com/blog/navigating-shardspace-an-easy-walkthrough",
-      "description": "",
-      "date": "Wed, 06 Nov 2024 12:20:10 GMT",
-      "dateObj": "2024-11-06T12:20:10+00:00",
-      "image": "https://cdn.prod.website-files.com/60540b6d30224a7cb015203a/67238393ca27193f8bcdc0ce_Navigating%20ShardSpace.png",
-      "source": "RadixDLT"
-    },
-    {
       "title": "Create & Join Pool Bets — DELPHIBETS V1.5 Now Live",
       "link": "https://medium.com/@delphibets/create-join-pool-bets-delphibets-v1-5-now-live-8af9b554cd8e?source=rss-d511bfdc4b6a------2",
       "description": "Create & Join Pool Bets — DELPHIBETS V1.5 Now LiveEarn big time by having many bettors choosing your market. Unlock yield potential with DELPHIBETS V1",
@@ -1657,5 +1657,5 @@
       "source": "Ociswap"
     }
   ],
-  "updated": "2026-01-09T19:02:57.789510"
+  "updated": "2026-01-09T20:01:03.196688"
 }
