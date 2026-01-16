@@ -1,6 +1,15 @@
 {
   "items": [
     {
+      "title": "Hyperscale: Completing the Interim Phase | The Radix Blog | Radix DLT",
+      "link": "https://www.radixdlt.com/blog/hyperscale-completing-the-interim-phase",
+      "description": "",
+      "date": "Fri, 16 Jan 2026 11:23:11 GMT",
+      "dateObj": "2026-01-16T11:23:11+00:00",
+      "image": "https://cdn.prod.website-files.com/60540b6d30224a7cb015203a/69692dbd68a83c48372ca593_Hyperscale%20Interim.png",
+      "source": "RadixDLT"
+    },
+    {
       "title": "2026 Strategy: The Next Chapter of Radix | The Radix Blog | Radix DLT",
       "link": "https://www.radixdlt.com/blog/2026-strategy-the-next-chapter-of-radix",
       "description": "",
@@ -1315,15 +1324,6 @@
       "source": "RadixDLT"
     },
     {
-      "title": "From EBC to Radix: PawNFT | The Radix Blog | Radix DLT",
-      "link": "https://www.radixdlt.com/blog/from-ebc-to-radix-pawnft",
-      "description": "",
-      "date": "Wed, 20 Nov 2024 15:57:01 GMT",
-      "dateObj": "2024-11-20T15:57:01+00:00",
-      "image": "https://cdn.prod.website-files.com/60540b6d30224a7cb015203a/67338211c61b6b9bf9766c02_RoR_EBContoRadix_Blog_PawNFT.png",
-      "source": "RadixDLT"
-    },
-    {
       "title": "Create & Join Pool Bets — DELPHIBETS V1.5 Now Live",
       "link": "https://medium.com/@delphibets/create-join-pool-bets-delphibets-v1-5-now-live-8af9b554cd8e?source=rss-d511bfdc4b6a------2",
       "description": "Create & Join Pool Bets — DELPHIBETS V1.5 Now LiveEarn big time by having many bettors choosing your market. Unlock yield potential with DELPHIBETS V1",
@@ -1657,5 +1657,5 @@
       "source": "Ociswap"
     }
   ],
-  "updated": "2026-01-16T11:01:06.973604"
+  "updated": "2026-01-16T12:01:06.207004"
 }
