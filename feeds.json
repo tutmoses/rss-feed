@@ -1,11 +1,20 @@
 {
   "items": [
     {
+      "title": "‍Season 1 Consultation Results & Next Steps | The Radix Blog | Radix DLT",
+      "link": "https://www.radixdlt.com/blog/season-1-consultation-results-next-steps",
+      "description": "We have completed the consultation on the Season 1 conclusion and reward vesting. Thank you to every token holder who participated",
+      "date": "Thu, 22 Jan 2026 15:38:53 GMT",
+      "dateObj": "2026-01-22T15:38:53+00:00",
+      "image": "https://cdn.prod.website-files.com/60540b6d30224a7cb015203a/69724275d021399fbcaf9f40_RR%20S1%20Consultation%20Update.png",
+      "source": "RadixDLT"
+    },
+    {
       "title": "Hyperscale: Completing the Interim Phase | The Radix Blog | Radix DLT",
       "link": "https://www.radixdlt.com/blog/hyperscale-completing-the-interim-phase",
       "description": "",
-      "date": "Fri, 16 Jan 2026 11:23:11 GMT",
-      "dateObj": "2026-01-16T11:23:11+00:00",
+      "date": "Thu, 22 Jan 2026 15:38:53 GMT",
+      "dateObj": "2026-01-22T15:38:53+00:00",
       "image": "https://cdn.prod.website-files.com/60540b6d30224a7cb015203a/69692dbd68a83c48372ca593_Hyperscale%20Interim.png",
       "source": "RadixDLT"
     },
@@ -13,8 +22,8 @@
       "title": "2026 Strategy: The Next Chapter of Radix | The Radix Blog | Radix DLT",
       "link": "https://www.radixdlt.com/blog/2026-strategy-the-next-chapter-of-radix",
       "description": "",
-      "date": "Fri, 09 Jan 2026 19:30:39 GMT",
-      "dateObj": "2026-01-09T19:30:39+00:00",
+      "date": "Thu, 22 Jan 2026 15:38:53 GMT",
+      "dateObj": "2026-01-22T15:38:53+00:00",
       "image": "https://cdn.prod.website-files.com/60540b6d30224a7cb015203a/6961564701cbadc4bb8d1752_2026%20Strategy.png",
       "source": "RadixDLT"
     },
@@ -22,8 +31,8 @@
       "title": "2026 Strategy FAQ | The Radix Blog | Radix DLT",
       "link": "https://www.radixdlt.com/blog/2026-strategy-faq",
       "description": "2026 Strategy FAQs",
-      "date": "Fri, 09 Jan 2026 19:30:35 GMT",
-      "dateObj": "2026-01-09T19:30:35+00:00",
+      "date": "Thu, 22 Jan 2026 15:38:53 GMT",
+      "dateObj": "2026-01-22T15:38:53+00:00",
       "image": "https://cdn.prod.website-files.com/60540b6d30224a7cb015203a/696155ca9f82b8bbe812d389_Strategy%20FAQ.png",
       "source": "RadixDLT"
     },
@@ -31,8 +40,8 @@
       "title": "Token Holder Consultation: Season 1 Timeline & Vesting Mechanics | The Radix Blog | Radix DLT",
       "link": "https://www.radixdlt.com/blog/token-holder-consultation-season-1-timeline-vesting-mechanics",
       "description": "Following the informal feedback gathered recently regarding the conclusion of Radix Rewards Season 1, we are moving to a formal consultation to finali",
-      "date": "Wed, 07 Jan 2026 17:14:07 GMT",
-      "dateObj": "2026-01-07T17:14:07+00:00",
+      "date": "Thu, 22 Jan 2026 15:38:53 GMT",
+      "dateObj": "2026-01-22T15:38:53+00:00",
       "image": "https://cdn.prod.website-files.com/60540b6d30224a7cb015203a/695e93faa7bc0d7ba68d140d_S1%20Token%20Holder%20Consultation.png",
       "source": "RadixDLT"
     },
@@ -40,8 +49,8 @@
       "title": "Hyperscale Rebirth Part 3 | The Radix Blog | Radix DLT",
       "link": "https://www.radixdlt.com/blog/hyperscale-rebirth-part-3",
       "description": "Last weekend, during a test with the private testing group, we reached 381k TPS, and yes, those are swaps, not simple transfers. More than sixty nodes",
-      "date": "Fri, 02 Jan 2026 15:58:04 GMT",
-      "dateObj": "2026-01-02T15:58:04+00:00",
+      "date": "Thu, 22 Jan 2026 15:38:53 GMT",
+      "dateObj": "2026-01-22T15:38:53+00:00",
       "image": "https://cdn.prod.website-files.com/60540b6d30224a7cb015203a/6957eacc75e47cb937160e2d_Hyperscale%20part%203.png",
       "source": "RadixDLT"
     },
@@ -49,8 +58,8 @@
       "title": "eXRD Now Accessible via Coinbase DEX | The Radix Blog | Radix DLT",
       "link": "https://www.radixdlt.com/blog/exrd-now-accessible-via-coinbase-dex",
       "description": "We are thrilled to announce that the XRD<>eXRD Hyperlane route has expanded to include Base. This integration unlocks a major milestone for the ecosys",
-      "date": "Wed, 24 Dec 2025 13:42:12 GMT",
-      "dateObj": "2025-12-24T13:42:12+00:00",
+      "date": "Thu, 22 Jan 2026 15:38:53 GMT",
+      "dateObj": "2026-01-22T15:38:53+00:00",
       "image": "https://cdn.prod.website-files.com/60540b6d30224a7cb015203a/694beb20d04043bbfeeb2ff9_eXRD%20Coinbase.png",
       "source": "RadixDLT"
     },
@@ -58,8 +67,8 @@
       "title": "Radix Review 2025  | The Radix Blog | Radix DLT",
       "link": "https://www.radixdlt.com/blog/radix-review-2025",
       "description": "2025 was a year of contrasts. Radix faced profound loss and market headwinds, but also delivered with major launches like Hyperlane and Radix Rewards,",
-      "date": "Mon, 22 Dec 2025 15:27:10 GMT",
-      "dateObj": "2025-12-22T15:27:10+00:00",
+      "date": "Thu, 22 Jan 2026 15:38:53 GMT",
+      "dateObj": "2026-01-22T15:38:53+00:00",
       "image": "https://cdn.prod.website-files.com/60540b6d30224a7cb015203a/6949625527490cb472590f64_2025%20Year%20in%20Review.png",
       "source": "RadixDLT"
     },
@@ -67,8 +76,8 @@
       "title": "Season 1 Conclusion and Reward Distribution Mechanics | The Radix Blog | Radix DLT",
       "link": "https://www.radixdlt.com/blog/season-1-conclusion-and-reward-distribution-mechanics",
       "description": "We are requesting community feedback on when the season should end, and the mechanism for reward distribution.",
-      "date": "Wed, 17 Dec 2025 16:58:28 GMT",
-      "dateObj": "2025-12-17T16:58:28+00:00",
+      "date": "Thu, 22 Jan 2026 15:38:53 GMT",
+      "dateObj": "2026-01-22T15:38:53+00:00",
       "image": "https://cdn.prod.website-files.com/60540b6d30224a7cb015203a/6942dfff760d33fff0e19257_Season%201%20Conclusion%20and%20Distribution.png",
       "source": "RadixDLT"
     },
@@ -76,8 +85,8 @@
       "title": "MFA Phase 2 - Updating Your Security Made Simple | The Radix Blog | Radix DLT",
       "link": "https://www.radixdlt.com/blog/mfa-phase-2---updating-your-security-made-simple",
       "description": "MFA Phase 2 is now live on Stokenet. You can now safely update your security structure anytime by using the recovery process with Phase 2 of MFA testi",
-      "date": "Thu, 11 Dec 2025 15:01:45 GMT",
-      "dateObj": "2025-12-11T15:01:45+00:00",
+      "date": "Thu, 22 Jan 2026 15:38:53 GMT",
+      "dateObj": "2026-01-22T15:38:53+00:00",
       "image": "https://cdn.prod.website-files.com/60540b6d30224a7cb015203a/693adc1d87f7686ed04bd7c9_MFA%20P2.png",
       "source": "RadixDLT"
     },
@@ -1315,15 +1324,6 @@
       "source": "RadixDLT"
     },
     {
-      "title": "Ecosystem Fund Update: New Directions for Growth and Support | The Radix Blog | Radix DLT",
-      "link": "https://www.radixdlt.com/blog/ecosystem-fund-update-new-directions-for-growth-and-support",
-      "description": "",
-      "date": "Wed, 20 Nov 2024 15:57:01 GMT",
-      "dateObj": "2024-11-20T15:57:01+00:00",
-      "image": "https://cdn.prod.website-files.com/60540b6d30224a7cb015203a/673ca0f3614b8581267586c8_Radix%20Ecosystem%20Fund%20Update%20-%20New%20Directions%20(1).png",
-      "source": "RadixDLT"
-    },
-    {
       "title": "Create & Join Pool Bets — DELPHIBETS V1.5 Now Live",
       "link": "https://medium.com/@delphibets/create-join-pool-bets-delphibets-v1-5-now-live-8af9b554cd8e?source=rss-d511bfdc4b6a------2",
       "description": "Create & Join Pool Bets — DELPHIBETS V1.5 Now LiveEarn big time by having many bettors choosing your market. Unlock yield potential with DELPHIBETS V1",
@@ -1657,5 +1657,5 @@
       "source": "Ociswap"
     }
   ],
-  "updated": "2026-01-22T15:04:41.655148"
+  "updated": "2026-01-22T16:03:28.409588"
 }
