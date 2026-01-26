@@ -1,6 +1,33 @@
 {
   "items": [
     {
+      "title": "Scrypto 1.3.1: Unlocking Modern Rust Support | The Radix Blog | Radix DLT",
+      "link": "https://www.radixdlt.com/blog/scrypto-1-3-1-unlocking-modern-rust-support",
+      "description": "A new version of Scrypto (v1.3.1) went live earlier today and with it, Scrypto supports Rust versions newer than 1.81.0.",
+      "date": "Mon, 26 Jan 2026 15:15:12 GMT",
+      "dateObj": "2026-01-26T15:15:12+00:00",
+      "image": "https://cdn.prod.website-files.com/60540b6d30224a7cb015203a/696f91b3db91136a3793f432_Scyrpto%201.3.1.png",
+      "source": "RadixDLT"
+    },
+    {
+      "title": "The Foundation Operational Stack: Mapping the 2026 Transition | The Radix Blog | Radix DLT",
+      "link": "https://www.radixdlt.com/blog/the-foundation-operational-stack-mapping-the-2026-transition",
+      "description": "Mapping the transition to a fully decentralized Radix. We catalog the Foundation’s current operational stack, from critical network gateways to develo",
+      "date": "Mon, 26 Jan 2026 15:13:48 GMT",
+      "dateObj": "2026-01-26T15:13:48+00:00",
+      "image": "https://cdn.prod.website-files.com/60540b6d30224a7cb015203a/697781f1431085022a21bd82_2026%20transition%20stack.png",
+      "source": "RadixDLT"
+    },
+    {
+      "title": "Radix Rewards ‍Season 1 Consultation: Final Results and Implementation | The Radix Blog | Radix DLT",
+      "link": "https://www.radixdlt.com/blog/radix-rewards-season-1-consultation-final-results-and-implementation",
+      "description": "We have completed the confirmation consultation regarding the conclusion of the Radix Rewards Season 1. The community has rejected the previous weight",
+      "date": "Mon, 26 Jan 2026 15:13:48 GMT",
+      "dateObj": "2026-01-26T15:13:48+00:00",
+      "image": "https://cdn.prod.website-files.com/60540b6d30224a7cb015203a/697756a56851c75146393f75_RR%20S1%20Results.png",
+      "source": "RadixDLT"
+    },
+    {
       "title": "‍Season 1 Consultation Results & Next Steps | The Radix Blog | Radix DLT",
       "link": "https://www.radixdlt.com/blog/season-1-consultation-results-next-steps",
       "description": "We have completed the consultation on the Season 1 conclusion and reward vesting. Thank you to every token holder who participated",
@@ -1288,24 +1315,6 @@
       "source": "RadixDLT"
     },
     {
-      "title": "Meet the Project: Weft Finance | The Radix Blog | Radix DLT",
-      "link": "https://www.radixdlt.com/blog/meet-the-project-weft-finance",
-      "description": "",
-      "date": "Fri, 29 Nov 2024 08:59:05 GMT",
-      "dateObj": "2024-11-29T08:59:05+00:00",
-      "image": "https://cdn.prod.website-files.com/60540b6d30224a7cb015203a/6745e88ff758966e853e3778_RoR_Blog_Weft-Finance%20(1).png",
-      "source": "RadixDLT"
-    },
-    {
-      "title": "MVP Booster Grant Winners | The Radix Blog | Radix DLT",
-      "link": "https://www.radixdlt.com/blog/mvp-booster-grant-winners",
-      "description": "",
-      "date": "Fri, 29 Nov 2024 08:59:05 GMT",
-      "dateObj": "2024-11-29T08:59:05+00:00",
-      "image": "https://cdn.prod.website-files.com/60540b6d30224a7cb015203a/6740b3fcfe3d2748f0d71e3a_MVP%20Booster%20Grant.png",
-      "source": "RadixDLT"
-    },
-    {
       "title": "Runs on Radix dApp Demo: NFTwars",
       "link": "https://www.youtube.com/watch?v=ZFCXNAHbhzo",
       "description": "",
@@ -1313,15 +1322,6 @@
       "dateObj": "2024-11-20T16:10:58+00:00",
       "image": "https://i3.ytimg.com/vi/ZFCXNAHbhzo/hqdefault.jpg",
       "source": "RadixDLTyouTube"
-    },
-    {
-      "title": "Meet the Project: NFTWars | The Radix Blog | Radix DLT",
-      "link": "https://www.radixdlt.com/blog/meet-the-project-nftwars",
-      "description": "",
-      "date": "Wed, 20 Nov 2024 16:08:10 GMT",
-      "dateObj": "2024-11-20T16:08:10+00:00",
-      "image": "https://cdn.prod.website-files.com/60540b6d30224a7cb015203a/673e0111fa9d40076a2d2b29_RoR_Blog_NFT-Wars.png",
-      "source": "RadixDLT"
     },
     {
       "title": "Create & Join Pool Bets — DELPHIBETS V1.5 Now Live",
@@ -1657,5 +1657,5 @@
       "source": "Ociswap"
     }
   ],
-  "updated": "2026-01-26T15:03:40.435703"
+  "updated": "2026-01-26T16:02:53.471545"
 }
