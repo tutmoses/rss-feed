@@ -1,6 +1,15 @@
 {
   "items": [
     {
+      "title": "Consultation: Establishing the Radix Accountability Council (RAC) | The Radix Blog | Radix DLT",
+      "link": "https://www.radixdlt.com/blog/consultation-establishing-the-radix-accountability-council-rac",
+      "description": "The Radix community has proposed establishing the Radix Accountability Council (RAC) to facilitate the transition to the 2026 community-led model. Par",
+      "date": "Fri, 30 Jan 2026 18:22:50 GMT",
+      "dateObj": "2026-01-30T18:22:50+00:00",
+      "image": "https://cdn.prod.website-files.com/60540b6d30224a7cb015203a/697cf65d4e1bb21f1ceff550_RAC%20Consultation.png",
+      "source": "RadixDLT"
+    },
+    {
       "title": "Consultation: Defining Eligible Assets for Snapshots | The Radix Blog | Radix DLT",
       "link": "https://www.radixdlt.com/blog/consultation-defining-eligible-assets-for-snapshots",
       "description": "We need to define which XRD assets (staked, liquid, or in DeFi) should count toward voting power. Join the consultation to help establish the \"Safe Li",
@@ -1306,15 +1315,6 @@
       "source": "RadixDLT"
     },
     {
-      "title": "A New Phase for Radix: Adam Simmons Joins the Radix Foundation as CSO | The Radix Blog | Radix DLT",
-      "link": "https://www.radixdlt.com/blog/a-new-phase-for-radix-adam-simmons-joins-the-radix-foundation-as-cso",
-      "description": "",
-      "date": "Fri, 29 Nov 2024 14:57:20 GMT",
-      "dateObj": "2024-11-29T14:57:20+00:00",
-      "image": "https://cdn.prod.website-files.com/60540b6d30224a7cb015203a/6749ceafb7d6207557badbd2_Adam%20joins%20foundation%20(2).png",
-      "source": "RadixDLT"
-    },
-    {
       "title": "Runs on Radix dApp Demo: NFTwars",
       "link": "https://www.youtube.com/watch?v=ZFCXNAHbhzo",
       "description": "",
@@ -1657,5 +1657,5 @@
       "source": "Ociswap"
     }
   ],
-  "updated": "2026-01-30T18:05:32.694085"
+  "updated": "2026-01-30T19:10:02.219887"
 }
