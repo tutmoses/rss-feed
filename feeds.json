@@ -1,6 +1,15 @@
 {
   "items": [
     {
+      "title": "Hyperscale Update: 500k+ Public Test Done | The Radix Blog | Radix DLT",
+      "link": "https://www.radixdlt.com/blog/hyperscale-update-500k-public-test-done",
+      "description": "Radix Hyperscale hits 500k+ TPS in public testing! Discover how linear scaling, cross-shard atomic transactions, and community nodes are redefining bl",
+      "date": "Sat, 31 Jan 2026 16:11:48 GMT",
+      "dateObj": "2026-01-31T16:11:48+00:00",
+      "image": "https://cdn.prod.website-files.com/60540b6d30224a7cb015203a/697e1dc75f7b408d70e96914_Hyperscale%20500k.png",
+      "source": "RadixDLT"
+    },
+    {
       "title": "Consultation: Establishing the Radix Accountability Council (RAC) | The Radix Blog | Radix DLT",
       "link": "https://www.radixdlt.com/blog/consultation-establishing-the-radix-accountability-council-rac",
       "description": "The Radix community has proposed establishing the Radix Accountability Council (RAC) to facilitate the transition to the 2026 community-led model. Par",
@@ -1306,15 +1315,6 @@
       "source": "RadixDLTyouTube"
     },
     {
-      "title": "Radix Foundation: $25k per month Ecosystem Asset Fund | The Radix Blog | Radix DLT",
-      "link": "https://www.radixdlt.com/blog/radix-foundation-ecosystem-asset-fund",
-      "description": "The Radix Foundation is launching a $25,000-per-month ecosystem fund to buy and hold native assets in the Radix ecosystem.",
-      "date": "Tue, 03 Dec 2024 14:55:36 GMT",
-      "dateObj": "2024-12-03T14:55:36+00:00",
-      "image": "https://cdn.prod.website-files.com/60540b6d30224a7cb015203a/674f1943e00d524549227f17_%2425K%20per%20Month%20-%20Radix%20Ecosystem%20Fund%20(1).png",
-      "source": "RadixDLT"
-    },
-    {
       "title": "Runs on Radix dApp Demo: NFTwars",
       "link": "https://www.youtube.com/watch?v=ZFCXNAHbhzo",
       "description": "",
@@ -1657,5 +1657,5 @@
       "source": "Ociswap"
     }
   ],
-  "updated": "2026-01-31T16:01:23.061884"
+  "updated": "2026-01-31T17:03:33.879900"
 }
