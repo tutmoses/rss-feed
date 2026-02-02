@@ -1,6 +1,15 @@
 {
   "items": [
     {
+      "title": "Radix Rewards S1 Distribution | The Radix Blog | Radix DLT",
+      "link": "https://www.radixdlt.com/blog/radix-rewards-s1-distribution",
+      "description": "On February 3rd, 2026, at approximately 16:00 UTC, the vesting for Radix Rewards Season 0 and Season 1 goes live. This release represents a total pool",
+      "date": "Mon, 02 Feb 2026 18:52:46 GMT",
+      "dateObj": "2026-02-02T18:52:46+00:00",
+      "image": "https://cdn.prod.website-files.com/60540b6d30224a7cb015203a/6980f1f2a4185436856c2c76_S1%20distribution.png",
+      "source": "RadixDLT"
+    },
+    {
       "title": "Hyperscale Update: 500k+ Public Test Done | The Radix Blog | Radix DLT",
       "link": "https://www.radixdlt.com/blog/hyperscale-update-500k-public-test-done",
       "description": "Radix Hyperscale hits 500k+ TPS in public testing! Discover how linear scaling, cross-shard atomic transactions, and community nodes are redefining bl",
@@ -1297,15 +1306,6 @@
       "source": "RadixDLT"
     },
     {
-      "title": "Breakthrough in Consensus Theory: Scaling DeFi Without Breaking Composability | The Radix Blog | Radix DLT",
-      "link": "https://www.radixdlt.com/blog/breakthrough-in-consensus-theory-scaling-defi-without-breaking-composability",
-      "description": "",
-      "date": "Wed, 04 Dec 2024 18:17:19 GMT",
-      "dateObj": "2024-12-04T18:17:19+00:00",
-      "image": "https://cdn.prod.website-files.com/60540b6d30224a7cb015203a/629dc4a3294b1f0d5c64a620_608bfc64dd9a04871647b78f_breakthrough-consensus-theory-1024x512.png",
-      "source": "RadixDLT"
-    },
-    {
       "title": "Pyth.Network: Smarter data for smarter contracts",
       "link": "https://www.youtube.com/watch?v=wyMVxSR9ngM",
       "description": "",
@@ -1657,5 +1657,5 @@
       "source": "Ociswap"
     }
   ],
-  "updated": "2026-02-02T18:07:44.424779"
+  "updated": "2026-02-02T23:03:35.662339"
 }
