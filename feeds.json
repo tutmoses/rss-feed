@@ -1,6 +1,15 @@
 {
   "items": [
     {
+      "title": "The Next Phase of Decentralization: RFPs for Gateway and Relay Services | The Radix Blog | Radix DLT",
+      "link": "https://www.radixdlt.com/blog/the-next-phase-of-decentralization-rfps-for-gateway-and-relay-services",
+      "description": "We're opening Requests for Proposal (RFPs) for three core components: the Babylon Gateway, the Signalling Server, and the Connect Relay. These are not",
+      "date": "Tue, 03 Feb 2026 17:07:14 GMT",
+      "dateObj": "2026-02-03T17:07:14+00:00",
+      "image": "https://cdn.prod.website-files.com/60540b6d30224a7cb015203a/69822ae1dd45dfe0cc464b27_Foundation%20RFPs.png",
+      "source": "RadixDLT"
+    },
+    {
       "title": "Radix Rewards S1 Distribution | The Radix Blog | Radix DLT",
       "link": "https://www.radixdlt.com/blog/radix-rewards-s1-distribution",
       "description": "On February 3rd, 2026, at approximately 16:00 UTC, the vesting for Radix Rewards Season 0 and Season 1 goes live. This release represents a total pool",
@@ -1297,15 +1306,6 @@
       "source": "RadixDLT"
     },
     {
-      "title": "ExpoLab partners with Radix to develop fast and secure financial DLT system | The Radix Blog | Radix DLT",
-      "link": "https://www.radixdlt.com/blog/expolab-partners-with-radix-to-develop-fast-and-secure-financial-blockchain-system",
-      "description": "",
-      "date": "Wed, 04 Dec 2024 18:17:19 GMT",
-      "dateObj": "2024-12-04T18:17:19+00:00",
-      "image": "https://cdn.prod.website-files.com/60540b6d30224a7cb015203a/629dc4c273d101b2f02f4e6b_608c01cd3ef1014029011ea7_Expolab-RADIX-1024x512.png",
-      "source": "RadixDLT"
-    },
-    {
       "title": "Pyth.Network: Smarter data for smarter contracts",
       "link": "https://www.youtube.com/watch?v=wyMVxSR9ngM",
       "description": "",
@@ -1657,5 +1657,5 @@
       "source": "Ociswap"
     }
   ],
-  "updated": "2026-02-03T16:13:16.051115"
+  "updated": "2026-02-03T17:16:21.525874"
 }
