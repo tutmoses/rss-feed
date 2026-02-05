@@ -1,6 +1,15 @@
 {
   "items": [
     {
+      "title": "Consultation: The Future of the Validator Subsidy | The Radix Blog | Radix DLT",
+      "link": "https://www.radixdlt.com/blog/consultation-the-future-of-the-validator-subsidy",
+      "description": "",
+      "date": "Thu, 05 Feb 2026 17:47:44 GMT",
+      "dateObj": "2026-02-05T17:47:44+00:00",
+      "image": "https://cdn.prod.website-files.com/60540b6d30224a7cb015203a/6984d75bfd6f2925776993ba_Validator%20Subsidy.png",
+      "source": "RadixDLT"
+    },
+    {
       "title": "The Next Phase of Decentralization: RFPs for Gateway and Relay Services | The Radix Blog | Radix DLT",
       "link": "https://www.radixdlt.com/blog/the-next-phase-of-decentralization-rfps-for-gateway-and-relay-services",
       "description": "We're opening Requests for Proposal (RFPs) for three core components: the Babylon Gateway, the Signalling Server, and the Connect Relay. These are not",
@@ -1297,15 +1306,6 @@
       "source": "RadixDLT"
     },
     {
-      "title": "Explain it like I'm 5 - Consensus vs Sybil | The Radix Blog | Radix DLT",
-      "link": "https://www.radixdlt.com/blog/explain-it-like-im-5-consensus-vs-sybil",
-      "description": "",
-      "date": "Wed, 04 Dec 2024 18:17:19 GMT",
-      "dateObj": "2024-12-04T18:17:19+00:00",
-      "image": "https://cdn.prod.website-files.com/60540b6d30224a7cb015203a/629dc4bcc71d5f3332efa975_60927d265845ef1df2e4b21d_emily-morter-8xAA0f9yQnE-unsplash-scaled-1.jpeg",
-      "source": "RadixDLT"
-    },
-    {
       "title": "Pyth.Network: Smarter data for smarter contracts",
       "link": "https://www.youtube.com/watch?v=wyMVxSR9ngM",
       "description": "",
@@ -1657,5 +1657,5 @@
       "source": "Ociswap"
     }
   ],
-  "updated": "2026-02-05T17:14:27.927349"
+  "updated": "2026-02-05T18:12:27.827535"
 }
