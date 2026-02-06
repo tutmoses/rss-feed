@@ -1,6 +1,15 @@
 {
   "items": [
     {
+      "title": "Consultation Results: Defining Eligible Assets for Snapshots | The Radix Blog | Radix DLT",
+      "link": "https://www.radixdlt.com/blog/consultation-results-defining-eligible-assets-for-snapshots",
+      "description": "",
+      "date": "Fri, 06 Feb 2026 17:33:59 GMT",
+      "dateObj": "2026-02-06T17:33:59+00:00",
+      "image": "https://cdn.prod.website-files.com/60540b6d30224a7cb015203a/698624ab640bc8cd9f3b7333_Assets%20Restult.png",
+      "source": "RadixDLT"
+    },
+    {
       "title": "Consultation: The Future of the Validator Subsidy | The Radix Blog | Radix DLT",
       "link": "https://www.radixdlt.com/blog/consultation-the-future-of-the-validator-subsidy",
       "description": "",
@@ -1297,15 +1306,6 @@
       "source": "RadixDLT"
     },
     {
-      "title": "Radix partners with top US research lab to bring its new Cerberus Consensus to life | The Radix Blog | Radix DLT",
-      "link": "https://www.radixdlt.com/blog/radix-partners-with-top-us-research-lab-to-bring-its-new-cerberus-consensus-to-life",
-      "description": "",
-      "date": "Wed, 04 Dec 2024 18:17:19 GMT",
-      "dateObj": "2024-12-04T18:17:19+00:00",
-      "image": "https://cdn.prod.website-files.com/60540b6d30224a7cb015203a/629dc4bb39b1d922dffa3822_60927f25c158803f815f1262_UC-davies.jpeg",
-      "source": "RadixDLT"
-    },
-    {
       "title": "Pyth.Network: Smarter data for smarter contracts",
       "link": "https://www.youtube.com/watch?v=wyMVxSR9ngM",
       "description": "",
@@ -1657,5 +1657,5 @@
       "source": "Ociswap"
     }
   ],
-  "updated": "2026-02-06T17:13:09.861737"
+  "updated": "2026-02-06T18:09:19.402532"
 }
