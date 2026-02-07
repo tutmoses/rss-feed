@@ -1,6 +1,15 @@
 {
   "items": [
     {
+      "title": "Consultation Results: Radix Accountability Council  | The Radix Blog | Radix DLT",
+      "link": "https://www.radixdlt.com/blog/consultation-results-radix-accountability-council",
+      "description": "",
+      "date": "Sat, 07 Feb 2026 11:30:53 GMT",
+      "dateObj": "2026-02-07T11:30:53+00:00",
+      "image": "https://cdn.prod.website-files.com/60540b6d30224a7cb015203a/69872212f1dcdbd9cb63dd44_RAC%20Results.png",
+      "source": "RadixDLT"
+    },
+    {
       "title": "Consultation Results: Defining Eligible Assets for Snapshots | The Radix Blog | Radix DLT",
       "link": "https://www.radixdlt.com/blog/consultation-results-defining-eligible-assets-for-snapshots",
       "description": "",
@@ -1297,15 +1306,6 @@
       "source": "RadixDLT"
     },
     {
-      "title": "We’re proud to publish the Cerberus Whitepaper! | The Radix Blog | Radix DLT",
-      "link": "https://www.radixdlt.com/blog/were-proud-to-publish-the-cerberus-whitepaper",
-      "description": "",
-      "date": "Wed, 04 Dec 2024 18:17:19 GMT",
-      "dateObj": "2024-12-04T18:17:19+00:00",
-      "image": "https://cdn.prod.website-files.com/60540b6d30224a7cb015203a/629dc4c25141a8df78dfd892_60928223f5b2fb01ac1eace0_We%25E2%2580%2599re-proud-to-publish-the-Cerberus-Whitepaper-1024x512.png",
-      "source": "RadixDLT"
-    },
-    {
       "title": "Pyth.Network: Smarter data for smarter contracts",
       "link": "https://www.youtube.com/watch?v=wyMVxSR9ngM",
       "description": "",
@@ -1657,5 +1657,5 @@
       "source": "Ociswap"
     }
   ],
-  "updated": "2026-02-07T11:02:41.107756"
+  "updated": "2026-02-07T12:01:07.080636"
 }
