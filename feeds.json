@@ -1,6 +1,15 @@
 {
   "items": [
     {
+      "title": "Consultation Results: The Future of the Validator Subsidy | The Radix Blog | Radix DLT",
+      "link": "https://www.radixdlt.com/blog/consultation-results-the-future-of-the-validator-subsidy",
+      "description": "",
+      "date": "Fri, 13 Feb 2026 16:54:47 GMT",
+      "dateObj": "2026-02-13T16:54:47+00:00",
+      "image": "https://cdn.prod.website-files.com/60540b6d30224a7cb015203a/698f553c6eacb48f9a6e7921_Results%20Validator%20Subsidy.png",
+      "source": "RadixDLT"
+    },
+    {
       "title": "Consultation Results: Defining Eligible Assets for Snapshots | The Radix Blog | Radix DLT",
       "link": "https://www.radixdlt.com/blog/consultation-results-defining-eligible-assets-for-snapshots",
       "description": "",
@@ -1297,15 +1306,6 @@
       "source": "RadixDLT"
     },
     {
-      "title": "Why DAGs Don't Scale Without Centralization | The Radix Blog | Radix DLT",
-      "link": "https://www.radixdlt.com/blog/dags-dont-scale-without-centralization",
-      "description": "DAGs are capable of scaling beyond current blockchains. But just as blockchains will hit a limit on how much they can scale, so too will DAGs.",
-      "date": "Wed, 04 Dec 2024 18:17:19 GMT",
-      "dateObj": "2024-12-04T18:17:19+00:00",
-      "image": "https://cdn.prod.website-files.com/60540b6d30224a7cb015203a/629dc4bb9cdc6e17fa4f08d8_60b8af366640126056396fc4_DAGs.jpeg",
-      "source": "RadixDLT"
-    },
-    {
       "title": "Pyth.Network: Smarter data for smarter contracts",
       "link": "https://www.youtube.com/watch?v=wyMVxSR9ngM",
       "description": "",
@@ -1657,5 +1657,5 @@
       "source": "Ociswap"
     }
   ],
-  "updated": "2026-02-13T16:11:00.096455"
+  "updated": "2026-02-13T17:14:04.999665"
 }
