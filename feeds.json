@@ -1,6 +1,15 @@
 {
   "items": [
     {
+      "title": "Foundation Update: Moving to Maintenance Mode | The Radix Blog | Radix DLT",
+      "link": "https://www.radixdlt.com/blog/foundation-update-moving-to-maintenance-mode",
+      "description": "",
+      "date": "Tue, 28 Apr 2026 19:08:50 GMT",
+      "dateObj": "2026-04-28T19:08:50+00:00",
+      "image": "https://cdn.prod.website-files.com/60540b6d30224a7cb015203a/69f104bba24d46bcf51d665e_Foundation%20Update.png",
+      "source": "RadixDLT"
+    },
+    {
       "title": "Interim Hyperscale: Closing the Chapter | The Radix Blog | Radix DLT",
       "link": "https://www.radixdlt.com/blog/interim-hyperscale-closing-the-chapter",
       "description": "",
@@ -1297,15 +1306,6 @@
       "source": "RadixDLT"
     },
     {
-      "title": "Cerberus Infographic Series - Chapter I | The Radix Blog | Radix DLT",
-      "link": "https://www.radixdlt.com/blog/cerberus-infographic-series-chapter-i",
-      "description": "At Radix, our strategic vision has always been to build a single decentralized network that can scale DeFi seamlessly to every single person on the pl",
-      "date": "Wed, 04 Dec 2024 18:17:19 GMT",
-      "dateObj": "2024-12-04T18:17:19+00:00",
-      "image": "https://cdn.prod.website-files.com/60540b6d30224a7cb015203a/629dc4a39cdc6e1ab44f07fc_60c357171c12f741d21ecc70_I.png",
-      "source": "RadixDLT"
-    },
-    {
       "title": "Pyth.Network: Smarter data for smarter contracts",
       "link": "https://www.youtube.com/watch?v=wyMVxSR9ngM",
       "description": "",
@@ -1657,5 +1657,5 @@
       "source": "Ociswap"
     }
   ],
-  "updated": "2026-04-28T18:25:59.285971"
+  "updated": "2026-04-28T19:29:11.631519"
 }
