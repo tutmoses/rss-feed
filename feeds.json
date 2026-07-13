@@ -1,6 +1,51 @@
 {
   "items": [
     {
+      "title": "Hyperscale Weekly — Week #9 · 6–12 Jul 2026",
+      "link": "https://telegram-mcp-phi.vercel.app/2026-07-12",
+      "description": "A new Quint model now mechanically proves the entire reshape lifecycle — splits, merges, ready signals, and staffing — is safe under formal analysis.",
+      "date": "2026-07-12",
+      "dateObj": "2026-07-12T00:00:00",
+      "image": "https://telegram-mcp-phi.vercel.app/2026-07-12/opengraph-image?96f0d257f3700532",
+      "source": "Hyperscale Weekly"
+    },
+    {
+      "title": "Hyperscale Weekly — Week #8 · 29 Jun – 5 Jul 2026",
+      "link": "https://telegram-mcp-phi.vercel.app/2026-07-05",
+      "description": "The beacon's rare double-commit safety gap is now closed, mutually excluded, and proven in math.",
+      "date": "2026-07-05",
+      "dateObj": "2026-07-05T00:00:00",
+      "image": "https://telegram-mcp-phi.vercel.app/2026-07-05/opengraph-image?96f0d257f3700532",
+      "source": "Hyperscale Weekly"
+    },
+    {
+      "title": "Hyperscale Weekly — Week #7 · 22–28 Jun 2026",
+      "link": "https://telegram-mcp-phi.vercel.app/2026-06-28",
+      "description": "The simulator and production code now run the exact same test scenarios end-to-end — the closest the project has come to one source of truth for what ",
+      "date": "2026-06-28",
+      "dateObj": "2026-06-28T00:00:00",
+      "image": "https://telegram-mcp-phi.vercel.app/2026-06-28/opengraph-image?96f0d257f3700532",
+      "source": "Hyperscale Weekly"
+    },
+    {
+      "title": "Hyperscale Weekly — Week #6 · 15–21 Jun 2026",
+      "link": "https://telegram-mcp-phi.vercel.app/2026-06-21",
+      "description": "The simulator and the production test suite are now running the same epochs, the same follower pools, and deterministic iteration — the first realisti",
+      "date": "2026-06-21",
+      "dateObj": "2026-06-21T00:00:00",
+      "image": "https://telegram-mcp-phi.vercel.app/2026-06-21/opengraph-image?96f0d257f3700532",
+      "source": "Hyperscale Weekly"
+    },
+    {
+      "title": "Hyperscale Weekly — Week #5 · 8–14 Jun 2026",
+      "link": "https://telegram-mcp-phi.vercel.app/2026-06-14",
+      "description": "The settled-waves fence is now in place, so cross-shard transactions survive a shard split or merge without getting lost or silently double-spent.",
+      "date": "2026-06-14",
+      "dateObj": "2026-06-14T00:00:00",
+      "image": "https://telegram-mcp-phi.vercel.app/2026-06-14/opengraph-image?96f0d257f3700532",
+      "source": "Hyperscale Weekly"
+    },
+    {
       "title": "Foundation Update: Moving to Maintenance Mode | The Radix Blog | Radix DLT",
       "link": "https://www.radixdlt.com/blog/foundation-update-moving-to-maintenance-mode",
       "description": "",
@@ -1567,5 +1612,5 @@
       "source": "Ociswap"
     }
   ],
-  "updated": "2026-07-13T13:53:34.664006"
+  "updated": "2026-07-13T16:01:51.021505"
 }
