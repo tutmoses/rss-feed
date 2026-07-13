@@ -23,6 +23,7 @@ jobs:
         import json
         from datetime import datetime
         import re
+        import html
         from email.utils import parsedate_to_datetime
 
         feeds = [
@@ -106,6 +107,53 @@ jobs:
                 except:
                     return datetime.min
 
+        # --- Hyperscale Weekly: flightofthefox's weekly hyperscale-rs digest.
+        # It publishes no RSS/JSON feed, so scrape the index for its dated weekly
+        # pages and read each page's metadata (title / description / og:image).
+        HW_BASE = 'https://telegram-mcp-phi.vercel.app'
+        HW_MAX = 5  # newest N weeks (they sort to the top; keep modest so other news still shows)
+
+        def hw_meta(page, prop):
+            m = re.search(r'<meta[^>]+(?:name|property)=["\']' + re.escape(prop) + r'["\'][^>]+content=["\'](.*?)["\']', page, re.DOTALL)
+            return html.unescape(m.group(1).strip()) if m else ''
+
+        def fetch_hyperscale_weekly():
+            result = []
+            try:
+                req = urllib.request.Request(HW_BASE + '/', headers={'User-Agent': 'Mozilla/5.0'})
+                index = urllib.request.urlopen(req, timeout=15).read().decode('utf-8', 'ignore')
+            except Exception as e:
+                print(f"Error fetching Hyperscale Weekly index: {e}")
+                return result
+            seen = []
+            for href in re.findall(r'href="(/20\d{2}-\d{2}-\d{2})"', index):
+                if href not in seen:
+                    seen.append(href)
+            for href in seen[:HW_MAX]:
+                url = HW_BASE + href
+                try:
+                    req = urllib.request.Request(url, headers={'User-Agent': 'Mozilla/5.0'})
+                    page = urllib.request.urlopen(req, timeout=15).read().decode('utf-8', 'ignore')
+                except Exception as e:
+                    print(f"  Error fetching {href}: {e}")
+                    continue
+                title = hw_meta(page, 'og:title')
+                if not title:
+                    t = re.search(r'<title>(.*?)</title>', page, re.DOTALL)
+                    title = html.unescape(re.sub(r'\s+', ' ', t.group(1)).strip()) if t else ''
+                iso = href.strip('/')
+                result.append({
+                    'title': title or f"Hyperscale Weekly {iso}",
+                    'link': url,
+                    'description': hw_meta(page, 'description')[:150],
+                    'date': iso,
+                    'dateObj': parse_date(iso).isoformat(),
+                    'image': hw_meta(page, 'og:image'),
+                    'source': 'Hyperscale Weekly',
+                })
+            print(f"Found {len(result)} items in Hyperscale Weekly")
+            return result
+
         for feed in feeds:
             try:
                 print(f"Fetching {feed['name']} from {feed['url']}")
@@ -162,6 +210,9 @@ jobs:
                 print(f"Error fetching {feed['name']}: {str(e)}")
                 import traceback
                 traceback.print_exc()
+
+        # Append the Hyperscale Weekly digest (scraped; it has no feed of its own)
+        items.extend(fetch_hyperscale_weekly())
 
         # Sort by parsed date (newest first)
         items.sort(key=lambda x: x['dateObj'], reverse=True)
