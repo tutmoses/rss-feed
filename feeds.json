@@ -1,6 +1,15 @@
 {
   "items": [
     {
+      "title": "Hyperscale Weekly — Week #10 · 13–19 Jul 2026",
+      "link": "https://telegram-mcp-phi.vercel.app/2026-07-19",
+      "description": "A complete halt-recovery system now lets a frozen shard be detected, re-staffed, and restored without losing or duplicating cross-shard transactions.",
+      "date": "2026-07-19",
+      "dateObj": "2026-07-19T00:00:00",
+      "image": "https://telegram-mcp-phi.vercel.app/2026-07-19/opengraph-image?96f0d257f3700532",
+      "source": "Hyperscale Weekly"
+    },
+    {
       "title": "Hyperscale Weekly — Week #9 · 6–12 Jul 2026",
       "link": "https://telegram-mcp-phi.vercel.app/2026-07-12",
       "description": "A new Quint model now mechanically proves the entire reshape lifecycle — splits, merges, ready signals, and staffing — is safe under formal analysis.",
@@ -34,15 +43,6 @@
       "date": "2026-06-21",
       "dateObj": "2026-06-21T00:00:00",
       "image": "https://telegram-mcp-phi.vercel.app/2026-06-21/opengraph-image?96f0d257f3700532",
-      "source": "Hyperscale Weekly"
-    },
-    {
-      "title": "Hyperscale Weekly — Week #5 · 8–14 Jun 2026",
-      "link": "https://telegram-mcp-phi.vercel.app/2026-06-14",
-      "description": "The settled-waves fence is now in place, so cross-shard transactions survive a shard split or merge without getting lost or silently double-spent.",
-      "date": "2026-06-14",
-      "dateObj": "2026-06-14T00:00:00",
-      "image": "https://telegram-mcp-phi.vercel.app/2026-06-14/opengraph-image?96f0d257f3700532",
       "source": "Hyperscale Weekly"
     },
     {
@@ -1612,5 +1612,5 @@
       "source": "Ociswap"
     }
   ],
-  "updated": "2026-07-20T01:19:52.897300"
+  "updated": "2026-07-20T05:24:34.127353"
 }
