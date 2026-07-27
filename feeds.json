@@ -1,6 +1,15 @@
 {
   "items": [
     {
+      "title": "Hyperscale Weekly — Week #11 · 20–26 Jul 2026",
+      "link": "https://telegram-mcp-phi.vercel.app/2026-07-26",
+      "description": "The exact moment a shard splits or merges is now derived through a single, tested, formally modeled path — the keystone of adaptive sharding.",
+      "date": "2026-07-26",
+      "dateObj": "2026-07-26T00:00:00",
+      "image": "https://telegram-mcp-phi.vercel.app/2026-07-26/opengraph-image?96f0d257f3700532",
+      "source": "Hyperscale Weekly"
+    },
+    {
       "title": "Hyperscale Weekly — Week #10 · 13–19 Jul 2026",
       "link": "https://telegram-mcp-phi.vercel.app/2026-07-19",
       "description": "A complete halt-recovery system now lets a frozen shard be detected, re-staffed, and restored without losing or duplicating cross-shard transactions.",
@@ -34,15 +43,6 @@
       "date": "2026-06-28",
       "dateObj": "2026-06-28T00:00:00",
       "image": "https://telegram-mcp-phi.vercel.app/2026-06-28/opengraph-image?96f0d257f3700532",
-      "source": "Hyperscale Weekly"
-    },
-    {
-      "title": "Hyperscale Weekly — Week #6 · 15–21 Jun 2026",
-      "link": "https://telegram-mcp-phi.vercel.app/2026-06-21",
-      "description": "The simulator and the production test suite are now running the same epochs, the same follower pools, and deterministic iteration — the first realisti",
-      "date": "2026-06-21",
-      "dateObj": "2026-06-21T00:00:00",
-      "image": "https://telegram-mcp-phi.vercel.app/2026-06-21/opengraph-image?96f0d257f3700532",
       "source": "Hyperscale Weekly"
     },
     {
@@ -1612,5 +1612,5 @@
       "source": "Ociswap"
     }
   ],
-  "updated": "2026-07-27T01:26:42.076002"
+  "updated": "2026-07-27T05:35:57.753353"
 }
