@@ -34,6 +34,7 @@ jobs:
             {'url': 'https://medium.com/feed/@delphibets', 'name': 'DelphiBets'},
             {'url': 'https://www.youtube.com/feeds/videos.xml?channel_id=UCWz_uLkOCrmSUnLAxSY4N5Q', 'name': 'RadixDLTyouTube'},
             {'url': 'https://medium.com/feed/@astrolescent', 'name': 'Astrolescent'},
+            {'url': 'https://radix.wiki/blog.xml', 'name': 'RADIX.wiki Blog'},
         ]
 
         items = []
@@ -188,7 +189,8 @@ jobs:
                                    extract_text(r'<updated[^>]*>(.*?)</updated>', item_xml) or
                                    extract_text(r'<dc:date[^>]*>(.*?)</dc:date>', item_xml))
                         
-                        image = extract_image(item_xml)
+                        # XML escapes ampersands, so query-string image URLs arrive as `?a=1&amp;b=2`
+                        image = html.unescape(extract_image(item_xml))
                         
                         # Debug: Print image extraction for Medium feeds
                         if feed['name'] in ['Astrolescent', 'DelphiBets'] and title:
