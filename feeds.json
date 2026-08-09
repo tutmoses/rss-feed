@@ -1,15 +1,6 @@
 {
   "items": [
     {
-      "title": "Radix Week in Review: All Throttle, No Governor",
-      "link": "https://radix.wiki/blog/week-in-review-2026-08-09",
-      "description": "Hyperscale finished Milestone 1 and published its new execution engine. The DAO's governance contract went live on mainnet with every counter at zero.",
-      "date": "Sun, 09 Aug 2026 00:00:00 GMT",
-      "dateObj": "2026-08-09T00:00:00+00:00",
-      "image": "https://radix.wiki/og?title=Radix+Week+in+Review%3A+All+Throttle%2C+No+Governor&description=Hyperscale+finished+Milestone+1+and+published+its+new+execution+engine.+The+DAO%27s+governance+contract+went+live+on+mainnet+with+every+counter+at+zero.&tagPath=blog",
-      "source": "RADIX.wiki Blog"
-    },
-    {
       "title": "Radix Week in Review: You Cannot Widen a Road Into a Railway",
       "link": "https://radix.wiki/blog/week-in-review-2026-08-02",
       "description": "Hyperscale will not run the Radix Engine. A purpose-built VM is underway, and the two migration paths that would have spared existing dApps have",
@@ -1756,5 +1747,5 @@
       "source": "Ociswap"
     }
   ],
-  "updated": "2026-08-09T11:17:29.538837"
+  "updated": "2026-08-09T12:20:57.657787"
 }
