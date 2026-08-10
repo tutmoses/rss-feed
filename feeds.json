@@ -10,6 +10,15 @@
       "source": "RADIX.wiki Blog"
     },
     {
+      "title": "Hyperscale Weekly — Week #13 · 3–9 Aug 2026",
+      "link": "https://telegram-mcp-phi.vercel.app/2026-08-09",
+      "description": "The codebase now runs on one engine with zero external Radix dependencies — a clean foundation for everything Milestone 2 will build.",
+      "date": "2026-08-09",
+      "dateObj": "2026-08-09T00:00:00",
+      "image": "https://telegram-mcp-phi.vercel.app/2026-08-09/opengraph-image?96f0d257f3700532",
+      "source": "Hyperscale Weekly"
+    },
+    {
       "title": "Radix Week in Review: You Cannot Widen a Road Into a Railway",
       "link": "https://radix.wiki/blog/week-in-review-2026-08-02",
       "description": "Hyperscale will not run the Radix Engine. A purpose-built VM is underway, and the two migration paths that would have spared existing dApps have",
@@ -79,15 +88,6 @@
       "date": "2026-07-12",
       "dateObj": "2026-07-12T00:00:00",
       "image": "https://telegram-mcp-phi.vercel.app/2026-07-12/opengraph-image?96f0d257f3700532",
-      "source": "Hyperscale Weekly"
-    },
-    {
-      "title": "Hyperscale Weekly — Week #8 · 29 Jun – 5 Jul 2026",
-      "link": "https://telegram-mcp-phi.vercel.app/2026-07-05",
-      "description": "The beacon's rare double-commit safety gap is now closed, mutually excluded, and proven in math.",
-      "date": "2026-07-05",
-      "dateObj": "2026-07-05T00:00:00",
-      "image": "https://telegram-mcp-phi.vercel.app/2026-07-05/opengraph-image?96f0d257f3700532",
       "source": "Hyperscale Weekly"
     },
     {
@@ -1756,5 +1756,5 @@
       "source": "Ociswap"
     }
   ],
-  "updated": "2026-08-10T03:02:51.247815"
+  "updated": "2026-08-10T05:12:22.512413"
 }
