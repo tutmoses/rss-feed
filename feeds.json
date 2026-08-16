@@ -1,6 +1,15 @@
 {
   "items": [
     {
+      "title": "Radix Week in Review: No Authority Without a Badge",
+      "link": "https://radix.wiki/blog/week-in-review-2026-08-16",
+      "description": "Hyperscale's VM registered a post-quantum signature scheme on Sunday. The week's other work, in code and in the DAO, was proving who is allowed to",
+      "date": "Sun, 16 Aug 2026 00:00:00 GMT",
+      "dateObj": "2026-08-16T00:00:00+00:00",
+      "image": "https://radix.wiki/og?title=Radix+Week+in+Review%3A+No+Authority+Without+a+Badge&description=Hyperscale%27s+VM+registered+a+post-quantum+signature+scheme+on+Sunday.+The+week%27s+other+work%2C+in+code+and+in+the+DAO%2C+was+proving+who+is+allowed+to&tagPath=blog",
+      "source": "RADIX.wiki Blog"
+    },
+    {
       "title": "Radix Week in Review: All Throttle, No Governor",
       "link": "https://radix.wiki/blog/week-in-review-2026-08-09",
       "description": "Hyperscale finished Milestone 1 and published its new execution engine. The DAO's governance contract went live on mainnet with every counter at zero.",
@@ -1756,5 +1765,5 @@
       "source": "Ociswap"
     }
   ],
-  "updated": "2026-08-16T11:08:13.673770"
+  "updated": "2026-08-16T12:11:58.151729"
 }
