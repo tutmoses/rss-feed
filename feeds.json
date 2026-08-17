@@ -10,6 +10,15 @@
       "source": "RADIX.wiki Blog"
     },
     {
+      "title": "Hyperscale Weekly — Week #14 · 10–16 Aug 2026",
+      "link": "https://telegram-mcp-phi.vercel.app/2026-08-16",
+      "description": "The authorization model now uses badges and proofs instead of raw signatures — a fundamental shift bringing the Radix Engine's access control to the s",
+      "date": "2026-08-16",
+      "dateObj": "2026-08-16T00:00:00",
+      "image": "https://telegram-mcp-phi.vercel.app/2026-08-16/opengraph-image?96f0d257f3700532",
+      "source": "Hyperscale Weekly"
+    },
+    {
       "title": "Radix Week in Review: All Throttle, No Governor",
       "link": "https://radix.wiki/blog/week-in-review-2026-08-09",
       "description": "Hyperscale finished Milestone 1 and published its new execution engine. The DAO's governance contract went live on mainnet with every counter at zero.",
@@ -89,15 +98,6 @@
       "dateObj": "2026-07-12T00:00:00+00:00",
       "image": "https://radix.wiki/og?title=Radix+Week+in+Review%3A+The+Protocol+Outgrows+Its+Company&description=With+the+Foundation+in+maintenance+mode%2C+this+week%E2%80%99s+Radix+news+came+entirely+from+the+community%3A+hyperscale-rs%2C+new+dev+tooling%2C+and+self-governance.&tagPath=blog",
       "source": "RADIX.wiki Blog"
-    },
-    {
-      "title": "Hyperscale Weekly — Week #9 · 6–12 Jul 2026",
-      "link": "https://telegram-mcp-phi.vercel.app/2026-07-12",
-      "description": "A new Quint model now mechanically proves the entire reshape lifecycle — splits, merges, ready signals, and staffing — is safe under formal analysis.",
-      "date": "2026-07-12",
-      "dateObj": "2026-07-12T00:00:00",
-      "image": "https://telegram-mcp-phi.vercel.app/2026-07-12/opengraph-image?96f0d257f3700532",
-      "source": "Hyperscale Weekly"
     },
     {
       "title": "Foundation Update: Moving to Maintenance Mode | The Radix Blog | Radix DLT",
@@ -1765,5 +1765,5 @@
       "source": "Ociswap"
     }
   ],
-  "updated": "2026-08-17T04:28:30.131967"
+  "updated": "2026-08-17T05:23:39.421155"
 }
