@@ -1,6 +1,15 @@
 {
   "items": [
     {
+      "title": "Radix Week in Review",
+      "link": "https://radix.wiki/blog/week-in-review",
+      "description": "Every Radix Week in Review, and a scored record of what the ecosystem predicted.",
+      "date": "Tue, 18 Aug 2026 19:37:22 GMT",
+      "dateObj": "2026-08-18T19:37:22+00:00",
+      "image": "https://radix.wiki/og?title=Radix+Week+in+Review&description=Every+Radix+Week+in+Review%2C+and+a+scored+record+of+what+the+ecosystem+predicted.&tagPath=blog",
+      "source": "RADIX.wiki Blog"
+    },
+    {
       "title": "Radix Week in Review: No Authority Without a Badge",
       "link": "https://radix.wiki/blog/week-in-review-2026-08-16",
       "description": "Hyperscale's VM registered a post-quantum signature scheme on Sunday. The week's other work, in code and in the DAO, was proving who is allowed to",
@@ -111,19 +120,19 @@
     {
       "title": "Radix Week in Review: Mar 16–22, 2026",
       "link": "https://radix.wiki/blog/week-in-review-mar-16-22-2026",
-      "description": "It has been one month since the Radix Foundation open-sourced all Hyperscale code, documentation, and operational tooling . The sustained 500K+ TPS",
+      "description": "One month after the Foundation open-sourced Hyperscale, the community held the code, the documentation and the tooling behind the 500K TPS result.",
       "date": "Sun, 22 Mar 2026 00:00:00 GMT",
       "dateObj": "2026-03-22T00:00:00+00:00",
-      "image": "https://radix.wiki/og?title=Radix+Week+in+Review%3A+Mar+16%E2%80%9322%2C+2026&description=It+has+been+one+month+since+the+Radix+Foundation+open-sourced+all+Hyperscale+code%2C+documentation%2C+and+operational+tooling+.+The+sustained+500K%2B+TPS&tagPath=blog",
+      "image": "https://radix.wiki/og?title=Radix+Week+in+Review%3A+Mar+16%E2%80%9322%2C+2026&description=One+month+after+the+Foundation+open-sourced+Hyperscale%2C+the+community+held+the+code%2C+the+documentation+and+the+tooling+behind+the+500K+TPS+result.&tagPath=blog",
       "source": "RADIX.wiki Blog"
     },
     {
       "title": "Radix Week in Review: Mar 9–15, 2026",
       "link": "https://radix.wiki/blog/week-in-review-mar-9-15-2026",
-      "description": "The next phase of decentralization is underway. The Radix Foundation has opened RFPs for community and commercial operators to take over three",
+      "description": "The Foundation opened RFPs for community and commercial operators to take over three priority services, starting the handover of its own",
       "date": "Sun, 15 Mar 2026 00:00:00 GMT",
       "dateObj": "2026-03-15T00:00:00+00:00",
-      "image": "https://radix.wiki/og?title=Radix+Week+in+Review%3A+Mar+9%E2%80%9315%2C+2026&description=The+next+phase+of+decentralization+is+underway.+The+Radix+Foundation+has+opened+RFPs+for+community+and+commercial+operators+to+take+over+three&tagPath=blog",
+      "image": "https://radix.wiki/og?title=Radix+Week+in+Review%3A+Mar+9%E2%80%9315%2C+2026&description=The+Foundation+opened+RFPs+for+community+and+commercial+operators+to+take+over+three+priority+services%2C+starting+the+handover+of+its+own&tagPath=blog",
       "source": "RADIX.wiki Blog"
     },
     {
@@ -1765,5 +1774,5 @@
       "source": "Ociswap"
     }
   ],
-  "updated": "2026-08-18T19:18:22.988158"
+  "updated": "2026-08-18T20:08:41.847436"
 }
