@@ -1,15 +1,6 @@
 {
   "items": [
     {
-      "title": "Radix Week in Review: What an Operator Can Take With Them",
-      "link": "https://radix.wiki/blog/week-in-review-2026-08-23",
-      "description": "CaviarNine is leaving Radix, Avaunt sold its validator for 1,456,311 XRD in one atomic transaction, and Stokenet is deleted on Saturday week.",
-      "date": "Sun, 23 Aug 2026 00:00:00 GMT",
-      "dateObj": "2026-08-23T00:00:00+00:00",
-      "image": "https://radix.wiki/og?title=Radix+Week+in+Review%3A+What+an+Operator+Can+Take+With+Them&description=CaviarNine+is+leaving+Radix%2C+Avaunt+sold+its+validator+for+1%2C456%2C311+XRD+in+one+atomic+transaction%2C+and+Stokenet+is+deleted+on+Saturday+week.&tagPath=blog",
-      "source": "RADIX.wiki Blog"
-    },
-    {
       "title": "Radix Week in Review",
       "link": "https://radix.wiki/blog/week-in-review",
       "description": "Every Radix Week in Review, and a scored record of what the ecosystem predicted.",
@@ -1783,5 +1774,5 @@
       "source": "Ociswap"
     }
   ],
-  "updated": "2026-08-23T12:12:50.965061"
+  "updated": "2026-08-23T13:22:54.273504"
 }
