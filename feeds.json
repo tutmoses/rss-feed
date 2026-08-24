@@ -10,6 +10,15 @@
       "source": "RADIX.wiki Blog"
     },
     {
+      "title": "Hyperscale Weekly — Week #15 · 17–23 Aug 2026",
+      "link": "https://telegram-mcp-phi.vercel.app/2026-08-23",
+      "description": "The VM can now formally describe and validate its own component layouts, event payloads, and resource identities — turning runtime crashes into compil",
+      "date": "2026-08-23",
+      "dateObj": "2026-08-23T00:00:00",
+      "image": "https://telegram-mcp-phi.vercel.app/2026-08-23/opengraph-image?96f0d257f3700532",
+      "source": "Hyperscale Weekly"
+    },
+    {
       "title": "Radix Week in Review",
       "link": "https://radix.wiki/blog/week-in-review",
       "description": "Every Radix Week in Review, and a scored record of what the ecosystem predicted.",
@@ -98,15 +107,6 @@
       "dateObj": "2026-07-19T00:00:00+00:00",
       "image": "https://radix.wiki/og?title=Radix+Week+in+Review%3A+The+Walls+Rise+Before+the+Council+Sits&description=The+week+Radix%27s+Hyperscale+consensus+neared+completion+while+the+community+moved+to+seat+the+permanent+council+that+will+govern+what+it+builds.&tagPath=blog",
       "source": "RADIX.wiki Blog"
-    },
-    {
-      "title": "Hyperscale Weekly — Week #10 · 13–19 Jul 2026",
-      "link": "https://telegram-mcp-phi.vercel.app/2026-07-19",
-      "description": "A complete halt-recovery system now lets a frozen shard be detected, re-staffed, and restored without losing or duplicating cross-shard transactions.",
-      "date": "2026-07-19",
-      "dateObj": "2026-07-19T00:00:00",
-      "image": "https://telegram-mcp-phi.vercel.app/2026-07-19/opengraph-image?96f0d257f3700532",
-      "source": "Hyperscale Weekly"
     },
     {
       "title": "Radix Week in Review: The Protocol Outgrows Its Company",
@@ -1783,5 +1783,5 @@
       "source": "Ociswap"
     }
   ],
-  "updated": "2026-08-24T04:32:12.341490"
+  "updated": "2026-08-24T05:26:53.781443"
 }
