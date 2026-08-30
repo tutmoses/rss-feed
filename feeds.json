@@ -1,6 +1,15 @@
 {
   "items": [
     {
+      "title": "Radix Week in Review: A Threshold With One Hand Behind It",
+      "link": "https://radix.wiki/blog/week-in-review-2026-08-30",
+      "description": "A reset Stokenet crossed fifteen months of protocol history in one evening, because the rule that gates an upgrade is a stake threshold.",
+      "date": "Sun, 30 Aug 2026 00:00:00 GMT",
+      "dateObj": "2026-08-30T00:00:00+00:00",
+      "image": "https://radix.wiki/og?title=Radix+Week+in+Review%3A+A+Threshold+With+One+Hand+Behind+It&description=A+reset+Stokenet+crossed+fifteen+months+of+protocol+history+in+one+evening%2C+because+the+rule+that+gates+an+upgrade+is+a+stake+threshold.&tagPath=blog",
+      "source": "RADIX.wiki Blog"
+    },
+    {
       "title": "Radix Week in Review: What an Operator Can Take With Them",
       "link": "https://radix.wiki/blog/week-in-review-2026-08-23",
       "description": "CaviarNine is leaving Radix, Avaunt sold its validator for 1,456,311 XRD in one atomic transaction, and Stokenet is deleted on Saturday week.",
@@ -1783,5 +1792,5 @@
       "source": "Ociswap"
     }
   ],
-  "updated": "2026-08-30T11:09:42.237212"
+  "updated": "2026-08-30T15:32:36.791379"
 }
