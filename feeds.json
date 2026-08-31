@@ -10,6 +10,15 @@
       "source": "RADIX.wiki Blog"
     },
     {
+      "title": "Hyperscale Weekly — Week #16 · 24–30 Aug 2026",
+      "link": "https://telegram-mcp-phi.vercel.app/2026-08-30",
+      "description": "The Radix Engine now rejects an enormous range of invalid constructions — bad shapes, duplicate fields, half-applied token changes — before code ever ",
+      "date": "2026-08-30",
+      "dateObj": "2026-08-30T00:00:00",
+      "image": "https://telegram-mcp-phi.vercel.app/2026-08-30/opengraph-image?96f0d257f3700532",
+      "source": "Hyperscale Weekly"
+    },
+    {
       "title": "Radix Week in Review: What an Operator Can Take With Them",
       "link": "https://radix.wiki/blog/week-in-review-2026-08-23",
       "description": "CaviarNine is leaving Radix, Avaunt sold its validator for 1,456,311 XRD in one atomic transaction, and Stokenet is deleted on Saturday week.",
@@ -98,15 +107,6 @@
       "dateObj": "2026-07-26T00:00:00+00:00",
       "image": "https://radix.wiki/og?title=Radix+Week+in+Review%3A+Show+Your+Work&description=The+week+Radix+argued+its+case+in+public%3A+a+point-by-point+answer+to+a+decade-old+sharding+exam%2C+and+a+DAO+now+about+a+month+from+launch.&tagPath=blog",
       "source": "RADIX.wiki Blog"
-    },
-    {
-      "title": "Hyperscale Weekly — Week #11 · 20–26 Jul 2026",
-      "link": "https://telegram-mcp-phi.vercel.app/2026-07-26",
-      "description": "The exact moment a shard splits or merges is now derived through a single, tested, formally modeled path — the keystone of adaptive sharding.",
-      "date": "2026-07-26",
-      "dateObj": "2026-07-26T00:00:00",
-      "image": "https://telegram-mcp-phi.vercel.app/2026-07-26/opengraph-image?96f0d257f3700532",
-      "source": "Hyperscale Weekly"
     },
     {
       "title": "Radix Week in Review: The Walls Rise Before the Council Sits",
@@ -1792,5 +1792,5 @@
       "source": "Ociswap"
     }
   ],
-  "updated": "2026-08-31T02:58:06.725060"
+  "updated": "2026-08-31T09:14:03.448376"
 }
