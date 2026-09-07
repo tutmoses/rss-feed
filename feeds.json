@@ -10,6 +10,15 @@
       "source": "RADIX.wiki Blog"
     },
     {
+      "title": "Hyperscale Weekly — Week #17 · 31 Aug – 6 Sept 2026",
+      "link": "https://telegram-mcp-phi.vercel.app/2026-09-06",
+      "description": "The substate sweep gives the network its first real garbage collection — automatically tracking and removing state that nothing can reach anymore.",
+      "date": "2026-09-06",
+      "dateObj": "2026-09-06T00:00:00",
+      "image": "https://telegram-mcp-phi.vercel.app/2026-09-06/opengraph-image?96f0d257f3700532",
+      "source": "Hyperscale Weekly"
+    },
+    {
       "title": "Radix Week in Review: A Test Network Replays Fifteen Months in Two Hours",
       "link": "https://radix.wiki/blog/week-in-review-2026-08-30",
       "description": "A rebuilt Stokenet caught up on three protocol updates in under two hours, because what gates an update is a stake threshold rather than a date.",
@@ -98,15 +107,6 @@
       "dateObj": "2026-08-02T00:00:00+00:00",
       "image": "https://radix.wiki/og?title=Radix+Week+in+Review%3A+Hyperscale+Gets+Its+Own+Virtual+Machine&description=A+sharded+Radix+network+now+runs+in+a+browser+tab%2C+and+Hyperscale+will+get+a+purpose-built+virtual+machine+rather+than+reusing+the+Radix+Engine.&tagPath=blog",
       "source": "RADIX.wiki Blog"
-    },
-    {
-      "title": "Hyperscale Weekly — Week #12 · 27 Jul – 2 Aug 2026",
-      "link": "https://telegram-mcp-phi.vercel.app/2026-08-02",
-      "description": "Committee rotation — the one-seat-at-a-time shuffling at the core of adaptive sharding — is now wired in and running make-before-break.",
-      "date": "2026-08-02",
-      "dateObj": "2026-08-02T00:00:00",
-      "image": "https://telegram-mcp-phi.vercel.app/2026-08-02/opengraph-image?96f0d257f3700532",
-      "source": "Hyperscale Weekly"
     },
     {
       "title": "Radix Week in Review: Hyperscale Answers the Sharding Questions",
@@ -1792,5 +1792,5 @@
       "source": "Ociswap"
     }
   ],
-  "updated": "2026-09-07T00:24:21.159317"
+  "updated": "2026-09-07T05:20:09.664509"
 }
