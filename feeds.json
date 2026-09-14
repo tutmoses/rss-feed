@@ -10,6 +10,15 @@
       "source": "RADIX.wiki Blog"
     },
     {
+      "title": "Hyperscale Weekly — Week #18 · 7–13 Sept 2026",
+      "link": "https://telegram-mcp-phi.vercel.app/2026-09-13",
+      "description": "The VM execution model was rewritten around a single core boundary — the largest architectural change of Milestone 2 so far.",
+      "date": "2026-09-13",
+      "dateObj": "2026-09-13T00:00:00",
+      "image": "https://telegram-mcp-phi.vercel.app/2026-09-13/opengraph-image?96f0d257f3700532",
+      "source": "Hyperscale Weekly"
+    },
+    {
       "title": "Radix Week in Review: Rehearsing the Restart",
       "link": "https://radix.wiki/blog/week-in-review-2026-09-06",
       "description": "The fix for the bug that stopped Radix is written and about to be rehearsed on the test network. The DAO’s incorporation went ahead regardless.",
@@ -98,15 +107,6 @@
       "dateObj": "2026-08-09T00:00:00+00:00",
       "image": "https://radix.wiki/og?title=Radix+Week+in+Review%3A+Milestone+1+Done%2C+and+the+New+Engine+Goes+Public&description=The+Rust+rebuild+finished+its+first+milestone%2C+the+execution+engine+that+sits+on+top+of+it+became+public+code%2C+and+Scrypto+survives+the+change.&tagPath=blog",
       "source": "RADIX.wiki Blog"
-    },
-    {
-      "title": "Hyperscale Weekly — Week #13 · 3–9 Aug 2026",
-      "link": "https://telegram-mcp-phi.vercel.app/2026-08-09",
-      "description": "The codebase now runs on one engine with zero external Radix dependencies — a clean foundation for everything Milestone 2 will build.",
-      "date": "2026-08-09",
-      "dateObj": "2026-08-09T00:00:00",
-      "image": "https://telegram-mcp-phi.vercel.app/2026-08-09/opengraph-image?96f0d257f3700532",
-      "source": "Hyperscale Weekly"
     },
     {
       "title": "Radix Week in Review: Hyperscale Gets Its Own Virtual Machine",
@@ -1792,5 +1792,5 @@
       "source": "Ociswap"
     }
   ],
-  "updated": "2026-09-14T01:53:42.009809"
+  "updated": "2026-09-14T07:14:56.205327"
 }
