@@ -1,6 +1,15 @@
 {
   "items": [
     {
+      "title": "Public Incident Report: Vault-Authorisation Vulnerability and Loss of Network Liveness | The Radix Blog | Radix DLT",
+      "link": "https://www.radixdlt.com/blog/public-incident-report-vault-authorisation-vulnerability-2026",
+      "description": "",
+      "date": "Thu, 17 Sep 2026 08:12:10 GMT",
+      "dateObj": "2026-09-17T08:12:10+00:00",
+      "image": "https://www.radixdlt.com/assets/public-incident-report-radix-foundation-v4.png",
+      "source": "RadixDLT"
+    },
+    {
       "title": "Radix Week in Review: Mainnet Restarts, Exchanges Stay Shut",
       "link": "https://radix.wiki/blog/week-in-review-2026-09-13",
       "description": "Radix mainnet restarted on 11 September running the Eagle Ray fix. Exchanges have not reopened XRD, and third-party records still carry the halt.",
@@ -1387,15 +1396,6 @@
       "source": "RadixDLT"
     },
     {
-      "title": "Ecosystem Fund Update: New Directions for Growth and Support | The Radix Blog | Radix DLT",
-      "link": "https://www.radixdlt.com/blog/ecosystem-fund-update-new-directions-for-growth-and-support",
-      "description": "",
-      "date": "Wed, 20 Nov 2024 15:57:01 GMT",
-      "dateObj": "2024-11-20T15:57:01+00:00",
-      "image": "https://www.radixdlt.com/assets/673ca0f3614b8581267586c8_Radix-Ecosystem-Fund-Update-New-Directions-1.png",
-      "source": "RadixDLT"
-    },
-    {
       "title": "DORITO - NEW MEME Coin With LEGIT Utility.. Save Money",
       "link": "https://www.youtube.com/watch?v=h6jCI_1Zyxs",
       "description": "",
@@ -1792,5 +1792,5 @@
       "source": "Ociswap"
     }
   ],
-  "updated": "2026-09-17T12:18:58.688530"
+  "updated": "2026-09-17T17:19:18.205403"
 }
