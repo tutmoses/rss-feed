@@ -1,6 +1,15 @@
 {
   "items": [
     {
+      "title": "Radix Week in Review: The Incident Report, and One Exchange Back",
+      "link": "https://radix.wiki/blog/week-in-review-2026-09-20",
+      "description": "The Radix Foundation published its report on the 31 August defect, KuCoin reopened XRD trading, and the engine source shows where the check was",
+      "date": "Sun, 20 Sep 2026 00:00:00 GMT",
+      "dateObj": "2026-09-20T00:00:00+00:00",
+      "image": "https://radix.wiki/og?title=Radix+Week+in+Review%3A+The+Incident+Report%2C+and+One+Exchange+Back&description=The+Radix+Foundation+published+its+report+on+the+31+August+defect%2C+KuCoin+reopened+XRD+trading%2C+and+the+engine+source+shows+where+the+check+was&tagPath=blog",
+      "source": "RADIX.wiki Blog"
+    },
+    {
       "title": "Public Incident Report: Vault-Authorisation Vulnerability and Loss of Network Liveness | The Radix Blog | Radix DLT",
       "link": "https://www.radixdlt.com/blog/public-incident-report-vault-authorisation-vulnerability-2026",
       "description": "",
@@ -1612,15 +1621,6 @@
       "source": "Ociswap"
     },
     {
-      "title": "Radix Is Florence",
-      "link": "https://radix.wiki/blog/radix-is-florence",
-      "description": "7 min read Web1, 2 and 3 have all been compared to the Industrial Revolution because each has introduced new systems and organizations with the",
-      "date": "Fri, 03 Nov 2023 00:00:00 GMT",
-      "dateObj": "2023-11-03T00:00:00+00:00",
-      "image": "https://radix.wiki/og?title=Radix+Is+Florence&description=7+min+read+Web1%2C+2+and+3+have+all+been+compared+to+the+Industrial+Revolution+because+each+has+introduced+new+systems+and+organizations+with+the&tagPath=blog&banner=https%3A%2F%2Fj9ytchrzkvqpcul7.public.blob.vercel-storage.com%2Ffe9b76fd-ceb0-4c14-9977-ce0076ea289a.jpg",
-      "source": "RADIX.wiki Blog"
-    },
-    {
       "title": "Why List on Ociswap?",
       "link": "https://ociswap.com/blog/why-list-on-ociswap",
       "description": "Two Ociswap Advantages to make your token launch a success!",
@@ -1792,5 +1792,5 @@
       "source": "Ociswap"
     }
   ],
-  "updated": "2026-09-20T07:09:30.234176"
+  "updated": "2026-09-20T12:40:09.869643"
 }
