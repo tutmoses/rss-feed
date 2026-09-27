@@ -1,6 +1,15 @@
 {
   "items": [
     {
+      "title": "Radix Week in Review: Four Validators, One Transaction",
+      "link": "https://radix.wiki/blog/week-in-review-2026-09-27",
+      "description": "One transaction queued fee rises on four validators holding 418.8M XRD, the DAO's ratification vote opened, and recoverable USDC went to a vote.",
+      "date": "Sun, 27 Sep 2026 00:00:00 GMT",
+      "dateObj": "2026-09-27T00:00:00+00:00",
+      "image": "https://radix.wiki/og?title=Radix+Week+in+Review%3A+Four+Validators%2C+One+Transaction&description=One+transaction+queued+fee+rises+on+four+validators+holding+418.8M+XRD%2C+the+DAO%27s+ratification+vote+opened%2C+and+recoverable+USDC+went+to+a+vote.&tagPath=blog",
+      "source": "RADIX.wiki Blog"
+    },
+    {
       "title": "Radix Week in Review: The Incident Report, and One Exchange Back",
       "link": "https://radix.wiki/blog/week-in-review-2026-09-20",
       "description": "The Radix Foundation published its report on the 31 August defect, KuCoin reopened XRD trading, and the engine source shows where the check was",
@@ -1594,15 +1603,6 @@
       "source": "CaviarNine"
     },
     {
-      "title": "A Year in Review 2023",
-      "link": "https://radix.wiki/blog/a-year-in-review-2023",
-      "description": "2 min read Here are a few of our closing thoughts on an amazing year for RADIX.wiki and the Radix ecosystem in general. At a high level, our visitor",
-      "date": "Sun, 31 Dec 2023 00:00:00 GMT",
-      "dateObj": "2023-12-31T00:00:00+00:00",
-      "image": "https://radix.wiki/og?title=A+Year+in+Review+2023&description=2+min+read+Here+are+a+few+of+our+closing+thoughts+on+an+amazing+year+for+RADIX.wiki+and+the+Radix+ecosystem+in+general.+At+a+high+level%2C+our+visitor&tagPath=blog&banner=https%3A%2F%2Fj9ytchrzkvqpcul7.public.blob.vercel-storage.com%2F050aba52-af03-42ac-be11-676dae690b96.webp",
-      "source": "RADIX.wiki Blog"
-    },
-    {
       "title": "Development Update: Ociswap Hooks!",
       "link": "https://ociswap.com/blog/development-update-ociswap-hooks",
       "description": "We're hooked!",
@@ -1792,5 +1792,5 @@
       "source": "Ociswap"
     }
   ],
-  "updated": "2026-09-27T08:53:26.266815"
+  "updated": "2026-09-27T14:21:08.511068"
 }
