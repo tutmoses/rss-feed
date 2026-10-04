@@ -1,6 +1,15 @@
 {
   "items": [
     {
+      "title": "Radix Week in Review: The Charter Is Ratified",
+      "link": "https://radix.wiki/blog/week-in-review-2026-10-04",
+      "description": "XRD holders ratified the Radix DAO Charter, one account left Polaris ahead of a fee rise, and Radix Guild opened on mainnet.",
+      "date": "Sun, 04 Oct 2026 00:00:00 GMT",
+      "dateObj": "2026-10-04T00:00:00+00:00",
+      "image": "https://radix.wiki/og?title=Radix+Week+in+Review%3A+The+Charter+Is+Ratified&description=XRD+holders+ratified+the+Radix+DAO+Charter%2C+one+account+left+Polaris+ahead+of+a+fee+rise%2C+and+Radix+Guild+opened+on+mainnet.&tagPath=blog",
+      "source": "RADIX.wiki Blog"
+    },
+    {
       "title": "Radix Week in Review: Four Validators, One Transaction",
       "link": "https://radix.wiki/blog/week-in-review-2026-09-27",
       "description": "One transaction queued fee rises on four validators holding 418.8M XRD, the DAO's ratification vote opened, and recoverable USDC went to a vote.",
@@ -1567,15 +1576,6 @@
       "source": "CaviarNine"
     },
     {
-      "title": "POW vs POS: The Next Industrial Revolution",
-      "link": "https://radix.wiki/blog/pow-vs-pos-the-next-industrial-revolution",
-      "description": "7 min read The first Industrial Revolution saw society transformed by the power of coal. This former king of resources fueled the engines of",
-      "date": "Wed, 07 Feb 2024 00:00:00 GMT",
-      "dateObj": "2024-02-07T00:00:00+00:00",
-      "image": "https://radix.wiki/og?title=POW+vs+POS%3A+The+Next+Industrial+Revolution&description=7+min+read+The+first+Industrial+Revolution+saw+society+transformed+by+the+power+of+coal.+This+former+king+of+resources+fueled+the+engines+of&tagPath=blog&banner=https%3A%2F%2Fj9ytchrzkvqpcul7.public.blob.vercel-storage.com%2Fc7ad47be-f21c-4c90-9b2f-8d2c9b7901e6.webp",
-      "source": "RADIX.wiki Blog"
-    },
-    {
       "title": "Meme Coin Season",
       "link": "https://ociswap.com/blog/meme-coin-season",
       "description": "Is there method in the meme coin madness?",
@@ -1792,5 +1792,5 @@
       "source": "Ociswap"
     }
   ],
-  "updated": "2026-10-04T09:22:56.400920"
+  "updated": "2026-10-04T15:00:31.261794"
 }
