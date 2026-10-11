@@ -1,6 +1,15 @@
 {
   "items": [
     {
+      "title": "Radix Week in Review: A Refund List for the Stuck hUSDC",
+      "link": "https://radix.wiki/blog/week-in-review-2026-10-11",
+      "description": "The stuck hUSDC has a refund list, 131m XRD left an offline validator, and two validators queued fee rises to 50%.",
+      "date": "Sun, 11 Oct 2026 00:00:00 GMT",
+      "dateObj": "2026-10-11T00:00:00+00:00",
+      "image": "https://radix.wiki/og?title=Radix+Week+in+Review%3A+A+Refund+List+for+the+Stuck+hUSDC&description=The+stuck+hUSDC+has+a+refund+list%2C+131m+XRD+left+an+offline+validator%2C+and+two+validators+queued+fee+rises+to+50%25.&tagPath=blog",
+      "source": "RADIX.wiki Blog"
+    },
+    {
       "title": "Radix Week in Review: The Charter Is Ratified",
       "link": "https://radix.wiki/blog/week-in-review-2026-10-04",
       "description": "XRD holders ratified the Radix DAO Charter, one account left Polaris ahead of a fee rise, and Radix Guild opened on mainnet.",
@@ -1513,15 +1522,6 @@
       "source": "DelphiBets"
     },
     {
-      "title": "RGH2024 Debrief",
-      "link": "https://radix.wiki/blog/rgh2024-debrief",
-      "description": "5 min read Over the April 20th weekend, while most of crypto was literally treading water in Dubai, we brought ~60 people for a next-gen hackathon on…",
-      "date": "Tue, 30 Apr 2024 00:00:00 GMT",
-      "dateObj": "2024-04-30T00:00:00+00:00",
-      "image": "https://radix.wiki/og?title=RGH2024+Debrief&description=5+min+read+Over+the+April+20th+weekend%2C+while+most+of+crypto+was+literally+treading+water+in+Dubai%2C+we+brought+%7E60+people+for+a+next-gen+hackathon+on%E2%80%A6&tagPath=blog&banner=https%3A%2F%2Fj9ytchrzkvqpcul7.public.blob.vercel-storage.com%2Ff5eac8d0-88c3-49a3-8ecd-157bda80e8ab.webp",
-      "source": "RADIX.wiki Blog"
-    },
-    {
       "title": "Make a Splash! SPLASH 1.5 Update",
       "link": "https://ociswap.com/blog/splash-update",
       "description": "At Ociswap, we're dedicated to continuously improving our platform to better serve our community and ecosystem. We’re excited announce the launch of t",
@@ -1792,5 +1792,5 @@
       "source": "Ociswap"
     }
   ],
-  "updated": "2026-10-11T07:55:06.427921"
+  "updated": "2026-10-11T14:25:56.592489"
 }
