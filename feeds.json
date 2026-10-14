@@ -282,10 +282,10 @@
     {
       "title": "Building Radix's Developer Pipeline: Nine Events and Counting!",
       "link": "https://radix.wiki/blog/building-radixs-developer-pipeline-nine-events-and-counting",
-      "description": "4 min read How university workshops can be the foundation for a self-sustaining Radix education movement. Since the Radix Wiki Hackathon back in",
+      "description": "4 min read How university workshops can be the foundation for a self-sustaining Radix education movement.",
       "date": "Mon, 02 Feb 2026 00:00:00 GMT",
       "dateObj": "2026-02-02T00:00:00+00:00",
-      "image": "https://radix.wiki/og?title=Building+Radix%27s+Developer+Pipeline%3A+Nine+Events+and+Counting%21&description=4+min+read+How+university+workshops+can+be+the+foundation+for+a+self-sustaining+Radix+education+movement.+Since+the+Radix+Wiki+Hackathon+back+in&tagPath=blog&banner=https%3A%2F%2Fj9ytchrzkvqpcul7.public.blob.vercel-storage.com%2F7e8645e6-c332-4810-9f52-078431c22712.webp",
+      "image": "https://radix.wiki/og?title=Building+Radix%27s+Developer+Pipeline%3A+Nine+Events+and+Counting%21&description=4+min+read+How+university+workshops+can+be+the+foundation+for+a+self-sustaining+Radix+education+movement.&tagPath=blog&banner=https%3A%2F%2Fj9ytchrzkvqpcul7.public.blob.vercel-storage.com%2F7e8645e6-c332-4810-9f52-078431c22712.webp",
       "source": "RADIX.wiki Blog"
     },
     {
@@ -1792,5 +1792,5 @@
       "source": "Ociswap"
     }
   ],
-  "updated": "2026-10-14T15:34:02.158125"
+  "updated": "2026-10-14T19:46:05.637141"
 }
