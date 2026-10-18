@@ -1,6 +1,15 @@
 {
   "items": [
     {
+      "title": "Radix Week in Review: Nine Accounts and Four Fees of 100%",
+      "link": "https://radix.wiki/blog/week-in-review-2026-10-18",
+      "description": "Hyperscale merged a network layer for home routers, nine accounts unstaked 326m $XRD, and four validators queued fees of 100%.",
+      "date": "Sun, 18 Oct 2026 00:00:00 GMT",
+      "dateObj": "2026-10-18T00:00:00+00:00",
+      "image": "https://radix.wiki/og?title=Radix+Week+in+Review%3A+Nine+Accounts+and+Four+Fees+of+100%25&description=Hyperscale+merged+a+network+layer+for+home+routers%2C+nine+accounts+unstaked+326m+%24XRD%2C+and+four+validators+queued+fees+of+100%25.&tagPath=blog",
+      "source": "RADIX.wiki Blog"
+    },
+    {
       "title": "Radix Week in Review: A Refund List for the Stuck hUSDC",
       "link": "https://radix.wiki/blog/week-in-review-2026-10-11",
       "description": "The stuck hUSDC has a refund list, 131m XRD left an offline validator, and two validators queued fee rises to 50%.",
@@ -1441,15 +1450,6 @@
       "source": "Kyle"
     },
     {
-      "title": "Radix is What Web3 Noobs Think They Bought",
-      "link": "https://radix.wiki/blog/radix-is-what-web3-noobs-think-they-bought",
-      "description": "6 min read The dream is real, but only Radix can deliver it. The promise of Web3 is an open-source state machine that brings permissionless finance",
-      "date": "Fri, 18 Oct 2024 00:00:00 GMT",
-      "dateObj": "2024-10-18T00:00:00+00:00",
-      "image": "https://radix.wiki/og?title=Radix+is+What+Web3+Noobs+Think+They+Bought&description=6+min+read+The+dream+is+real%2C+but+only+Radix+can+deliver+it.+The+promise+of+Web3+is+an+open-source+state+machine+that+brings+permissionless+finance&tagPath=blog&banner=https%3A%2F%2Fj9ytchrzkvqpcul7.public.blob.vercel-storage.com%2F689f1c9a-e165-4fe7-b6d6-ce93427281dd.webp",
-      "source": "RADIX.wiki Blog"
-    },
-    {
       "title": "Create & Join Pool Bets — DELPHIBETS V1.5 Now Live",
       "link": "https://medium.com/@delphibets/create-join-pool-bets-delphibets-v1-5-now-live-8af9b554cd8e?source=rss-d511bfdc4b6a------2",
       "description": "Create & Join Pool Bets — DELPHIBETS V1.5 Now LiveEarn big time by having many bettors choosing your market. Unlock yield potential with DELPHIBETS V1",
@@ -1792,5 +1792,5 @@
       "source": "Ociswap"
     }
   ],
-  "updated": "2026-10-18T21:57:48.115147"
+  "updated": "2026-10-18T23:50:54.666833"
 }
