@@ -1,12 +1,12 @@
 {
   "items": [
     {
-      "title": "Radix Week in Review: Seven Validators Hold a Third of Stake",
+      "title": "Radix Week in Review: Shards That Settle Before They Reshape",
       "link": "https://radix.wiki/blog/week-in-review-2026-10-25",
-      "description": "hyperscale-rs merged five pull requests, staked $XRD fell 432m, and seven validators now hold more than a third of active stake.",
+      "description": "hyperscale-rs taught shards to settle before they split or merge, Ociswap volume doubled, and 419k USDC came back from the stuck bridge transfer.",
       "date": "Sun, 25 Oct 2026 00:00:00 GMT",
       "dateObj": "2026-10-25T00:00:00+00:00",
-      "image": "https://radix.wiki/og?title=Radix+Week+in+Review%3A+Seven+Validators+Hold+a+Third+of+Stake&description=hyperscale-rs+merged+five+pull+requests%2C+staked+%24XRD+fell+432m%2C+and+seven+validators+now+hold+more+than+a+third+of+active+stake.&tagPath=blog",
+      "image": "https://radix.wiki/og?title=Radix+Week+in+Review%3A+Shards+That+Settle+Before+They+Reshape&description=hyperscale-rs+taught+shards+to+settle+before+they+split+or+merge%2C+Ociswap+volume+doubled%2C+and+419k+USDC+came+back+from+the+stuck+bridge+transfer.&tagPath=blog",
       "source": "RADIX.wiki Blog"
     },
     {
@@ -1792,5 +1792,5 @@
       "source": "Ociswap"
     }
   ],
-  "updated": "2026-10-25T20:03:02.240692"
+  "updated": "2026-10-25T22:51:19.544276"
 }
