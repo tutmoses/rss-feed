@@ -1,6 +1,15 @@
 {
   "items": [
     {
+      "title": "Radix Week in Review: Seven Validators Hold a Third of Stake",
+      "link": "https://radix.wiki/blog/week-in-review-2026-10-25",
+      "description": "hyperscale-rs merged five pull requests, staked $XRD fell 432m, and seven validators now hold more than a third of active stake.",
+      "date": "Sun, 25 Oct 2026 00:00:00 GMT",
+      "dateObj": "2026-10-25T00:00:00+00:00",
+      "image": "https://radix.wiki/og?title=Radix+Week+in+Review%3A+Seven+Validators+Hold+a+Third+of+Stake&description=hyperscale-rs+merged+five+pull+requests%2C+staked+%24XRD+fell+432m%2C+and+seven+validators+now+hold+more+than+a+third+of+active+stake.&tagPath=blog",
+      "source": "RADIX.wiki Blog"
+    },
+    {
       "title": "Radix Week in Review: Nine Accounts and Four Fees of 100%",
       "link": "https://radix.wiki/blog/week-in-review-2026-10-18",
       "description": "Hyperscale merged a network layer for home routers, nine accounts unstaked 326m $XRD, and four validators queued fees of 100%.",
@@ -1414,15 +1423,6 @@
       "source": "RadixDLT"
     },
     {
-      "title": "#DAppInADay Stage 1 Complete!",
-      "link": "https://radix.wiki/blog/dappinaday-stage-1-complete",
-      "description": "6 min read The end of the beginning… After a decade of building Radix, there's no time to lose in putting its tools into the hands of tomorrow's",
-      "date": "Wed, 27 Nov 2024 00:00:00 GMT",
-      "dateObj": "2024-11-27T00:00:00+00:00",
-      "image": "https://radix.wiki/og?title=%23DAppInADay+Stage+1+Complete%21&description=6+min+read+The+end+of+the+beginning%E2%80%A6+After+a+decade+of+building+Radix%2C+there%27s+no+time+to+lose+in+putting+its+tools+into+the+hands+of+tomorrow%27s&tagPath=blog&banner=https%3A%2F%2Fj9ytchrzkvqpcul7.public.blob.vercel-storage.com%2F507879c1-efb9-48f6-b870-5273a946fb1b.webp",
-      "source": "RADIX.wiki Blog"
-    },
-    {
       "title": "Runs on Radix dApp Demo: NFTwars",
       "link": "https://www.youtube.com/watch?v=ZFCXNAHbhzo",
       "description": "",
@@ -1792,5 +1792,5 @@
       "source": "Ociswap"
     }
   ],
-  "updated": "2026-10-25T10:13:59.447894"
+  "updated": "2026-10-25T14:36:32.624492"
 }
