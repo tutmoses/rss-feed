@@ -10,6 +10,15 @@
       "source": "RADIX.wiki Blog"
     },
     {
+      "title": "Hyperscale Weekly — Week #24 · 19–25 Oct 2026",
+      "link": "https://telegram-mcp-phi.vercel.app/2026-10-25",
+      "description": "Cross-shard crossing records can now only be retired when an attested certificate proves the transfer was actually taken — closing a trust gap in the ",
+      "date": "2026-10-25",
+      "dateObj": "2026-10-25T00:00:00",
+      "image": "https://telegram-mcp-phi.vercel.app/2026-10-25/opengraph-image?96f0d257f3700532",
+      "source": "Hyperscale Weekly"
+    },
+    {
       "title": "Radix Week in Review: Nine Accounts and Four Fees of 100%",
       "link": "https://radix.wiki/blog/week-in-review-2026-10-18",
       "description": "Hyperscale merged a network layer for home routers, nine accounts unstaked 326m $XRD, and four validators queued fees of 100%.",
@@ -89,15 +98,6 @@
       "dateObj": "2026-09-20T00:00:00+00:00",
       "image": "https://radix.wiki/og?title=Radix+Week+in+Review%3A+The+Incident+Report%2C+and+One+Exchange+Back&description=The+Radix+Foundation+published+its+report+on+the+31+August+defect%2C+KuCoin+reopened+XRD+trading%2C+and+the+engine+source+shows+where+the+check+was&tagPath=blog",
       "source": "RADIX.wiki Blog"
-    },
-    {
-      "title": "Hyperscale Weekly — Week #19 · 14–20 Sept 2026",
-      "link": "https://telegram-mcp-phi.vercel.app/2026-09-20",
-      "description": "The fee and resource-pricing system was wired end-to-end — from per-leaf read costs to the beacon's price table — the biggest push toward making trans",
-      "date": "2026-09-20",
-      "dateObj": "2026-09-20T00:00:00",
-      "image": "https://telegram-mcp-phi.vercel.app/2026-09-20/opengraph-image?96f0d257f3700532",
-      "source": "Hyperscale Weekly"
     },
     {
       "title": "Public Incident Report: Vault-Authorisation Vulnerability and Loss of Network Liveness | The Radix Blog | Radix DLT",
@@ -829,6 +829,15 @@
       "source": "Astrolescent"
     },
     {
+      "title": "Vultisig VULT News - Keeps Getting Better",
+      "link": "https://www.youtube.com/watch?v=Mtlnf8lKlfs",
+      "description": "",
+      "date": "2025-08-09T05:47:08+00:00",
+      "dateObj": "2025-08-09T05:47:08+00:00",
+      "image": "https://i2.ytimg.com/vi/Mtlnf8lKlfs/hqdefault.jpg",
+      "source": "Kyle"
+    },
+    {
       "title": "We’re Moving the Bridge to the Front Door",
       "link": "https://medium.com/@astrolescent/were-moving-the-bridge-to-the-front-door-61e703c12cf9?source=rss-d97e906cfa2a------2",
       "description": "Over the past year, something shifted.When we first launched Astrolescent, the main idea was to be a decentralized exchange aggregator for the Radix n",
@@ -1063,6 +1072,15 @@
       "source": "CaviarNine"
     },
     {
+      "title": "DORITO DEX With Lead Business Developer Thad - WHAT COMES NEXT??",
+      "link": "https://www.youtube.com/watch?v=-1hqwg2Xq34",
+      "description": "",
+      "date": "2025-03-04T10:16:05+00:00",
+      "dateObj": "2025-03-04T10:16:05+00:00",
+      "image": "https://i2.ytimg.com/vi/-1hqwg2Xq34/hqdefault.jpg",
+      "source": "Kyle"
+    },
+    {
       "title": "Delphibets V1.5 Beta Completed",
       "link": "https://medium.com/@delphibets/delphibets-v1-5-beta-completed-e9cc8de9d3c4?source=rss-d511bfdc4b6a------2",
       "description": "Delphibets V1.5 beta has been completed successfully. The final release candidate has recently gone live!5.28M+ $XRD in Volume870 User Badges CreatedP",
@@ -1115,6 +1133,15 @@
       "dateObj": "2025-02-03T14:34:10+00:00",
       "image": "https://www.radixdlt.com/assets/677d083084333c56ddb14da4_Radix-Grants-Spotlight-Ociswap.png",
       "source": "RadixDLT"
+    },
+    {
+      "title": "THORCHAIN Chat With Familiar Cow",
+      "link": "https://www.youtube.com/watch?v=hqlreDV-8JM",
+      "description": "",
+      "date": "2025-01-23T05:21:05+00:00",
+      "dateObj": "2025-01-23T05:21:05+00:00",
+      "image": "https://i1.ytimg.com/vi/hqlreDV-8JM/hqdefault.jpg",
+      "source": "Kyle"
     },
     {
       "title": "Meet the Project: RadXplorer  | The Radix Blog | Radix DLT",
@@ -1277,6 +1304,15 @@
       "dateObj": "2024-11-20T16:08:10+00:00",
       "image": "https://www.radixdlt.com/assets/673e0111fa9d40076a2d2b29_RoR_Blog_NFT-Wars.png",
       "source": "RadixDLT"
+    },
+    {
+      "title": "DORITO - NEW MEME Coin With LEGIT Utility.. Save Money",
+      "link": "https://www.youtube.com/watch?v=h6jCI_1Zyxs",
+      "description": "",
+      "date": "2024-10-18T05:08:49+00:00",
+      "dateObj": "2024-10-18T05:08:49+00:00",
+      "image": "https://i1.ytimg.com/vi/h6jCI_1Zyxs/hqdefault.jpg",
+      "source": "Kyle"
     },
     {
       "title": "Create & Join Pool Bets — DELPHIBETS V1.5 Now Live",
@@ -1567,6 +1603,15 @@
       "source": "Ociswap"
     },
     {
+      "title": "Crypto Lush Live Stream",
+      "link": "https://www.youtube.com/watch?v=h84MKqaswHs",
+      "description": "",
+      "date": "2023-03-23T13:30:02+00:00",
+      "dateObj": "2023-03-23T13:30:02+00:00",
+      "image": "https://i1.ytimg.com/vi/h84MKqaswHs/hqdefault.jpg",
+      "source": "Kyle"
+    },
+    {
       "title": "Countdown to Babylon… New Hires!",
       "link": "https://ociswap.com/blog/countdown-to-babylon-new-hires",
       "description": "A warm welcome to two smart cats! 😻",
@@ -1612,5 +1657,5 @@
       "source": "Ociswap"
     }
   ],
-  "updated": "2026-10-26T00:47:02.074509"
+  "updated": "2026-10-26T05:29:38.412053"
 }
