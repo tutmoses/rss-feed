@@ -1,6 +1,15 @@
 {
   "items": [
     {
+      "title": "Radix Week in Review: The DEX Pool Drain",
+      "link": "https://radix.wiki/blog/week-in-review-2026-11-15",
+      "description": "One account drained 1.32m $XRD from Radix DEX pools through two flaws, RDX sold 1.4bn $XRD over the counter, and 15 stood for the Permanent RAC.",
+      "date": "Sun, 15 Nov 2026 00:00:00 GMT",
+      "dateObj": "2026-11-15T00:00:00+00:00",
+      "image": "https://radix.wiki/og?title=Radix+Week+in+Review%3A+The+DEX+Pool+Drain&description=One+account+drained+1.32m+%24XRD+from+Radix+DEX+pools+through+two+flaws%2C+RDX+sold+1.4bn+%24XRD+over+the+counter%2C+and+15+stood+for+the+Permanent+RAC.&tagPath=blog",
+      "source": "RADIX.wiki Blog"
+    },
+    {
       "title": "Radix Week in Review: The hUSDC Refund Is Paid",
       "link": "https://radix.wiki/blog/week-in-review-2026-11-08",
       "description": "The recovered hUSDC reached 79 accounts, developers measured what a node and Gateway need, and hyperscale-rs named three workstreams.",
@@ -233,15 +242,6 @@
       "dateObj": "2026-04-29T16:28:37+00:00",
       "image": "https://www.radixdlt.com/assets/69f104bba24d46bcf51d665e_Foundation-Update.png",
       "source": "RadixDLT"
-    },
-    {
-      "title": "Radix Week in Review: A Month After the Foundation's Hyperscale Phase",
-      "link": "https://radix.wiki/blog/week-in-review-mar-16-22-2026",
-      "description": "A month after the Foundation closed its Hyperscale phase, the code behind its 500,000 transactions-per-second test was still unpublished.",
-      "date": "Sun, 22 Mar 2026 00:00:00 GMT",
-      "dateObj": "2026-03-22T00:00:00+00:00",
-      "image": "https://radix.wiki/og?title=Radix+Week+in+Review%3A+A+Month+After+the+Foundation%27s+Hyperscale+Phase&description=A+month+after+the+Foundation+closed+its+Hyperscale+phase%2C+the+code+behind+its+500%2C000+transactions-per-second+test+was+still+unpublished.&tagPath=blog",
-      "source": "RADIX.wiki Blog"
     },
     {
       "title": "Interim Hyperscale: Closing the Chapter | The Radix Blog | Radix DLT",
@@ -1792,5 +1792,5 @@
       "source": "Ociswap"
     }
   ],
-  "updated": "2026-11-15T08:30:13.300472"
+  "updated": "2026-11-15T15:55:14.379873"
 }
