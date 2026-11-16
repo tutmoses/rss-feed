@@ -10,6 +10,15 @@
       "source": "RADIX.wiki Blog"
     },
     {
+      "title": "Hyperscale Weekly — Week #27 · 9–15 Nov 2026",
+      "link": "https://telegram-mcp-phi.vercel.app/2026-11-15",
+      "description": "Certificates are now judged purely by the epoch they were signed for, so a lying or drifting clock can no longer change what counts as agreed.",
+      "date": "2026-11-15",
+      "dateObj": "2026-11-15T00:00:00",
+      "image": "https://telegram-mcp-phi.vercel.app/2026-11-15/opengraph-image?96f0d257f3700532",
+      "source": "Hyperscale Weekly"
+    },
+    {
       "title": "Radix Week in Review: The hUSDC Refund Is Paid",
       "link": "https://radix.wiki/blog/week-in-review-2026-11-08",
       "description": "The recovered hUSDC reached 79 accounts, developers measured what a node and Gateway need, and hyperscale-rs named three workstreams.",
@@ -89,15 +98,6 @@
       "dateObj": "2026-10-11T00:00:00+00:00",
       "image": "https://radix.wiki/og?title=Radix+Week+in+Review%3A+A+Refund+List+for+the+Stuck+hUSDC&description=The+stuck+hUSDC+has+a+refund+list%2C+131m+XRD+left+an+offline+validator%2C+and+two+validators+queued+fee+rises+to+50%25.&tagPath=blog",
       "source": "RADIX.wiki Blog"
-    },
-    {
-      "title": "Hyperscale Weekly — Week #22 · 5–11 Oct 2026",
-      "link": "https://telegram-mcp-phi.vercel.app/2026-10-11",
-      "description": "Cross-shard locks now provably resolve by deadline readings and abort deadlocked transactions, closing a whole class of stuck-state failures.",
-      "date": "2026-10-11",
-      "dateObj": "2026-10-11T00:00:00",
-      "image": "https://telegram-mcp-phi.vercel.app/2026-10-11/opengraph-image?96f0d257f3700532",
-      "source": "Hyperscale Weekly"
     },
     {
       "title": "Radix Week in Review: The Charter Is Ratified",
@@ -1612,5 +1612,5 @@
       "source": "Ociswap"
     }
   ],
-  "updated": "2026-11-16T00:26:58.175523"
+  "updated": "2026-11-16T07:23:36.903328"
 }
