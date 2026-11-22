@@ -1,6 +1,15 @@
 {
   "items": [
     {
+      "title": "Radix Week in Review: The Android Wallet Fix",
+      "link": "https://radix.wiki/blog/week-in-review-2026-11-22",
+      "description": "Radix Wallet for Android fixed a seed-phrase flaw, holders voted on the Permanent RAC candidate list, and 1.37bn $XRD from the OTC sale was staked.",
+      "date": "Sun, 22 Nov 2026 00:00:00 GMT",
+      "dateObj": "2026-11-22T00:00:00+00:00",
+      "image": "https://radix.wiki/og?title=Radix+Week+in+Review%3A+The+Android+Wallet+Fix&description=Radix+Wallet+for+Android+fixed+a+seed-phrase+flaw%2C+holders+voted+on+the+Permanent+RAC+candidate+list%2C+and+1.37bn+%24XRD+from+the+OTC+sale+was+staked.&tagPath=blog",
+      "source": "RADIX.wiki Blog"
+    },
+    {
       "title": "Radix Week in Review: The DEX Pool Drain",
       "link": "https://radix.wiki/blog/week-in-review-2026-11-15",
       "description": "One account drained 1.32m $XRD from Radix DEX pools through two flaws, RDX sold 1.4bn $XRD over the counter, and 15 stood for the Permanent RAC.",
@@ -223,15 +232,6 @@
       "date": "Sun, 19 Jul 2026 00:00:00 GMT",
       "dateObj": "2026-07-19T00:00:00+00:00",
       "image": "https://radix.wiki/og?title=Radix+Week+in+Review%3A+The+Consensus+Work+Is+Nearly+Done&description=The+consensus+half+of+the+Rust+rebuild+is+essentially+built+and+formally+verified%2C+and+after+a+week+of+worry%2C+candidates+began+standing+for+the&tagPath=blog",
-      "source": "RADIX.wiki Blog"
-    },
-    {
-      "title": "Radix Week in Review: hyperscale-rs Closes On Its First Milestone",
-      "link": "https://radix.wiki/blog/week-in-review-2026-07-12",
-      "description": "Everything that moved this week was built by the community: the Rust rebuild of Radix's scaling design, a Rust SDK, and Hookah going open source.",
-      "date": "Sun, 12 Jul 2026 00:00:00 GMT",
-      "dateObj": "2026-07-12T00:00:00+00:00",
-      "image": "https://radix.wiki/og?title=Radix+Week+in+Review%3A+hyperscale-rs+Closes+On+Its+First+Milestone&description=Everything+that+moved+this+week+was+built+by+the+community%3A+the+Rust+rebuild+of+Radix%27s+scaling+design%2C+a+Rust+SDK%2C+and+Hookah+going+open+source.&tagPath=blog",
       "source": "RADIX.wiki Blog"
     },
     {
@@ -1702,5 +1702,5 @@
       "source": "Ociswap"
     }
   ],
-  "updated": "2026-11-22T10:24:56.094453"
+  "updated": "2026-11-22T18:05:49.296617"
 }
