@@ -10,6 +10,15 @@
       "source": "RADIX.wiki Blog"
     },
     {
+      "title": "Hyperscale Weekly — Week #28 · 16–22 Nov 2026",
+      "link": "https://telegram-mcp-phi.vercel.app/2026-11-22",
+      "description": "No code landed this week — the story was flightofthefox candidly explaining why he won't take grants and why he won't promise dates.",
+      "date": "2026-11-22",
+      "dateObj": "2026-11-22T00:00:00",
+      "image": "https://telegram-mcp-phi.vercel.app/2026-11-22/opengraph-image?96f0d257f3700532",
+      "source": "Hyperscale Weekly"
+    },
+    {
       "title": "Radix Week in Review: The DEX Pool Drain",
       "link": "https://radix.wiki/blog/week-in-review-2026-11-15",
       "description": "One account drained 1.32m $XRD from Radix DEX pools through two flaws, RDX sold 1.4bn $XRD over the counter, and 15 stood for the Permanent RAC.",
@@ -89,15 +98,6 @@
       "dateObj": "2026-10-18T00:00:00+00:00",
       "image": "https://radix.wiki/og?title=Radix+Week+in+Review%3A+Nine+Accounts+and+Four+Fees+of+100%25&description=Hyperscale+merged+a+network+layer+for+home+routers%2C+nine+accounts+unstaked+326m+%24XRD%2C+and+four+validators+queued+fees+of+100%25.&tagPath=blog",
       "source": "RADIX.wiki Blog"
-    },
-    {
-      "title": "Hyperscale Weekly — Week #23 · 12–18 Oct 2026",
-      "link": "https://telegram-mcp-phi.vercel.app/2026-10-18",
-      "description": "The iroh networking backend is nearly production-ready, including relays and testbeds that prove validators can talk across ordinary home networks.",
-      "date": "2026-10-18",
-      "dateObj": "2026-10-18T00:00:00",
-      "image": "https://telegram-mcp-phi.vercel.app/2026-10-18/opengraph-image?96f0d257f3700532",
-      "source": "Hyperscale Weekly"
     },
     {
       "title": "Radix Week in Review: A Refund List for the Stuck hUSDC",
@@ -1702,5 +1702,5 @@
       "source": "Ociswap"
     }
   ],
-  "updated": "2026-11-23T04:15:13.087203"
+  "updated": "2026-11-23T15:27:54.077678"
 }
