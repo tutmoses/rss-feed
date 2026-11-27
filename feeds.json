@@ -10,15 +10,6 @@
       "source": "RADIX.wiki Blog"
     },
     {
-      "title": "Hyperscale Weekly — Week #28 · 16–22 Nov 2026",
-      "link": "https://telegram-mcp-phi.vercel.app/2026-11-22",
-      "description": "No code landed this week — the story was flightofthefox candidly explaining why he won't take grants and why he won't promise dates.",
-      "date": "2026-11-22",
-      "dateObj": "2026-11-22T00:00:00",
-      "image": "https://telegram-mcp-phi.vercel.app/2026-11-22/opengraph-image?96f0d257f3700532",
-      "source": "Hyperscale Weekly"
-    },
-    {
       "title": "Radix Week in Review: The DEX Pool Drain",
       "link": "https://radix.wiki/blog/week-in-review-2026-11-15",
       "description": "One account drained 1.32m $XRD from Radix DEX pools through two flaws, RDX sold 1.4bn $XRD over the counter, and 15 stood for the Permanent RAC.",
@@ -26,15 +17,6 @@
       "dateObj": "2026-11-15T00:00:00+00:00",
       "image": "https://radix.wiki/og?title=Radix+Week+in+Review%3A+The+DEX+Pool+Drain&description=One+account+drained+1.32m+%24XRD+from+Radix+DEX+pools+through+two+flaws%2C+RDX+sold+1.4bn+%24XRD+over+the+counter%2C+and+15+stood+for+the+Permanent+RAC.&tagPath=blog",
       "source": "RADIX.wiki Blog"
-    },
-    {
-      "title": "Hyperscale Weekly — Week #27 · 9–15 Nov 2026",
-      "link": "https://telegram-mcp-phi.vercel.app/2026-11-15",
-      "description": "Certificates are now judged purely by the epoch they were signed for, so a lying or drifting clock can no longer change what counts as agreed.",
-      "date": "2026-11-15",
-      "dateObj": "2026-11-15T00:00:00",
-      "image": "https://telegram-mcp-phi.vercel.app/2026-11-15/opengraph-image?96f0d257f3700532",
-      "source": "Hyperscale Weekly"
     },
     {
       "title": "Radix Week in Review: The hUSDC Refund Is Paid",
@@ -46,15 +28,6 @@
       "source": "RADIX.wiki Blog"
     },
     {
-      "title": "Hyperscale Weekly — Week #26 · 2–8 Nov 2026",
-      "link": "https://telegram-mcp-phi.vercel.app/2026-11-08",
-      "description": "The new VM now enforces that contracts can only ever read the exact cross-shard state that was proven and served to them.",
-      "date": "2026-11-08",
-      "dateObj": "2026-11-08T00:00:00",
-      "image": "https://telegram-mcp-phi.vercel.app/2026-11-08/opengraph-image?96f0d257f3700532",
-      "source": "Hyperscale Weekly"
-    },
-    {
       "title": "Radix Week in Review: The DAO Company Is Formed",
       "link": "https://radix.wiki/blog/week-in-review-2026-11-01",
       "description": "Radix DAO LLC was incorporated, the Foundation listed what it will hand over, an Ociswap pool lost 1.14m $XRD, and hyperscale-rs moved to iroh.",
@@ -64,15 +37,6 @@
       "source": "RADIX.wiki Blog"
     },
     {
-      "title": "Hyperscale Weekly — Week #25 · 26 Oct – 1 Nov 2026",
-      "link": "https://telegram-mcp-phi.vercel.app/2026-11-01",
-      "description": "The old libp2p networking transport was removed entirely, making iroh the one and only way Hyperscale nodes talk to each other.",
-      "date": "2026-11-01",
-      "dateObj": "2026-11-01T00:00:00",
-      "image": "https://telegram-mcp-phi.vercel.app/2026-11-01/opengraph-image?96f0d257f3700532",
-      "source": "Hyperscale Weekly"
-    },
-    {
       "title": "Radix Week in Review: Shards That Settle Before They Reshape",
       "link": "https://radix.wiki/blog/week-in-review-2026-10-25",
       "description": "hyperscale-rs taught shards to settle before they split or merge, Ociswap volume doubled, and 419k USDC came back from the stuck bridge transfer.",
@@ -80,15 +44,6 @@
       "dateObj": "2026-10-25T00:00:00+00:00",
       "image": "https://radix.wiki/og?title=Radix+Week+in+Review%3A+Shards+That+Settle+Before+They+Reshape&description=hyperscale-rs+taught+shards+to+settle+before+they+split+or+merge%2C+Ociswap+volume+doubled%2C+and+419k+USDC+came+back+from+the+stuck+bridge+transfer.&tagPath=blog",
       "source": "RADIX.wiki Blog"
-    },
-    {
-      "title": "Hyperscale Weekly — Week #24 · 19–25 Oct 2026",
-      "link": "https://telegram-mcp-phi.vercel.app/2026-10-25",
-      "description": "Cross-shard crossing records can now only be retired when an attested certificate proves the transfer was actually taken — closing a trust gap in the ",
-      "date": "2026-10-25",
-      "dateObj": "2026-10-25T00:00:00",
-      "image": "https://telegram-mcp-phi.vercel.app/2026-10-25/opengraph-image?96f0d257f3700532",
-      "source": "Hyperscale Weekly"
     },
     {
       "title": "Radix Week in Review: Nine Accounts and Four Fees of 100%",
@@ -1702,5 +1657,5 @@
       "source": "Ociswap"
     }
   ],
-  "updated": "2026-11-27T10:27:46.118636"
+  "updated": "2026-11-27T19:42:15.179968"
 }
